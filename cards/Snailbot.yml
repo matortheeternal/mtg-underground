@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Snailbot
+  manaCost:
+    __type: ManaCost
+    symbols: "4"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Snailbot.jpg
+    width: 1057
+    height: 756
+    cropWidth: 1057
+    cropHeight: 746
+    xOffset: 0
+    yOffset: 5
+  superType: Artifact Creature
+  subType: Snail Construct
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Itamar Reiner
+  autoCollectorNumber: CA02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+  flavorText: >-
+    “There are no hooks, no adhesive, and no detectable magic. So why is it
+    above us?”
+
+    —Ned, expedition engineer
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Snailbot

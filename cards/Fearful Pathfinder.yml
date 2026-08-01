@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Fearful Pathfinder
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Fearful%20Explorer.jpg
+    width: 600
+    height: 1354
+    cropWidth: 600
+    cropHeight: 457
+    xOffset: 0
+    yOffset: 249
+  superType: Creature
+  subType: Human Scout
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Felicia Cano
+  autoCollectorNumber: CW03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, target creature gets +2/+0 until end of turn.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Fearful Pathfinder
+imageExports:
+  front: blank-3 - 73967061.undefined

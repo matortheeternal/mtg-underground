@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Expedition Captain
+  manaCost:
+    __type: ManaCost
+    symbols: 4W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Caving%20Captain.jpg
+    width: 900
+    height: 613
+    cropWidth: 792
+    cropHeight: 559
+    xOffset: 58
+    yOffset: 39
+  superType: Creature
+  subType: Human Knight
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Andrew Clark
+  autoCollectorNumber: CW11
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Creatures you control have rally. (Whenever you cast a creature
+    spell, they get +1/+1 until end of turn.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Expedition Captain
+imageExports:
+  front: blank-10 - 8227bfb1.undefined

@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Reviver of the Depths
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Reviver%20of%20the%20Depths.jpg
+    width: 1024
+    height: 573
+    cropWidth: 812
+    cropHeight: 573
+    xOffset: 82
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Nexumorphic
+  autoCollectorNumber: CW08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: When this creature dies, return another target creature card with
+    mana value 2 or less from your graveyard to your hand.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Reviver of the Depths
+imageExports:
+  front: blank-7 - 0b01e657.undefined

@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Goblin Powderkeg
+  manaCost:
+    __type: ManaCost
+    symbols: 2R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Goblin%20Powderkeg.jpg
+    width: 1024
+    height: 636
+    cropWidth: 901
+    cropHeight: 636
+    xOffset: 17
+    yOffset: 0
+  superType: Creature
+  subType: Goblin
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Malte J. Zirbel
+  autoCollectorNumber: CR06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: "{1}{R}, {T}, Sacrifice this creature: This creature deals 3 damage
+    to target creature an opponent controls."
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Goblin Powderkeg

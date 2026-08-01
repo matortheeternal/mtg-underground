@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Fungal Courser
+  manaCost:
+    __type: ManaCost
+    symbols: 3GG
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Fungus%20Deer.jpg
+    width: 1123
+    height: 712
+    cropWidth: 932
+    cropHeight: 658
+    xOffset: 96
+    yOffset: 17
+  superType: Creature
+  subType: Fungus Deer
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Anton Kurbatov
+  autoCollectorNumber: CG11
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Rush {2} (You may cast this spell for {2} less. If you do, at the beginning
+    of your next upkeep, sacrifice it unless you pay {2}.)
+
+
+    Escort (As this creature attacks, choose another attacking creature. That
+    creature can’t be blocked unless this creature is also blocked.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Fungal Courser

@@ -1,0 +1,58 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Boulder Borer
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mining%20Drone.jpg
+    width: 566
+    height: 800
+    cropWidth: 566
+    cropHeight: 414
+    xOffset: 0
+    yOffset: 238
+  superType: Artifact Creature
+  subType: Construct
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Matt Dixon
+  autoCollectorNumber: CA01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: "{T}: Add {C}."
+  flavorText: After countless centuries spent carving rock and smashing stone, it
+    has slowed only slightly.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Boulder Borer

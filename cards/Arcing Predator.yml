@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Arcing Predator
+  manaCost:
+    __type: ManaCost
+    symbols: 2RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/_%20Predator.jpg
+    width: 1000
+    height: 620
+    cropWidth: 879
+    cropHeight: 620
+    xOffset: 61
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Nicholas Cloister
+  autoCollectorNumber: CR07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Rush {1} (You may cast this spell for {1} less. If you do, at the
+    beginning of your next upkeep, sacrifice it unless you pay {1}.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Arcing Predator

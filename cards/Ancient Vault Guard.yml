@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ancient Vault Guard
+  manaCost:
+    __type: ManaCost
+    symbols: 4UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Ancient%20Vault%20Guard.jpg
+    width: 800
+    height: 1228
+    cropWidth: 800
+    cropHeight: 687
+    xOffset: 0
+    yOffset: 193
+  superType: Artifact Creature
+  subType: Construct
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "6"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CU10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Bulwark (This creature can block an additional creature each combat.)
+
+
+    Nullify (Whenever this creature blocks or becomes blocked by a creature,
+    that creature loses all abilities until end of combat.)
+  flavorText: '"STOP. Any intrusion beyond this zone will be met with lethal
+    force. STOP . . ."'
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "3"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Ancient Vault Guard
+imageExports:
+  front: blank-2 - 4749746e.undefined

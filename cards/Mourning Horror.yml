@@ -1,0 +1,61 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mourning Horror
+  manaCost:
+    __type: ManaCost
+    symbols: 2B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mourning%20Horror.jpg
+    width: 1089
+    height: 733
+    cropWidth: 1039
+    cropHeight: 733
+    xOffset: 25
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: common
+  illustrator: Endravae
+  autoCollectorNumber: CB06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+  flavorText: It weeps for every life it ends, then it searches for another.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Mourning Horror

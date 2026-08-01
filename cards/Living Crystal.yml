@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Living Crystal
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Living%20Crystal.jpg
+    width: 1192
+    height: 670
+    cropWidth: 702
+    cropHeight: 495
+    xOffset: 204
+    yOffset: 143
+  superType: Creature
+  subType: Elemental
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Las Pinter
+  autoCollectorNumber: CU02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Sleeper (This creature can’t attack unless it’s modified.)
+
+
+    Barrier {1} (If a source would deal damage to this creature, that source’s
+    controller may pay {1}. If they don’t, prevent that damage.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Living Crystal

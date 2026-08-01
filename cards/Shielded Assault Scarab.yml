@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Shielded Assault Scarab
+  manaCost:
+    __type: ManaCost
+    symbols: 3UU
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Shielded%20Assault%20Scarab.jpg
+    width: 1000
+    height: 625
+    cropWidth: 886
+    cropHeight: 625
+    xOffset: 57
+    yOffset: 0
+  superType: Artifact Creature
+  subType: Robot Insect
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CU09
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    Barrier {3} (If a source would deal damage to this creature, that source’s
+    controller may pay {3}. If they don’t, prevent that damage.)
+  flavorText: '"What is that thing?!"'
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Shielded Assault Scarab

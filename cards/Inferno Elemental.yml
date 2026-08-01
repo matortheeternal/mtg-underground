@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Inferno Elemental
+  manaCost:
+    __type: ManaCost
+    symbols: 4RR
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Inferno%20Elemental.jpg
+    width: 679
+    height: 950
+    cropWidth: 679
+    cropHeight: 479
+    xOffset: 0
+    yOffset: 196
+  superType: Creature
+  subType: Elemental
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Nicholas Cloister
+  autoCollectorNumber: CR11
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >
+    Rush {2} (You may cast this spell for {2} less. If you do, at the beginning
+    of your next upkeep, sacrifice it unless you pay {2}.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Inferno Elemental

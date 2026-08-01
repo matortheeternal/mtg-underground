@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Host of Hungry Spirits
+  manaCost:
+    __type: ManaCost
+    symbols: 3B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Master%20of%20Hungry%20Spirits.jpg
+    width: 827
+    height: 1064
+    cropWidth: 827
+    cropHeight: 617
+    xOffset: 0
+    yOffset: 203
+  superType: Creature
+  subType: Human Wizard
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Lariz Santos
+  autoCollectorNumber: CB08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Whenever this creature attacks, target attacking creature gains grind
+    until end of turn. (Whenever a creature with grind deals combat damage,
+    target player mills that many cards.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Host of Hungry Spirits

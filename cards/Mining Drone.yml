@@ -1,0 +1,57 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Mining Drone
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mining%20Drone.jpg
+    width: 566
+    height: 800
+    cropWidth: 566
+    cropHeight: 414
+    xOffset: 0
+    yOffset: 267
+  superType: Artifact Creature
+  subType: Construct
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Matt Dixon
+  autoCollectorNumber: CA01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: "{T}: Add {C}."
+  flavorText: ""
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Mining Drone

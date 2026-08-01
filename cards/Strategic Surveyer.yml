@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Strategic Surveyer
+  manaCost:
+    __type: ManaCost
+    symbols: 3W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Strategic%20Surveyor.jpg
+    width: 828
+    height: 1164
+    cropWidth: 828
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 102
+  superType: Creature
+  subType: Human Scout
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Bassi Patez
+  autoCollectorNumber: CW10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Whenever this creature attacks, another target attacking creature
+    gains retreat until end of turn. (Whenever a creature with retreat becomes
+    blocked, you may return it to its owner's hand.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Strategic Surveyer
+imageExports:
+  front: blank-9 - d1e8bc21.undefined

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Pale Wurm
+  manaCost:
+    __type: ManaCost
+    symbols: 3G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Pale%20Wurm.jpg
+    width: 1146
+    height: 697
+    cropWidth: 947
+    cropHeight: 668
+    xOffset: 179
+    yOffset: 0
+  superType: Creature
+  subType: Wurm
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Zyavera
+  autoCollectorNumber: CG08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: ""
+  flavorText: The scale of the Pale Wurm is harder than stone, has a luster as
+    bright as any gem, and is valued thrice as much. If they weren't such
+    dangerous predators, there certainly wouldn't be quite so many of them.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Pale Wurm

@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Climbing Gear
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Climbing%20Gear.jpg
+    width: 828
+    height: 1071
+    cropWidth: 828
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 118
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Mates Laurentiu
+  autoCollectorNumber: ""
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Equipped creature gets +1/+0 and has climbing.
+
+
+    Equip {1} ({1}: Attach to target creature you control. Equip only as a
+    sorcery.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: +1/-1 also possible, but maybe too complex for a common.
+tags: []
+baseName: Climbing Gear
