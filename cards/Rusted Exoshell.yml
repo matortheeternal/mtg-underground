@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Rusted Exoshell
+  manaCost:
+    __type: ManaCost
+    symbols: "0"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Rusted%20Exoshell.jpg
+    width: 3840
+    height: 4471
+    cropWidth: 3840
+    cropHeight: 2710
+    xOffset: 0
+    yOffset: 881
+  superType: Artifact
+  subType: Equipment
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Owen Yeung
+  autoCollectorNumber: CA04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    Equipped creature gets +2/+2.
+
+    Whenever equipped creature attacks, put a stun counter on it.
+
+    Equip {3}
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Rusted Exoshell

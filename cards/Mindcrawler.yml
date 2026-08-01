@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mindcrawler
+  manaCost:
+    __type: ManaCost
+    symbols: 2U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Mindcrawler.jpg
+    width: 800
+    height: 533
+    cropWidth: 755
+    cropHeight: 533
+    xOffset: 30
+    yOffset: 0
+  superType: Creature
+  subType: Insect Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Mike Sass
+  autoCollectorNumber: CU06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Grind (Whenever this creature deals combat damage, target player
+    mills that many cards.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Mindcrawler

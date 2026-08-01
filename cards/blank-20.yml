@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: ""
+  manaCost:
+    __type: ManaCost
+    symbols: 3R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-20.jpg
+    width: 1032
+    height: 774
+    cropWidth: 1032
+    cropHeight: 728
+    xOffset: 0
+    yOffset: 23
+  superType: Creature
+  subType: Insect Demon
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CR08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Deathlink (Whenever this creature deals combat damage, target player
+    loses that much life.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: blank-20

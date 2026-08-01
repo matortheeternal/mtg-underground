@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: ""
+  manaCost:
+    __type: ManaCost
+    symbols: 3BB
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-13.jpg
+    width: 1110
+    height: 720
+    cropWidth: 1020
+    cropHeight: 720
+    xOffset: 45
+    yOffset: 0
+  superType: Creature
+  subType: Spirit Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CB10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Deathlink (Whenever this creature deals combat damage, target player
+    loses that much life.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: blank-13

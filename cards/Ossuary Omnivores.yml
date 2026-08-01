@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Ossuary Omnivores
+  manaCost:
+    __type: ManaCost
+    symbols: 2B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Diseased%20Rats.jpg
+    width: 1024
+    height: 619
+    cropWidth: 877
+    cropHeight: 619
+    xOffset: 73
+    yOffset: 0
+  superType: Creature
+  subType: Rat
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Kyle Grech
+  autoCollectorNumber: CB05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Deathlink (Whenever this creature deals combat damage, target player
+    loses that much life.)
+  flavorText: They fed on a thousand bodies, but it would take ten thousand more
+    to satisfy them.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Ossuary Omnivores

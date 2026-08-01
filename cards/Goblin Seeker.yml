@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Goblin Seeker
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Goblin%20Seeker.jpg
+    width: 834
+    height: 959
+    cropWidth: 834
+    cropHeight: 589
+    xOffset: 0
+    yOffset: 59
+  superType: Creature
+  subType: Goblin Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Lucy Feriusz
+  autoCollectorNumber: CR04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: ""
+  flavorText: The start of an adventure may begin with one goblin's decision to
+    set out in search for treasure.
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Goblin Seeker

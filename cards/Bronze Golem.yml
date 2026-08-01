@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Bronze Golem
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Bronze%20Golem.jpg
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 80
+    yOffset: 0
+  superType: Artifact Creature
+  subType: Construct
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Gaidenlight
+  autoCollectorNumber: CG01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    Sleeper (This creature can’t attack unless it’s modified.)
+
+    {5}: Put a +1/+1 counter on this creature. Activate only as a sorcery.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Bronze Golem

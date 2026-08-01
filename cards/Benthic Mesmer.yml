@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Benthic Mesmer
+  manaCost:
+    __type: ManaCost
+    symbols: 2U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Benthic%20Mesmer.jpg
+    width: 1183
+    height: 676
+    cropWidth: 958
+    cropHeight: 676
+    xOffset: 107
+    yOffset: 0
+  superType: Creature
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CU04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, tap target creature an opponent controls and put
+    a stun counter on it.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Benthic Mesmer

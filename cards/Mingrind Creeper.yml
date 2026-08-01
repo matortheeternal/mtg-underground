@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Mingrind Creeper
+  manaCost:
+    __type: ManaCost
+    symbols: 1B
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-7.jpg
+    width: 1024
+    height: 594
+    cropWidth: 842
+    cropHeight: 594
+    xOffset: 91
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Joe Stiller
+  autoCollectorNumber: CB04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    {2}, {T}: Target player mills two cards.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Mingrind Creeper

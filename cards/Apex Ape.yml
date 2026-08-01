@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  name: Apex Ape
+  manaCost:
+    __type: ManaCost
+    symbols: 4R
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Apex%20Ape.jpg
+    width: 828
+    height: 1130
+    cropWidth: 828
+    cropHeight: 657
+    xOffset: 0
+    yOffset: 83
+  superType: Creature
+  subType: Ape
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Tom Long
+  autoCollectorNumber: CR10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Ravage (This creature can deal excess combat damage to another creature
+    defending player controls.)
+
+
+    {2}{R}, Discard this card: Draw a card. Creatures you control get +1/+0
+    until end of turn. Activate only as a sorcery.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Apex Ape

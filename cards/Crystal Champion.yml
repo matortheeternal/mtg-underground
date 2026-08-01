@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Crystal Champion
+  manaCost:
+    __type: ManaCost
+    symbols: 4WW
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Crystal%20Champion.jpg
+    width: 1225
+    height: 652
+    cropWidth: 811
+    cropHeight: 572
+    xOffset: 58
+    yOffset: 80
+  superType: Creature
+  subType: Human Scout Warrior
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "6"
+  showPT: true
+  rarity: common
+  illustrator: Damian Handzlik
+  autoCollectorNumber: CW12
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Escort (As this creature attacks, choose another attacking creature.
+    That creature can’t be blocked unless this creature is also blocked.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Crystal Champion
+imageExports:
+  front: blank-11 - 3951dc67.undefined

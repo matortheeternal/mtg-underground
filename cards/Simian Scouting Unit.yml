@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Simian Scouting Unit
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Simian%20Scouting%20Unit.jpg
+    width: 1148
+    height: 696
+    cropWidth: 986
+    cropHeight: 696
+    xOffset: 33
+    yOffset: 0
+  superType: Creature
+  subType: Ape Scout
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Elena Skitalets
+  autoCollectorNumber: CG02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    When this creature enters, scry 1.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Simian Scouting Unit

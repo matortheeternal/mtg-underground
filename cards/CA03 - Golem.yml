@@ -1,0 +1,57 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: CA03 - Golem
+  manaCost:
+    __type: ManaCost
+    symbols: "5"
+  artImage:
+    __type: image
+    imageUrl: null
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Artifact Creature
+  subType: Golem
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: ""
+  autoCollectorNumber: CA03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: ""
+  flavorText: flavor text
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: CA03 - Golem

@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Eight-Legged Escort
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Traveling%20Spider%20Crab.jpg
+    width: 869
+    height: 920
+    cropWidth: 869
+    cropHeight: 613
+    xOffset: 0
+    yOffset: 212
+  superType: Creature
+  subType: Crab
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Anton Kurbatov
+  autoCollectorNumber: CU03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Escort (As this creature attacks, choose another attacking creature.
+    That creature can’t be blocked unless this creature is also blocked.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Eight-Legged Escort

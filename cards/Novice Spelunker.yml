@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Novice Spelunker
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Novice%20Spelunker.jpg
+    width: 443
+    height: 1000
+    cropWidth: 443
+    cropHeight: 338
+    xOffset: 0
+    yOffset: 339
+  superType: Creature
+  subType: Human Scout
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Mark Tarrisse
+  autoCollectorNumber: CW01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Escort (As this creature attacks, choose another attacking creature.
+    That creature can’t be blocked unless this creature is also blocked.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Novice Spelunker
+imageExports:
+  front: blank - 30cb38ed.undefined

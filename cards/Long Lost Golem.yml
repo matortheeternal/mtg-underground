@@ -1,0 +1,57 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Long Lost Golem
+  manaCost:
+    __type: ManaCost
+    symbols: "5"
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Long%20Lost%20Golem.jpg
+    width: 1264
+    height: 632
+    cropWidth: 896
+    cropHeight: 632
+    xOffset: 115
+    yOffset: 0
+  superType: Artifact Creature
+  subType: Golem
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "4"
+  showPT: true
+  rarity: common
+  illustrator: Robert Ryminiecki
+  autoCollectorNumber: CA03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: ""
+  flavorText: flavor text
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Long Lost Golem

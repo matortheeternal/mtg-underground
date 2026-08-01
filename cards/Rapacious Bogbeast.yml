@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  name: Rapacious Bogbeast
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    imageUrl: /project/cards/blank-19.jpg
+    width: 1200
+    height: 600
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 99
+    yOffset: 0
+  superType: Creature
+  subType: Lizard Beast
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: common
+  illustrator: Sirmaril
+  autoCollectorNumber: CG05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Rush {1} (You may cast this spell for {1} less. If you do, at the beginning
+    of your next upkeep, sacrifice it unless you pay {1}.)
+
+
+    When this creature dies, draw a card.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Rapacious Bogbeast

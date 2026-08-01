@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Viashino Delver
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Viashino%20Delver.jpg
+    width: 1192
+    height: 670
+    cropWidth: 868
+    cropHeight: 612
+    xOffset: 162
+    yOffset: 8
+  superType: Creature
+  subType: Lizard Scout
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Themefinland
+  autoCollectorNumber: CW04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Rally (Whenever you cast a creature spell, this creature gets +1/+1
+    until end of turn.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Viashino Delver
+imageExports:
+  front: blank-4 - cfaf699b.undefined

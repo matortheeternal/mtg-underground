@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Exhausted Mage
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Exhausted%20Mage.jpg
+    width: 1232
+    height: 649
+    cropWidth: 920
+    cropHeight: 649
+    xOffset: 156
+    yOffset: 0
+  superType: Creature
+  subType: Lizard Wizard
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Themefinland
+  autoCollectorNumber: CW07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    Sleeper (This creature can’t attack unless it’s modified.)
+
+    When this creature enters, scry 2.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Exhausted Mage
+imageExports:
+  front: blank-6 - 1f4675d3.undefined

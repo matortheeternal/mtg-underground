@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  name: Sulfurous Serpent
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    imageUrl: /project/cards/Sulfurous%20Serpent.jpg
+    width: 1280
+    height: 609
+    cropWidth: 863
+    cropHeight: 609
+    xOffset: 119
+    yOffset: 0
+  superType: Creature
+  subType: Serpent
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Peter Ortiz
+  autoCollectorNumber: CU08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: ""
+  flavorText: >-
+    "It wakes, bathes, and drinks sulfur. I think you would be hard pressed to
+    find a more repulsive creature upon the basis of its scent alone. In short:
+    that's one stinky snake."
+
+    —<name>
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+baseName: Sulfurous Serpent
