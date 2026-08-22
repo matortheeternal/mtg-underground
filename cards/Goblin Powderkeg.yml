@@ -12,7 +12,6 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/Goblin%20Powderkeg.jpg
     width: 1024
     height: 636
     cropWidth: 901
@@ -59,4 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Goblin Powderkeg
+imageExports:
+  front: Goblin Powderkeg - 376dd8ed.jpg

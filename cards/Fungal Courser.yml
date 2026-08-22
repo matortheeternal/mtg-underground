@@ -12,23 +12,22 @@ front:
     symbols: 3GG
   artImage:
     __type: image
-    imageUrl: /project/cards/Fungus%20Deer.jpg
     width: 1123
     height: 712
-    cropWidth: 932
-    cropHeight: 658
-    xOffset: 96
-    yOffset: 17
+    cropWidth: 940
+    cropHeight: 663
+    xOffset: 92
+    yOffset: 0
   superType: Creature
   subType: Fungus Deer
   flagLeft: ""
   flagRight: ""
   power: "5"
-  toughness: "5"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Anton Kurbatov
-  autoCollectorNumber: CG11
+  autoCollectorNumber: CG10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -36,12 +35,12 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    Rush {2} (You may cast this spell for {2} less. If you do, at the beginning
-    of your next upkeep, sacrifice it unless you pay {2}.)
+    Rush {1} (You may cast this spell for {1} less. If you do, at the beginning
+    of your next upkeep, sacrifice it unless you pay {1}.)
 
 
-    Escort (As this creature attacks, choose another attacking creature. That
-    creature can’t be blocked unless this creature is also blocked.)
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn except by creatures with bulwark.)
   flavorText: null
   frame: auto
   artSize: auto
@@ -58,10 +57,11 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "2"
+  chopBottom: "-1"
   maxFontSize: ""
   centerText: never
 notes: ""
 tags: []
-baseName: Fungal Courser
+imageExports:
+  front: Fungal Courser - 6473b225.jpg

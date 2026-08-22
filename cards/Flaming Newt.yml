@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Blazing%20Newt.jpg
     width: 978
     height: 817
     cropWidth: 978
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Rudy Crus
-  autoCollectorNumber: CR02
+  autoCollectorNumber: CR03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Flaming Newt
+imageExports:
+  front: Flaming Newt - 830af59c.jpg

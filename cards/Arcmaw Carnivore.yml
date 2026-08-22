@@ -12,12 +12,11 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/_%20Predator.jpg
     width: 1000
     height: 620
     cropWidth: 879
     cropHeight: 620
-    xOffset: 61
+    xOffset: 80
     yOffset: 0
   superType: Creature
   subType: Elemental Horror
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Nicholas Cloister
-  autoCollectorNumber: CR07
+  autoCollectorNumber: CR09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Arcmaw Carnivore
+imageExports:
+  front: Arcmaw Carnivore - 8e983c3a.jpg

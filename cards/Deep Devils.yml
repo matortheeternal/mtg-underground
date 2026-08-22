@@ -12,13 +12,12 @@ front:
     symbols: B
   artImage:
     __type: image
-    imageUrl: /project/cards/Cave%20Devil.jpg
     width: 600
     height: 621
-    cropWidth: 598
-    cropHeight: 449
-    xOffset: 2
-    yOffset: 103
+    cropWidth: 600
+    cropHeight: 484
+    xOffset: 0
+    yOffset: 57
   superType: Creature
   subType: Beast
   flagLeft: ""
@@ -60,4 +59,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Deep Devils
+imageExports:
+  front: Deep Devils - 6b10e840.jpg

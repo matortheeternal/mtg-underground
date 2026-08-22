@@ -12,13 +12,12 @@ front:
     symbols: 2R
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-5.jpg
     width: 1181
     height: 676
-    cropWidth: 874
-    cropHeight: 617
-    xOffset: 153
-    yOffset: 26
+    cropWidth: 880
+    cropHeight: 621
+    xOffset: 151
+    yOffset: 28
   superType: Creature
   subType: Lizard Shaman
   flagLeft: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Burning-Spirit Shaman
+imageExports:
+  front: Burning-Spirit Shaman - 289c94ae.jpg

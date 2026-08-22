@@ -12,7 +12,6 @@ front:
     symbols: 3BB
   artImage:
     __type: image
-    imageUrl: /project/cards/Thing%20in%20the%20Dark.jpg
     width: 1110
     height: 720
     cropWidth: 1020
@@ -61,4 +60,5 @@ front:
 notes: ""
 tags:
   - placeholder-in-ft
-baseName: Thing in the Dark
+imageExports:
+  front: Thing in the Dark - 661ce4ca.jpg

@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Defective Elevator
+  manaCost:
+    __type: ManaCost
+    symbols: "5"
+  artImage:
+    __type: image
+    width: 1024
+    height: 768
+    cropWidth: 1024
+    cropHeight: 723
+    xOffset: 0
+    yOffset: 45
+  superType: Artifact
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Nick Kinsman
+  autoCollectorNumber: CA06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    When this artifact enters, you may exile target creature you control. Return
+    it to the battlefield under its owner’s control at the beginning of the next
+    end step.
+
+
+    {1}, {T}, Sacrifice this artifact: This artifact deals 5 damage to target
+    creature.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Defective Elevator - 6ab37353.jpg

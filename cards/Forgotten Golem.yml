@@ -8,12 +8,11 @@ front:
     symbols: "5"
   artImage:
     __type: image
-    imageUrl: /project/cards/Long%20Lost%20Golem.jpg
     width: 1264
     height: 632
     cropWidth: 896
     cropHeight: 632
-    xOffset: 115
+    xOffset: 117
     yOffset: 0
   superType: Artifact Creature
   subType: Golem
@@ -56,4 +55,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Forgotten Golem
+imageExports:
+  front: Forgotten Golem - a17ff2e4.jpg

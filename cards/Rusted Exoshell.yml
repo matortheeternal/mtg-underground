@@ -8,7 +8,6 @@ front:
     symbols: "0"
   artImage:
     __type: image
-    imageUrl: /project/cards/Rusted%20Exoshell.jpg
     width: 3840
     height: 4471
     cropWidth: 3840
@@ -59,4 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Rusted Exoshell
+imageExports:
+  front: Rusted Exoshell - 1f8ad3dc.jpg

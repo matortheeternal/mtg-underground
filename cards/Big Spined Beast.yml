@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-17.jpg
     width: 1024
     height: 576
     cropWidth: 816
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Big Spined Beast
+imageExports:
+  front: Big Spined Beast - 4f4afb63.jpg

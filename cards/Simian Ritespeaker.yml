@@ -12,13 +12,12 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-18.jpg
     width: 873
     height: 916
     cropWidth: 873
     cropHeight: 616
     xOffset: 0
-    yOffset: 77
+    yOffset: 71
   superType: Creature
   subType: Ape Shaman
   flagLeft: ""
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Cyril Terpent
-  autoCollectorNumber: CG06
+  autoCollectorNumber: CG07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Simian Ritespeaker
+imageExports:
+  front: Simian Ritespeaker - 2ef43c98.jpg

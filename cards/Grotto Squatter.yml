@@ -12,7 +12,6 @@ front:
     symbols: 2G
   artImage:
     __type: image
-    imageUrl: /project/cards/Waterfall%20Watcher.jpg
     width: 1192
     height: 670
     cropWidth: 949
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Grotto Squatter
+imageExports:
+  front: Grotto Squatter - 2dab006f.jpg

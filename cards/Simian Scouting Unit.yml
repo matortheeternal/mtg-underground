@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Simian%20Scouting%20Unit.jpg
     width: 1148
     height: 696
     cropWidth: 986
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Elena Skitalets
-  autoCollectorNumber: CG02
+  autoCollectorNumber: CG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Simian Scouting Unit
+imageExports:
+  front: Simian Scouting Unit - 15652b2d.jpg

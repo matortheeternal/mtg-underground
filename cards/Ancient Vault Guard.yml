@@ -12,7 +12,6 @@ front:
     symbols: 4UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Ancient%20Vault%20Guard.jpg
     width: 800
     height: 1228
     cropWidth: 800
@@ -27,7 +26,7 @@ front:
   toughness: "6"
   showPT: true
   rarity: common
-  illustrator: ""
+  illustrator: Nova Illusion
   autoCollectorNumber: CU10
   collectorNumber: ""
   setCode: ""
@@ -64,6 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Ancient Vault Guard
 imageExports:
-  front: blank-2 - 4749746e.undefined
+  front: Ancient Vault Guard - 3ce72b9a.jpg

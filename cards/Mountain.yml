@@ -1,8 +1,8 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
@@ -12,12 +12,11 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 91
     yOffset: 0
   superType: Basic Land
   subType: Mountain
@@ -27,8 +26,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
-  autoCollectorNumber: B01
+  illustrator: Nat Monney
+  autoCollectorNumber: L03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Mountain
+imageExports:
+  front: Mountain - 12dd9588.jpg

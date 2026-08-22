@@ -12,7 +12,6 @@ front:
     symbols: 3U
   artImage:
     __type: image
-    imageUrl: /project/cards/Goblin%20Archivist.jpg
     width: 1192
     height: 670
     cropWidth: 949
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Goblin Archivist
+imageExports:
+  front: Goblin Archivist - 1a4a1fa3.jpg

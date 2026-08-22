@@ -12,7 +12,6 @@ front:
     symbols: 4WW
   artImage:
     __type: image
-    imageUrl: /project/cards/Crystal%20Champion.jpg
     width: 1225
     height: 652
     cropWidth: 811
@@ -20,11 +19,11 @@ front:
     xOffset: 58
     yOffset: 80
   superType: Creature
-  subType: Human Scout Warrior
+  subType: Human Warrior
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "6"
+  power: "5"
+  toughness: "5"
   showPT: true
   rarity: common
   illustrator: Damian Handzlik
@@ -35,8 +34,13 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Escort (As this creature attacks, choose another attacking creature.
-    That creature can’t be blocked unless this creature is also blocked.)
+  rulesText: >-
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn except by creatures with bulwark.)
+
+
+    When this creature enters, put a +1/+1 counter on target creature you
+    control.
   flavorText: null
   frame: auto
   artSize: auto
@@ -59,6 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Crystal Champion
 imageExports:
-  front: blank-11 - 3951dc67.undefined
+  front: Crystal Champion - f45b406e.jpg

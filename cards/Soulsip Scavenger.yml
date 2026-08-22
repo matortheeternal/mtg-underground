@@ -12,7 +12,6 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-7.jpg
     width: 1024
     height: 594
     cropWidth: 842
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Joe Stiller
-  autoCollectorNumber: CB04
+  autoCollectorNumber: CB03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +60,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Soulsip Scavenger
+imageExports:
+  front: Soulsip Scavenger - 5f754358.jpg

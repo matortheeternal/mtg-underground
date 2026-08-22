@@ -12,7 +12,6 @@ front:
     symbols: 3R
   artImage:
     __type: image
-    imageUrl: /project/cards/Aggressive%20Ants.jpg
     width: 1187
     height: 673
     cropWidth: 954
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jiri Kus
-  autoCollectorNumber: CR08
+  autoCollectorNumber: CR07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Aggressive Ants
+imageExports:
+  front: Aggressive Ants - 2c697c94.jpg

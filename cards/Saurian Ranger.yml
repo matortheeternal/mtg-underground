@@ -12,7 +12,6 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Viashino%20Tracker.jpg
     width: 1169
     height: 684
     cropWidth: 969
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CW05
+  autoCollectorNumber: CW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,6 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Saurian Ranger
 imageExports:
-  front: blank-12 - 12314dcb.undefined
+  front: Saurian Ranger - 25512e9c.jpg

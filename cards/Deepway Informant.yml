@@ -12,12 +12,11 @@ front:
     symbols: 1B
   artImage:
     __type: image
-    imageUrl: /project/cards/Tunnel%20Silencer.jpg
     width: 1024
     height: 645
-    cropWidth: 812
-    cropHeight: 573
-    xOffset: 212
+    cropWidth: 914
+    cropHeight: 645
+    xOffset: 110
     yOffset: 0
   superType: Creature
   subType: Human Rogue
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Deepway Informant
+imageExports:
+  front: Deepway Informant - 1f62b6db.jpg

@@ -12,23 +12,22 @@ front:
     symbols: 2B
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-9.jpg
     width: 828
     height: 1171
     cropWidth: 828
     cropHeight: 584
     xOffset: 0
-    yOffset: 272
+    yOffset: 289
   superType: Creature
   subType: Horror
   flagLeft: ""
   flagRight: ""
-  power: "5"
+  power: "4"
   toughness: "2"
   showPT: true
   rarity: common
   illustrator: Jimmy Nijs
-  autoCollectorNumber: CB07
+  autoCollectorNumber: CB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -38,7 +37,7 @@ front:
   rulesText: |-
     Sleeper (This creature can’t attack unless it’s modified.)
 
-    When this creature dies you gain 2 life.
+    When this creature dies, put a +1/+1 counter on target creature you control.
   flavorText: It sleeps in narrow byways, its bloated body blocking passage. Only
     a fool would dare to wake it.
   frame: auto
@@ -62,4 +61,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Tunnel Tyrant
+imageExports:
+  front: Tunnel Tyrant - 52d55de4.jpg

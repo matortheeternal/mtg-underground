@@ -12,12 +12,11 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Benthic%20Mesmer.jpg
     width: 1183
     height: 676
     cropWidth: 958
     cropHeight: 676
-    xOffset: 107
+    xOffset: 112
     yOffset: 0
   superType: Creature
   subType: Beast
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CU04
+  autoCollectorNumber: CU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Netherworld Mesmer
+imageExports:
+  front: Netherworld Mesmer - b4ab69c4.jpg

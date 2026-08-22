@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Goblin%20Seeker.jpg
     width: 834
     height: 959
     cropWidth: 834
@@ -59,4 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Goblin Seeker
+imageExports:
+  front: Goblin Seeker - 40f6be98.jpg

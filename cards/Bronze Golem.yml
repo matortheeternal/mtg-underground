@@ -12,7 +12,6 @@ front:
     symbols: G
   artImage:
     __type: image
-    imageUrl: /project/cards/Bronze%20Golem.jpg
     width: 1192
     height: 670
     cropWidth: 949
@@ -35,10 +34,12 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: |-
+  rulesText: >-
     Sleeper (This creature can’t attack unless it’s modified.)
 
-    {5}: Put a +1/+1 counter on this creature. Activate only as a sorcery.
+
+    Whenever you cast a spell with mana value 5 or greater, put a +1/+1 counter
+    on this creature.
   flavorText: null
   frame: auto
   artSize: auto
@@ -61,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Bronze Golem
+imageExports:
+  front: Bronze Golem - 6bc56c83.jpg

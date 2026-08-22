@@ -12,12 +12,11 @@ front:
     symbols: 5B
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-14.jpg
     width: 1024
     height: 643
     cropWidth: 911
     cropHeight: 643
-    xOffset: 113
+    xOffset: 56
     yOffset: 0
   superType: Creature
   subType: Skeleton Wurm
@@ -61,4 +60,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Bonecoil Eradicator
+imageExports:
+  front: Bonecoil Eradicator - d09e09cf.jpg

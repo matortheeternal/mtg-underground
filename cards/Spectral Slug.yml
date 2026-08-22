@@ -12,7 +12,6 @@ front:
     symbols: U
   artImage:
     __type: image
-    imageUrl: /project/cards/blank.jpg
     width: 900
     height: 700
     cropWidth: 900
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Spectral Slug
+imageExports:
+  front: Spectral Slug - 9e7e1813.jpg

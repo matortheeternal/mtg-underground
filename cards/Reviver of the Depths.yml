@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Reviver%20of%20the%20Depths.jpg
     width: 1024
     height: 573
     cropWidth: 812
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Nexumorphic
-  autoCollectorNumber: CW08
+  autoCollectorNumber: CW07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Reviver of the Depths
 imageExports:
-  front: blank-7 - 0b01e657.undefined
+  front: Reviver of the Depths - 65c2dcd4.jpg

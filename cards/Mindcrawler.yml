@@ -12,7 +12,6 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Mindcrawler.jpg
     width: 800
     height: 533
     cropWidth: 755
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Mike Sass
-  autoCollectorNumber: CU06
+  autoCollectorNumber: CU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,4 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Mindcrawler
+imageExports:
+  front: Mindcrawler - 880e9965.jpg

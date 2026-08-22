@@ -1,3 +1,6 @@
+game: magic
+version: 1
+defaultBackImage: games/magic/assets/back.png
 title: "Magic: Underground"
 author: ""
 description: A core set with a re-imagined set of evergreen mechanics.
@@ -31,138 +34,18 @@ symbol: |-
           stroke-width="5"
       />
   </svg>
-version: 1
-defaultBackImage: games/magic/assets/back.png
 export:
   CardImagesExporter:
-    imageType:
-      id: jpg
-      name: JPG
+    imageType: jpg
     quality: "0.92"
     scale: "2"
     bleed: "0"
   TTSExporter:
-    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-the-pale-age@master/dist/images
+    basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
+    ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/tts
   WebExporter:
     Test: ""
     test: ""
+    baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
 pack: []
-cards:
-  - Novice Spelunker
-  - Grieving Ghost
-  - Fearful Pathfinder
-  - Viashino Explorer
-  - Giant Golden Snail
-  - Exhausted Mage
-  - Reviver of the Depths
-  - Stone-Faced Sentinel
-  - Strategic Surveyor
-  - Expedition Captain
-  - Crystal Champion
-  - Saurian Ranger
-  - Spectral Slug
-  - Living Crystal
-  - Eight-Legged Escort
-  - Netherworld Mesmer
-  - Colossal Axolotl
-  - Mindcrawler
-  - Goblin Archivist
-  - Sulfurous Serpent
-  - Shielded Assault Scarab
-  - Ancient Vault Guard
-  - Deep Devils
-  - Deepway Informant
-  - Boneheap Curator
-  - Soulsip Scavenger
-  - Ossuary Omnivores
-  - Mourning Horror
-  - Tunnel Tyrant
-  - Host of Hungry Spirits
-  - Ravenous Hound
-  - Thing in the Dark
-  - Bonecoil Eradicator
-  - Confident Rookie
-  - Flaming Newt
-  - Disturbed Denizen
-  - Goblin Seeker
-  - Burning-Spirit Shaman
-  - Goblin Powderkeg
-  - Arcmaw Carnivore
-  - Bloodsoaked Terror
-  - Aggressive Ants
-  - Apex Ape
-  - Inferno Elemental
-  - Bronze Golem
-  - Simian Scouting Unit
-  - Grotto Squatter
-  - Sporespreading Shaman
-  - Big Spined Beast
-  - Simian Ritespeaker
-  - Rapacious Bogbeast
-  - Pale Wurm
-  - Mycelial Missionary
-  - Cave Troll
-  - Fungal Courser
-  - Waterfall Overseer
-  - Perfect Parry
-  - Boulder Borer
-  - Snailbot
-  - Forgotten Golem
-  - Climbing Gear
-  - Rusted Exoshell
-  - placeholder- flex slot
-  - placeholder- disenchant
-  - placeholder- beneficial aura
-  - placeholder- pacifism
-  - placeholder- combat trick
-  - placeholder- creature removal
-  - placeholder- flex slot-2
-  - placeholder- counterspell
-  - placeholder- bounce
-  - placeholder- draw
-  - placeholder- shrink
-  - placeholder- essence scatter
-  - placeholder- flex slot-3
-  - placeholder- better bounce
-  - placeholder- flex slot-4
-  - placeholder- duress
-  - placeholder- cheat death
-  - placeholder- beneficial aura-2
-  - placeholder- recursion
-  - placeholder- flex slot-5
-  - placeholder- flex slot-6
-  - placeholder- small cr removal
-  - placeholder- hard removal
-  - placeholder- flex slot-7
-  - placeholder- small removal
-  - placeholder- artifact removal
-  - placeholder- combat trick-2
-  - placeholder- rummage
-  - placeholder- flex slot-8
-  - placeholder- large removal
-  - placeholder- flex slot-9
-  - placeholder- naturalize
-  - placeholder- plummet
-  - placeholder- bite
-  - placeholder- beneficial aura-3
-  - placeholder- combat trick-3
-  - placeholder- small removal-2
-  - Plains
-  - Forest
-  - Island
-  - Swamp
-  - Mountain
-  - placeholder- flex slot-10
-  - Rakdos Land
-  - Azorius Land
-  - Boros Land
-  - Selesnya Land
-  - Dimir Land
-  - Gruul Land
-  - Simic Land
-  - Orzhov Land
-  - Golgari Land
-  - Izzet Land
-  - placeholder- flex slot-11
-  - placeholder- Evolving Wilds
 imageExportPath: dist/images/

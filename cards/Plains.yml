@@ -1,8 +1,8 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
@@ -12,12 +12,11 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 960
+    height: 540
+    cropWidth: 765
+    cropHeight: 540
+    xOffset: 97
     yOffset: 0
   superType: Basic Land
   subType: Plains
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: B01
+  autoCollectorNumber: L02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Plains
+imageExports:
+  front: Plains - 322d6697.jpg

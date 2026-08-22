@@ -12,12 +12,11 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1217
+    height: 656
+    cropWidth: 930
+    cropHeight: 656
+    xOffset: 144
     yOffset: 0
   superType: Basic Land
   subType: Forest
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: B03
+  autoCollectorNumber: L05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Forest
+imageExports:
+  front: Forest - 5be0e70c.jpg

@@ -12,7 +12,6 @@ front:
     symbols: 3UU
   artImage:
     __type: image
-    imageUrl: /project/cards/Shielded%20Assault%20Scarab.jpg
     width: 1000
     height: 625
     cropWidth: 886
@@ -20,14 +19,14 @@ front:
     xOffset: 57
     yOffset: 0
   superType: Artifact Creature
-  subType: Robot Insect
+  subType: Insect Construct
   flagLeft: ""
   flagRight: ""
   power: "4"
   toughness: "2"
   showPT: true
   rarity: common
-  illustrator: ""
+  illustrator: Genji Lim
   autoCollectorNumber: CU09
   collectorNumber: ""
   setCode: ""
@@ -64,4 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Shielded Assault Scarab
+imageExports:
+  front: Shielded Assault Scarab - cfeecb1c.jpg
