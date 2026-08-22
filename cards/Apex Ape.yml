@@ -12,7 +12,6 @@ front:
     symbols: 4R
   artImage:
     __type: image
-    imageUrl: /project/cards/Apex%20Ape.jpg
     width: 828
     height: 1130
     cropWidth: 828
@@ -40,8 +39,7 @@ front:
     defending player controls.)
 
 
-    {2}{R}, Discard this card: Draw a card. Creatures you control get +1/+0
-    until end of turn. Activate only as a sorcery.
+    {1}{R}: This creature gets +1/-1 until end of turn.
   flavorText: null
   frame: auto
   artSize: auto
@@ -64,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Apex Ape
+imageExports:
+  front: Apex Ape - ffb1fedb.jpg

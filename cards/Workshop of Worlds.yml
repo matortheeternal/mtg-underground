@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Workshop of Worlds
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    width: 900
+    height: 557
+    cropWidth: 789
+    cropHeight: 557
+    xOffset: 55
+    yOffset: 0
+  superType: Legendary Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Adam Paquette
+  autoCollectorNumber: ML01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: |-
+    Whenever you cast an artifact spell, untap this land.
+
+    {T}: Add {C}.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Workshop of Worlds - 26587e90.jpg

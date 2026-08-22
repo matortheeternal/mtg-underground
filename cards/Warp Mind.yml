@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Warp Mind
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    width: 1264
+    height: 632
+    cropWidth: 896
+    cropHeight: 632
+    xOffset: 184
+    yOffset: 0
+  superType: Enchantment
+  subType: Aura
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Psylite
+  autoCollectorNumber: CB14
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Enchant creature
+
+
+    Enchanted creature gets +1/+1 and gains grind. (Whenever it deals damage,
+    target player mills that many cards.)
+
+
+    When enchanted creature dies, return it to its owner's hand.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Warp Mind - e57662f5.jpg

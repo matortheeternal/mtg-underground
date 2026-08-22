@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Psychic Serpent
+  manaCost:
+    __type: ManaCost
+    symbols: 1B
+  artImage:
+    __type: image
+    width: 828
+    height: 1035
+    cropWidth: 828
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 334
+  superType: Creature
+  subType: Snake
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Alaiaorax
+  autoCollectorNumber: UB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    When this creature enters, look at target opponent’s hand. You may exile a
+    nonland card from it. For as long as that card remains exiled, its owner may
+    cast it by paying 3 life in addition to its other costs.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "2"
+  chopBottom: "-1"
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Psychic Serpent - 19d4ac51.jpg

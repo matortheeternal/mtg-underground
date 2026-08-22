@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Dark Abyss Expedition
+  manaCost:
+    __type: ManaCost
+    symbols: 3BB
+  artImage:
+    __type: image
+    width: 1010
+    height: 791
+    cropWidth: 1010
+    cropHeight: 713
+    xOffset: 0
+    yOffset: 0
+  superType: Enchantment
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Nele Diel
+  autoCollectorNumber: MB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    When this enchantment enters, you may search your library for a card, put
+    that card into your hand, then shuffle. You lose 3 life.
+
+
+    Whenever you lose life, you may put a +1/+1 counter on target creature you
+    control.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Dark Abyss Expedition - 64124fe3.jpg

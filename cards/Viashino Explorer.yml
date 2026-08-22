@@ -12,13 +12,12 @@ front:
     symbols: 1W
   artImage:
     __type: image
-    imageUrl: /project/cards/Viashino%20Adventurer.jpg
     width: 685
     height: 756
     cropWidth: 685
     cropHeight: 483
     xOffset: 0
-    yOffset: 59
+    yOffset: 41
   superType: Creature
   subType: Lizard Warrior
   flagLeft: ""
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CW04
+  autoCollectorNumber: CW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Viashino Explorer
 imageExports:
-  front: blank-4 - cfaf699b.undefined
+  front: Viashino Explorer - 08d1a961.jpg

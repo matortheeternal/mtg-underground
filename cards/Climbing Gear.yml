@@ -8,7 +8,6 @@ front:
     symbols: "2"
   artImage:
     __type: image
-    imageUrl: /project/cards/Climbing%20Gear.jpg
     width: 828
     height: 1071
     cropWidth: 828
@@ -24,7 +23,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Mates Laurentiu
-  autoCollectorNumber: ""
+  autoCollectorNumber: CA05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -32,7 +31,8 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >-
-    Equipped creature gets +1/+0 and has climbing.
+    Equipped creature gets +1/-1 and has climbing. (It can’t be blocked by
+    creatures with greater toughness.)
 
 
     Equip {1} ({1}: Attach to target creature you control. Equip only as a
@@ -57,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
-notes: +1/-1 also possible, but maybe too complex for a common.
+notes: ""
 tags: []
-baseName: Climbing Gear
+imageExports:
+  front: Climbing Gear - 1dd460eb.jpg

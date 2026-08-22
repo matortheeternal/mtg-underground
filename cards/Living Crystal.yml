@@ -12,15 +12,14 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    imageUrl: /project/cards/Living%20Crystal.jpg
     width: 1192
     height: 670
     cropWidth: 702
     cropHeight: 495
     xOffset: 204
     yOffset: 143
-  superType: Creature
-  subType: Elemental
+  superType: Artifact Creature
+  subType: Golem
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Living Crystal
+imageExports:
+  front: Living Crystal - 54f1a839.jpg

@@ -12,12 +12,11 @@ front:
     symbols: ""
   artImage:
     __type: image
-    imageUrl: null
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 139
     yOffset: 0
   superType: Basic Land
   subType: Island
@@ -28,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: ""
-  autoCollectorNumber: B04
+  autoCollectorNumber: L01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Island
+imageExports:
+  front: Island - 20f4dcae.jpg

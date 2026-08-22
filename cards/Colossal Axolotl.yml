@@ -12,31 +12,34 @@ front:
     symbols: 2U
   artImage:
     __type: image
-    imageUrl: /project/cards/Oversized%20Axolotl.jpg
     width: 800
     height: 1035
     cropWidth: 800
-    cropHeight: 614
+    cropHeight: 635
     xOffset: 0
-    yOffset: 279
+    yOffset: 244
   superType: Creature
   subType: Salamander Horror
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "2"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: David Haire
-  autoCollectorNumber: CU06
+  autoCollectorNumber: CU05
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Climbing (This creature can’t be blocked by creatures with greater
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
     toughness.)
+
+
+    {U}: This creature gets +1/-1 until end of turn.
   flavorText: null
   frame: auto
   artSize: auto
@@ -59,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Colossal Axolotl
+imageExports:
+  front: Colossal Axolotl - cd1eb80d.jpg

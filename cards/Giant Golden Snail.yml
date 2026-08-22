@@ -12,12 +12,11 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Golden%20Snail.jpg
     width: 1024
     height: 597
     cropWidth: 846
     cropHeight: 597
-    xOffset: 98
+    xOffset: 103
     yOffset: 0
   superType: Creature
   subType: Snail
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Giant Golden Snail
 imageExports:
-  front: blank-5 - 6b97fb6e.undefined
+  front: Giant Golden Snail - 6eb0c4a8.jpg

@@ -12,13 +12,12 @@ front:
     symbols: 3G
   artImage:
     __type: image
-    imageUrl: /project/cards/Mycelial%20Manager.jpg
     width: 828
     height: 1071
     cropWidth: 828
-    cropHeight: 584
+    cropHeight: 650
     xOffset: 0
-    yOffset: 127
+    yOffset: 59
   superType: Creature
   subType: Fungi Beast
   flagLeft: ""
@@ -64,4 +63,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Mycelial Missionary
+imageExports:
+  front: Mycelial Missionary - ac3b7652.jpg

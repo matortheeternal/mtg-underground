@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Promising Tunnel
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    width: 960
+    height: 540
+    cropWidth: 765
+    cropHeight: 540
+    xOffset: 97
+    yOffset: 0
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Las Pinter
+  autoCollectorNumber: RL03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: "{T}: Add {C}. Put a discovery counter on Promising Tunnel. Then if
+    it has three or more discovery counters on it, sacrifice it. When you do,
+    search your library for a basic land card, put it onto the battlefield, then
+    shuffle."
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Promising Tunnel - a99b2028.jpg

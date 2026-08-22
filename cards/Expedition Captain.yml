@@ -12,13 +12,12 @@ front:
     symbols: 4W
   artImage:
     __type: image
-    imageUrl: /project/cards/Caving%20Captain.jpg
     width: 900
     height: 613
-    cropWidth: 792
-    cropHeight: 559
-    xOffset: 58
-    yOffset: 39
+    cropWidth: 869
+    cropHeight: 613
+    xOffset: 16
+    yOffset: 0
   superType: Creature
   subType: Human Knight
   flagLeft: ""
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Expedition Captain
 imageExports:
-  front: blank-10 - 8227bfb1.undefined
+  front: Expedition Captain - 143a55d1.jpg

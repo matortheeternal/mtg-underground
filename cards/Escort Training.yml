@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  name: Escort Training
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    width: 1063
+    height: 752
+    cropWidth: 1063
+    cropHeight: 750
+    xOffset: 0
+    yOffset: 1
+  superType: Enchantment
+  subType: Aura
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: JeroenJM
+  autoCollectorNumber: CW15
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: >-
+    Enchant creature
+
+
+    When this enchantment enters, draw a card.
+
+
+    Enchanted creature gets +1/+1 and gains escort. (Whenever it attacks, target
+    attacking creature without escort can't be blocked this turn except by
+    creatures with bulwark.)
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Escort Training - 70fd98b6.jpg

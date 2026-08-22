@@ -12,7 +12,6 @@ front:
     symbols: R
   artImage:
     __type: image
-    imageUrl: /project/cards/Confident%20Rookie.jpg
     width: 1192
     height: 670
     cropWidth: 851
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Confident Rookie
 imageExports:
-  front: blank-3 - 73967061.undefined
+  front: Confident Rookie - c2ad79ad.jpg

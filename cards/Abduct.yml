@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  name: Abduct
+  manaCost:
+    __type: ManaCost
+    symbols: 4B
+  artImage:
+    __type: image
+    width: 1063
+    height: 752
+    cropWidth: 1063
+    cropHeight: 750
+    xOffset: 0
+    yOffset: 1
+  superType: Sorcery
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Northern Hermit
+  autoCollectorNumber: RB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: Target opponent reveals their hand. You choose a nonland card from
+    it. That player discards that card. If a creature card was discarded this
+    way, put it onto the battlefield under your control. Otherwise, you draw a
+    card.
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Abduct - 5f6e3798.jpg

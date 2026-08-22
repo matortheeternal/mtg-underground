@@ -12,7 +12,6 @@ front:
     symbols: 2W
   artImage:
     __type: image
-    imageUrl: /project/cards/Exhausted%20Mage.jpg
     width: 1232
     height: 649
     cropWidth: 920
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CW07
+  autoCollectorNumber: CW08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,6 +60,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Exhausted Mage
 imageExports:
-  front: blank-6 - 1f4675d3.undefined
+  front: Exhausted Mage - ba0866a9.jpg

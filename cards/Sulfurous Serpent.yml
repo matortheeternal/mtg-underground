@@ -12,7 +12,6 @@ front:
     symbols: 3U
   artImage:
     __type: image
-    imageUrl: /project/cards/Sulfurous%20Serpent.jpg
     width: 1280
     height: 609
     cropWidth: 863
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Sulfurous Serpent
+imageExports:
+  front: Sulfurous Serpent - f21c07c6.jpg

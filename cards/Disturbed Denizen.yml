@@ -12,7 +12,6 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    imageUrl: /project/cards/Disturbed%20Denizen.jpg
     width: 963
     height: 830
     cropWidth: 963
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Notesz
-  autoCollectorNumber: CR03
+  autoCollectorNumber: CR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,6 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Disturbed Denizen
+imageExports:
+  front: Disturbed Denizen - fe17445c.jpg

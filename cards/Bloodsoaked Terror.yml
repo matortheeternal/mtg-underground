@@ -12,7 +12,6 @@ front:
     symbols: 2RR
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-20.jpg
     width: 1032
     height: 774
     cropWidth: 1032
@@ -57,6 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
-baseName: Bloodsoaked Terror
+imageExports:
+  front: Bloodsoaked Terror - f864ec7f.jpg

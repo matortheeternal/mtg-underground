@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Grieving%20Ghost.jpg
     width: 1024
     height: 726
     cropWidth: 990
@@ -58,6 +57,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Grieving Ghost
 imageExports:
-  front: blank-2 - 4749746e.undefined
+  front: Grieving Ghost - cd9fb531.jpg

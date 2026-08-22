@@ -12,7 +12,6 @@ front:
     symbols: 3W
   artImage:
     __type: image
-    imageUrl: /project/cards/Strategic%20Surveyor.jpg
     width: 828
     height: 1164
     cropWidth: 828
@@ -28,16 +27,15 @@ front:
   showPT: true
   rarity: common
   illustrator: Bassi Patez
-  autoCollectorNumber: CW10
+  autoCollectorNumber: CW09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Whenever this creature attacks, another target attacking creature
-    gains retreat until end of turn. (Whenever a creature with retreat becomes
-    blocked, you may return it to its owner's hand.)
+  rulesText: Whenever this creature attacks, you may return another target nonland
+    permanent you control to its owner's hand.
   flavorText: null
   frame: auto
   artSize: auto
@@ -60,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Strategic Surveyor
 imageExports:
-  front: blank-9 - d1e8bc21.undefined
+  front: Strategic Surveyor - 5a0adb15.jpg

@@ -1,0 +1,58 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  name: Terramorphic Expanse
+  manaCost:
+    __type: ManaCost
+    symbols: ""
+  artImage:
+    __type: image
+    width: 1048
+    height: 762
+    cropWidth: 1048
+    cropHeight: 740
+    xOffset: 0
+    yOffset: 11
+  superType: Land
+  subType: ""
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Jeff Brown
+  autoCollectorNumber: CL07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  faceSymbol: null
+  rulesText: "{T}, Sacrifice this land: Search your library for a basic land card,
+    put it onto the battlefield tapped, then shuffle."
+  flavorText: null
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+notes: ""
+tags: []
+imageExports:
+  front: Terramorphic Expanse - 568c86e7.jpg

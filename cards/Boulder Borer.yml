@@ -8,13 +8,12 @@ front:
     symbols: "2"
   artImage:
     __type: image
-    imageUrl: /project/cards/Mining%20Drone.jpg
     width: 566
     height: 800
     cropWidth: 566
-    cropHeight: 414
+    cropHeight: 399
     xOffset: 0
-    yOffset: 238
+    yOffset: 260
   superType: Artifact Creature
   subType: Construct
   flagLeft: ""
@@ -55,4 +54,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Boulder Borer
+imageExports:
+  front: Boulder Borer - 52bbadc2.jpg

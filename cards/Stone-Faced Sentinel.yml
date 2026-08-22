@@ -12,13 +12,12 @@ front:
     symbols: 3W
   artImage:
     __type: image
-    imageUrl: /project/cards/Boulder%20Golem.jpg
     width: 1024
     height: 593
-    cropWidth: 739
-    cropHeight: 522
-    xOffset: 23
-    yOffset: 32
+    cropWidth: 746
+    cropHeight: 527
+    xOffset: 34
+    yOffset: 29
   superType: Creature
   subType: Elemental
   flagLeft: ""
@@ -28,14 +27,19 @@ front:
   showPT: true
   rarity: common
   illustrator: Jeff Brown
-  autoCollectorNumber: CW09
+  autoCollectorNumber: CW10
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Bulwark (This creature can block an additional creature each combat.)
+  rulesText: >-
+    Bulwark (This creature can block an additional creature each combat.)
+
+
+    {5}{W}, {T}, Sacrifice this creature: Tap all creatures target player
+    controls. Activate only as a sorcery.
   flavorText: null
   frame: auto
   artSize: auto
@@ -58,6 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Stone-Faced Sentinel
 imageExports:
-  front: blank-8 - 9f7805d9.undefined
+  front: Stone-Faced Sentinel - 5d62faae.jpg

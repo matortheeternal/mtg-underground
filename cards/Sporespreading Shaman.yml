@@ -12,7 +12,6 @@ front:
     symbols: 1G
   artImage:
     __type: image
-    imageUrl: /project/cards/Sporespreading%20Shaman.jpg
     width: 679
     height: 1000
     cropWidth: 679
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Alyssa Menold
-  autoCollectorNumber: CG04
+  autoCollectorNumber: CG03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +60,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Sporespreading Shaman
+imageExports:
+  front: Sporespreading Shaman - cc6e41ca.jpg

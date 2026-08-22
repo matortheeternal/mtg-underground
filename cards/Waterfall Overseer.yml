@@ -12,7 +12,6 @@ front:
     symbols: 5GG
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-28.jpg
     width: 1024
     height: 742
     cropWidth: 1024
@@ -36,8 +35,8 @@ front:
   showFooterOverrides: false
   faceSymbol: null
   rulesText: >
-    Ravage (While this creature is attacking, you may assign its excess combat
-    damage to another creature defending player controls.)
+    Ravage (This creature can deal excess combat damage to another creature
+    defending player controls.)
 
 
     Bulwark (This creature can block an additional creature each combat.)
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Waterfall Overseer
+imageExports:
+  front: Waterfall Overseer - 35fe458e.jpg

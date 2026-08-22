@@ -12,13 +12,12 @@ front:
     symbols: 4G
   artImage:
     __type: image
-    imageUrl: /project/cards/blank-26.jpg
     width: 867
     height: 922
     cropWidth: 867
-    cropHeight: 678
+    cropHeight: 683
     xOffset: 0
-    yOffset: 1
+    yOffset: 4
   superType: Creature
   subType: Troll
   flagLeft: ""
@@ -28,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Athavan
-  autoCollectorNumber: CG10
+  autoCollectorNumber: CG11
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +62,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Cave Troll
+imageExports:
+  front: Cave Troll - 0dfe1582.jpg

@@ -12,7 +12,6 @@ front:
     symbols: W
   artImage:
     __type: image
-    imageUrl: /project/cards/Novice%20Spelunker.jpg
     width: 443
     height: 1000
     cropWidth: 443
@@ -35,8 +34,8 @@ front:
   legalText: ""
   showFooterOverrides: false
   faceSymbol: null
-  rulesText: Escort (As this creature attacks, choose another attacking creature.
-    That creature can’t be blocked unless this creature is also blocked.)
+  rulesText: Escort (Whenever this creature attacks, target attacking creature
+    without escort can't be blocked this turn except by creatures with bulwark.)
   flavorText: null
   frame: auto
   artSize: auto
@@ -59,6 +58,5 @@ front:
   centerText: never
 notes: ""
 tags: []
-baseName: Novice Spelunker
 imageExports:
-  front: blank - 30cb38ed.undefined
+  front: Novice Spelunker - 9cf651d1.jpg
