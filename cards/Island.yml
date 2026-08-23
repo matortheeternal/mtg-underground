@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Island
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Island
+  rulesText: ""
+  flavorText: null
+  watermark: autodetect
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: "{T}: Add {U}."
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Island - 20f4dcae.jpg
+  front: Island - 86c5800d.jpg

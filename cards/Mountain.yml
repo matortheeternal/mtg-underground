@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Mountain
   manaCost:
     __type: ManaCost
@@ -20,11 +21,14 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Mountain
+  rulesText: ""
+  flavorText: null
+  watermark: autodetect
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
-  showPT: ""
+  showPT: false
   rarity: common
   illustrator: Nat Monney
   autoCollectorNumber: L03
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: "{T}: Add {R}."
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Mountain - 12dd9588.jpg
+  front: Mountain - e7ee12b5.jpg

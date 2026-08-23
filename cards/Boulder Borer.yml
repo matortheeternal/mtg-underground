@@ -2,6 +2,7 @@ front:
   template: magic/M15/Main
   colors: []
   colorOverride: []
+  faceSymbol: null
   name: Boulder Borer
   manaCost:
     __type: ManaCost
@@ -16,6 +17,10 @@ front:
     yOffset: 260
   superType: Artifact Creature
   subType: Construct
+  rulesText: "{T}: Add {C}."
+  flavorText: After countless centuries spent carving rock and smashing stone, it
+    has slowed only slightly.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "0"
@@ -29,10 +34,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: "{T}: Add {C}."
-  flavorText: After countless centuries spent carving rock and smashing stone, it
-    has slowed only slightly.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -52,6 +53,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

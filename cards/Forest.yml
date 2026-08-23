@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Forest
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Forest
+  rulesText: ""
+  flavorText: null
+  watermark: autodetect
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: "{T}: Add {G}."
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Forest - 5be0e70c.jpg
+  front: Forest - 493e44b3.jpg

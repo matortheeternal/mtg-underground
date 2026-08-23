@@ -10,6 +10,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Simic Thicket
   manaCost:
     __type: ManaCost
@@ -24,6 +25,14 @@ front:
     yOffset: 0
   superType: Land
   subType: ""
+  rulesText: |-
+    This land enters tapped.
+
+    When this land enters, you may put a stun counter on it. If you do, scry 2.
+
+    {T}: Add {U} or {G}.
+  flavorText: null
+  watermark: ravnica/ug
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -37,14 +46,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    This land enters tapped.
-
-    When this land enters, you may put a stun counter on it. If you do, scry 2.
-
-    {T}: Add {U} or {G}.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,7 +65,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Simic Thicket - 3ad2df56.jpg
+  front: Simic Thicket - a483444e.jpg
