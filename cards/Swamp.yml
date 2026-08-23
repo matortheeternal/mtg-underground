@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Swamp
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Basic Land
   subType: Swamp
+  rulesText: ""
+  flavorText: null
+  watermark: autodetect
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: "{T}: Add {B}."
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -59,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Swamp - 2f6ee5b1.jpg
+  front: Swamp - 82ece84f.jpg

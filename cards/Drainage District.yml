@@ -2,6 +2,7 @@ front:
   template: magic/M15/Main
   colors: []
   colorOverride: []
+  faceSymbol: null
   name: Drainage District
   manaCost:
     __type: ManaCost
@@ -16,6 +17,14 @@ front:
     yOffset: 0
   superType: Land
   subType: ""
+  rulesText: >-
+    {T}: Add {C}.
+
+
+    {1}, {T}: Exile target card from a graveyard. Add one mana of any of that
+    card's colors. Activate only as a sorcery.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -29,14 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    {T}: Add {C}.
-
-
-    {1}, {T}: Exile target card from a graveyard. Add one mana of any of that
-    card's colors. Activate only as a sorcery.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Incite the Mob
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Sorcery
   subType: ""
+  rulesText: Creatures you control get +1/+0 until end of turn. Draw a card.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Creatures you control get +1/+0 until end of turn. Draw a card.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,6 +56,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

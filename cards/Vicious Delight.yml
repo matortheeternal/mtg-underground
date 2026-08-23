@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Vicious Delight
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 17
   superType: Instant
   subType: ""
+  rulesText: Target creature you control gains deathlink until end of turn.
+    (Whenever it deals combat damage, target player loses that much life.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,10 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Target creature you control gains deathlink until end of turn.
-    (Whenever it deals combat damage, target player loses that much life.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Sulfurous Serpent
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2U
   artImage:
     __type: image
     width: 1280
@@ -20,27 +21,26 @@ front:
     yOffset: 0
   superType: Creature
   subType: Serpent
+  rulesText: ""
+  flavorText: >-
+    "It bathes in and drinks sulfur. I think you would be hard pressed to find a
+    more repulsive creature upon the basis of its scent alone. In short: that's
+    one stinky snake."
+
+    —<name>
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "5"
+  toughness: "4"
   showPT: true
   rarity: common
   illustrator: Peter Ortiz
-  autoCollectorNumber: CU08
+  autoCollectorNumber: CU04
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: ""
-  flavorText: >-
-    "It wakes, bathes, and drinks sulfur. I think you would be hard pressed to
-    find a more repulsive creature upon the basis of its scent alone. In short:
-    that's one stinky snake."
-
-    —<name>
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +60,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Sulfurous Serpent - f21c07c6.jpg
+  front: Sulfurous Serpent - e03af91c.jpg

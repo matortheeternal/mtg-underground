@@ -46,6 +46,6 @@ export:
   WebExporter:
     Test: ""
     test: ""
-    baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
+    baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master
 pack: []
 imageExportPath: dist/images/

@@ -27,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Michael Siudy
-  autoCollectorNumber: CU07
+  autoCollectorNumber: CU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Archivist - 1a4a1fa3.jpg
+  front: Goblin Archivist - 70b3bb6d.jpg
