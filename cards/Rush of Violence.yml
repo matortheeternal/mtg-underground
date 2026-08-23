@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Rush of Violence
   manaCost:
     __type: ManaCost
@@ -20,6 +21,11 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: Target creature gets +2/+0 and gains ravage until end of turn. (It
+    can deal excess combat damage to another creature defending player
+    controls.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,11 +39,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Target creature gets +3/+1 and gains ravage until end of turn. (It
-    can deal excess combat damage to another creature defending player
-    controls.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,7 +58,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Rush of Violence - 1dc270be.jpg
+  front: Rush of Violence - 1c532201.jpg
