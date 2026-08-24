@@ -27,7 +27,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Alaiaorax
-  autoCollectorNumber: UB01
+  autoCollectorNumber: UB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Psychic Serpent - 19d4ac51.jpg
+  front: Psychic Serpent - 64ac475c.jpg

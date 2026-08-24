@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UW05
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: ""
+  rulesText: >-
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn except by creatures with bulwark.)
+
+
+    When this creature dies, draw a card.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UW05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UW05 - 3ef4aea1.jpg

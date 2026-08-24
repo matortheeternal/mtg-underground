@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UU02
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: ""
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, target creature gets -3/-0 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UU02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UU02 - bb57316f.jpg

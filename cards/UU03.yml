@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UU03
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: ""
+  rulesText: >-
+    Kicker {2}{U} (You may pay an additional {2}{U} when you cast this spell.)
+
+
+    When this creature enters, if it was kicked, draw three cards, discard a
+    card, and put a +1/+1 counter on it. Otherwise, draw a card, then discard a
+    card.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UU03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UU03 - cdcd0e10.jpg

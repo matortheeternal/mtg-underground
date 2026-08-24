@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Resist the Cold
   manaCost:
     __type: ManaCost
@@ -20,6 +21,11 @@ front:
     yOffset: 349
   superType: Instant
   subType: ""
+  rulesText: Untap up to three target creatures you control. They gain barrier {1}
+    until end of turn. (If a source would deal damage to a creature with barrier
+    {1}, prevent that damage unless its controller pays {1}.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,12 +39,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Untap up to three target creatures you control. They gain barrier {1}
-    until end of turn. (If a source would deal damage to a creature with barrier
-    {1}, that source’s controller may pay {1}. If they don’t, prevent that
-    damage.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,7 +58,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Resist the Cold - 89f737fd.jpg
+  front: Resist the Cold - 93b27479.jpg
