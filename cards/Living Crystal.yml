@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Living Crystal
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 143
   superType: Artifact Creature
   subType: Golem
+  rulesText: >-
+    Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
+    you control, and counters are modifications)
+
+
+    Barrier {1} (If a source would deal damage to this creature, that source’s
+    controller may pay {1}. If they don’t, prevent that damage.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -33,14 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Sleeper (This creature can’t attack unless it’s modified.)
-
-
-    Barrier {1} (If a source would deal damage to this creature, that source’s
-    controller may pay {1}. If they don’t, prevent that damage.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,11 +58,12 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
+  chopTop: "2"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Living Crystal - 54f1a839.jpg
+  front: Living Crystal - 2bf87569.jpg

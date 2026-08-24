@@ -6,34 +6,21 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Smite the Wicked
   manaCost:
     __type: ManaCost
     symbols: 3W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1186
+    height: 674
+    cropWidth: 955
+    cropHeight: 674
+    xOffset: 137
     yOffset: 0
   superType: Instant
   subType: ""
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CW18
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     This spell costs {2} less to cast if it targets an attacking or blocking
     creature.
@@ -41,6 +28,20 @@ front:
 
     ~ deals 4 damage to target creature.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Yiri Kus
+  autoCollectorNumber: CW18
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +61,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: usually conditional removal
 tags: []
 imageExports:
-  front: Smite the Wicked - f94d52e2.jpg
+  front: Smite the Wicked - c2fad135.jpg

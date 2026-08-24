@@ -6,34 +6,21 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Ceremonial Blade
+  faceSymbol: null
+  name: Ceremonial Sword
   manaCost:
     __type: ManaCost
     symbols: 4W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1063
+    height: 752
+    cropWidth: 1063
+    cropHeight: 752
     xOffset: 0
     yOffset: 0
   superType: Artifact
   subType: Equipment
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CW19
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     When this Equipment enters, you may return target creature card from your
     graveyard to the battlefield and attach this equipment to it.
@@ -44,6 +31,20 @@ front:
 
     Equip {1}
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Themefinland
+  autoCollectorNumber: CW19
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,7 +64,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Ceremonial Blade - 37ed4828.jpg
+  front: Ceremonial Sword - 0bcb353e.jpg

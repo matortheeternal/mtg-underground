@@ -6,37 +6,38 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Become Impassable
   manaCost:
     __type: ManaCost
     symbols: G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 700
+    height: 950
+    cropWidth: 700
+    cropHeight: 592
     xOffset: 0
-    yOffset: 0
+    yOffset: 283
   superType: Instant
   subType: ""
+  rulesText: Target creature gets +1/+3 and gains bulwark until end of turn. Untap
+    it. (A creature with bulwark can block two creatures.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Gerezon
   autoCollectorNumber: CG13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Target creature gets +1/+3 and gains bulwark until end of turn. Untap
-    it. (A creature with bulwark can block two creatures.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Become Impassable - 9cd6fd37.jpg
+  front: Become Impassable - 39331b2e.jpg

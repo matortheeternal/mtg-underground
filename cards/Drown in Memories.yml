@@ -6,38 +6,39 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: blue flex slot
+  faceSymbol: null
+  name: Drown in Memories
   manaCost:
     __type: ManaCost
     symbols: 1U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 101
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: >
+    Creatures target player controls get -X/-0 until end of turn, where X is the
+    number of nonland cards in that player’s graveyard.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Themefinland
   autoCollectorNumber: CU13
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >
-    Creatures target player controls get -X/-0 until end of turn, where X is the
-    number of nonland cards in that player’s graveyard.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,7 +58,8 @@ front:
   chopBottom: ""
   maxFontSize: "20"
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: blue flex slot - 5d0d53c4.jpg
+  front: Drown in Memories - ea08f431.jpg

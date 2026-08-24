@@ -6,34 +6,21 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Sporestone
   manaCost:
     __type: ManaCost
     symbols: 2G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1163
+    height: 687
+    cropWidth: 850
+    cropHeight: 600
     xOffset: 0
-    yOffset: 0
+    yOffset: 54
   superType: Artifact
   subType: ""
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CG18
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     When this artifact enters, put a +1/+1 counter on up to one target creature
     you control.
@@ -41,6 +28,20 @@ front:
 
     {T}: Add {G}.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Florent Perret
+  autoCollectorNumber: CG18
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +61,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Sporestone - 9cf2ec96.jpg
+  front: Sporestone - d9d245a9.jpg

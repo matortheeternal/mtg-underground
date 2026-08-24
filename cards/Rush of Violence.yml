@@ -13,11 +13,11 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1196
+    height: 668
+    cropWidth: 947
+    cropHeight: 668
+    xOffset: 85
     yOffset: 0
   superType: Instant
   subType: ""
@@ -32,7 +32,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Vegasmike
   autoCollectorNumber: CR16
   collectorNumber: ""
   setCode: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Rush of Violence - 1c532201.jpg
+  front: Rush of Violence - 11755bf8.jpg

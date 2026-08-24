@@ -6,36 +6,37 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Coordinated Tactics
   manaCost:
     __type: ManaCost
     symbols: 1WW
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1024
+    height: 663
+    cropWidth: 1024
+    cropHeight: 663
     xOffset: 0
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: Creatures you control get +2/+1 until end of turn.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Johan Grenier
   autoCollectorNumber: CW17
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Creatures you control get +2/+1 until end of turn.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Coordinated Tactics - 11c5b38d.jpg
+  front: Coordinated Tactics - 8bd6e6d1.jpg
