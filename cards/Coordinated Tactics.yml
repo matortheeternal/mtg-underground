@@ -15,9 +15,9 @@ front:
     __type: image
     width: 1024
     height: 663
-    cropWidth: 1024
+    cropWidth: 940
     cropHeight: 663
-    xOffset: 0
+    xOffset: 71
     yOffset: 0
   superType: Instant
   subType: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Coordinated Tactics - 8bd6e6d1.jpg
+  front: Coordinated Tactics - 5518be19.jpg
