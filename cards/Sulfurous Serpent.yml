@@ -23,11 +23,12 @@ front:
   subType: Serpent
   rulesText: ""
   flavorText: >-
-    "It bathes in and drinks sulfur. I think you would be hard pressed to find a
-    more repulsive creature upon the basis of its scent alone. In short: that's
-    one stinky snake."
+    "It drinks and bathes in sulfur. I think you would be hard pressed to find a
+    more repulsive creature upon the basis of its scent alone. In other words:
+    that's one stinky snake."
 
     —<name>
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -64,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Sulfurous Serpent - e03af91c.jpg
+  front: Sulfurous Serpent - 4ccb6f4c.jpg

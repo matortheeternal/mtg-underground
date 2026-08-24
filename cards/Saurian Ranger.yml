@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Saurian Ranger
   manaCost:
     __type: ManaCost
@@ -20,6 +21,11 @@ front:
     yOffset: 0
   superType: Creature
   subType: Lizard Ranger
+  rulesText: ""
+  flavorText: '"People often ask me to tell them the stories of my greatest hunts.
+    They rarely understand just how harrowing and deadly those experiences
+    were."'
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,9 +39,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: ""
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +58,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Saurian Ranger - 25512e9c.jpg
+  front: Saurian Ranger - 9c8ac52d.jpg

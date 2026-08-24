@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Goblin Throat-Slitter
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    width: 828
+    height: 1104
+    cropWidth: 828
+    cropHeight: 678
+    xOffset: 0
+    yOffset: 183
+  superType: Creature
+  subType: Goblin Assassin
+  rulesText: >-
+    Rush {B} (You may cast this spell for {B} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {B}.)
+
+
+    When this creature dies, target creature gets -1/-1 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Goblin Throat-Slitter - 2fdbddb2.jpg

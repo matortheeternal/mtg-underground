@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Shielded Assault Scarab
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 0
   superType: Artifact Creature
   subType: Insect Construct
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    Barrier {3} (If a source would deal damage to this creature, prevent that
+    damage unless its controller pays {3}.)
+  flavorText: '"What is that thing?!"'
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "4"
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Climbing (This creature can’t be blocked by creatures with greater
-    toughness.)
-
-
-    Barrier {3} (If a source would deal damage to this creature, that source’s
-    controller may pay {3}. If they don’t, prevent that damage.)
-  flavorText: '"What is that thing?!"'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Shielded Assault Scarab - cfeecb1c.jpg
+  front: Shielded Assault Scarab - e43a4a27.jpg

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Nirn, the Perfect Shelter
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 0
   superType: Legendary Land
   subType: ""
+  rulesText: >-
+    {T}: Add {W}.
+
+
+    {4}{W}{W}, {T}: You gain barrier {5} until the beginning of your next turn.
+    (If a source would deal damage to you, prevent that damage unless its
+    controller pays {5}.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    {T}: Add {W}.
-
-
-    {4}{W}{W}, {T}: You gain barrier {5} until the beginning of your next turn.
-    (If a source would deal damage to you, that source’s controller may pay {5}.
-    If they don’t, prevent that damage.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Nirn, the Perfect Shelter - ebc3f7a1.jpg
+  front: Nirn, the Perfect Shelter - 4b0a3c3b.jpg

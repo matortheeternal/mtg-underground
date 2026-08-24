@@ -26,8 +26,8 @@ front:
     you control, and counters are modifications)
 
 
-    Barrier {1} (If a source would deal damage to this creature, that source’s
-    controller may pay {1}. If they don’t, prevent that damage.)
+    Barrier {1} (If a source would deal damage to this creature, prevent that
+    damage unless its controller pays {1}.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Living Crystal - 2bf87569.jpg
+  front: Living Crystal - f14817e1.jpg

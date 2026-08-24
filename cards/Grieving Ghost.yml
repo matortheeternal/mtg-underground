@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Grieving Ghost
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Creature
   subType: Spirit
+  rulesText: Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,6 +56,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
