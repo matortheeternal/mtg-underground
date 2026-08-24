@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Exhausted Mage
   manaCost:
     __type: ManaCost
@@ -20,6 +21,14 @@ front:
     yOffset: 0
   superType: Creature
   subType: Lizard Wizard
+  rulesText: >-
+    Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
+    you control, and counters are modifications)
+
+
+    When this creature enters, scry 2.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -33,12 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    Sleeper (This creature can’t attack unless it’s modified.)
-
-    When this creature enters, scry 2.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,7 +61,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Exhausted Mage - ba0866a9.jpg
+  front: Exhausted Mage - d8e81d17.jpg

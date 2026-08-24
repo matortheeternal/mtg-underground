@@ -28,9 +28,9 @@ front:
   rulesText: |-
     This land enters tapped.
 
-    When this land enters, return a land you control to its owner’s hand.
+    When this land enters, you may put a stun counter on it. If you do, scry 2.
 
-    {T}: Add {B}{G}.
+    {T}: Add {B} or {G}.
   flavorText: null
   watermark: ravnica/bg
   flagLeft: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Golgari Grove - b01cdb82.jpg
+  front: Golgari Grove - 19bc37d7.jpg

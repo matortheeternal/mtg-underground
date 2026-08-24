@@ -6,34 +6,21 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Caught in a Cave-In
   manaCost:
     __type: ManaCost
     symbols: 1W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 500
+    height: 745
+    cropWidth: 500
+    cropHeight: 353
     xOffset: 0
-    yOffset: 0
+    yOffset: 318
   superType: Enchantment
   subType: ""
-  flagLeft: ""
-  flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CW14
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >
     When this enchantment enters, exile target creature an opponent controls
     until this enchantment leaves the battlefield.
@@ -43,6 +30,20 @@ front:
     {5}, Mill four cards: Destroy this enchantment. Only your opponents may
     activate this ability and only as a sorcery.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Arnaud Pheu
+  autoCollectorNumber: CW14
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,7 +63,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Caught in a Cave-In - b902e717.jpg
+  front: Caught in a Cave-In - 43de3711.jpg

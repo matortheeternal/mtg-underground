@@ -13,11 +13,11 @@ front:
     symbols: R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1264
+    height: 632
+    cropWidth: 896
+    cropHeight: 632
+    xOffset: 68
     yOffset: 0
   superType: Sorcery
   subType: ""
@@ -30,7 +30,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Themefinland
   autoCollectorNumber: CR12
   collectorNumber: ""
   setCode: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Incite the Mob - c5536e32.jpg
+  front: Incite the Mob - 4cf46ad6.jpg

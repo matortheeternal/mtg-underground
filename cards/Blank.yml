@@ -6,38 +6,40 @@ front:
       sources:
         normal: true
   colorOverride: []
-  name: Nullify
+  faceSymbol: null
+  name: Blank
   manaCost:
     __type: ManaCost
     symbols: W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 834
+    height: 958
+    cropWidth: 834
+    cropHeight: 648
     xOffset: 0
-    yOffset: 0
+    yOffset: 241
   superType: Instant
   subType: ""
+  rulesText: |-
+    Target nonland permanent loses all abilities until end of turn.
+
+    Draw a card.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW01
+  rarity: rare
+  illustrator: Nexumorphic
+  autoCollectorNumber: RW01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    Target attacking or blocking creature loses all abilities until end of turn.
-    Draw a card.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,7 +59,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Nullify - 1a872828.jpg
+  front: Blank - a75b43e2.jpg
