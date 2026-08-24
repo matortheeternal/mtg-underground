@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Colossal Axolotl
   manaCost:
     __type: ManaCost
@@ -19,7 +20,15 @@ front:
     xOffset: 0
     yOffset: 244
   superType: Creature
-  subType: Salamander Horror
+  subType: Salamander
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    {U}: This creature gets +1/-1 until end of turn.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,14 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Climbing (This creature can’t be blocked by creatures with greater
-    toughness.)
-
-
-    {U}: This creature gets +1/-1 until end of turn.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +61,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
