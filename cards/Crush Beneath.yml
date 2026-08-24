@@ -6,37 +6,38 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Crush Beneath
   manaCost:
     __type: ManaCost
     symbols: 1G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1043
+    height: 766
+    cropWidth: 1043
+    cropHeight: 736
     xOffset: 0
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: Target creature you control deals damage equal to its toughness to
+    target creature an opponent controls.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Caio Monteiro
   autoCollectorNumber: CG14
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Target creature you control deals damage equal to its toughness to
-    target creature an opponent controls.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Crush Beneath - 68761df4.jpg
+  front: Crush Beneath - 67672409.jpg

@@ -6,37 +6,38 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Terrible Tremors
   manaCost:
     __type: ManaCost
     symbols: 3R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1600
+    height: 2480
+    cropWidth: 1600
+    cropHeight: 1406
     xOffset: 0
-    yOffset: 0
+    yOffset: 659
   superType: Sorcery
   subType: ""
+  rulesText: ~ deals 1 damage to each creature your opponents control. Creatures
+    without bulwark can't block this turn.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: ""
+  illustrator: Imad Awan
   autoCollectorNumber: CR18
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: ~ deals 1 damage to each creature your opponents control. Creatures
-    without bulwark can't block this turn.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Terrible Tremors - 895d1735.jpg
+  front: Terrible Tremors - e9bc323e.jpg
