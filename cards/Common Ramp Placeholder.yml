@@ -1,34 +1,27 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Caught in a Cave-In
+  name: Common Ramp Placeholder
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: G
   artImage:
     __type: image
-    width: 500
-    height: 745
-    cropWidth: 500
-    cropHeight: 353
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
-    yOffset: 318
-  superType: Enchantment
+    yOffset: 0
+  superType: Sorcery
   subType: ""
-  rulesText: >
-    When this enchantment enters, exile target creature an opponent controls
-    until this enchantment leaves the battlefield.
-
-
-
-    {6}, Mill four cards: Destroy this enchantment. Only your opponents may
-    activate this ability and only as a sorcery.
+  rulesText: search for a land put it on battlefield or into hand idk
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -37,8 +30,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: Arnaud Pheu
-  autoCollectorNumber: CW14
+  illustrator: ""
+  autoCollectorNumber: ""
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,12 +52,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: "2"
+  chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
-imageExports:
-  front: Caught in a Cave-In - 43de3711.jpg

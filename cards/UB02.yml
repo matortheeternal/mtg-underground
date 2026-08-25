@@ -1,44 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Caught in a Cave-In
+  name: UB02
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: B
   artImage:
     __type: image
-    width: 500
-    height: 745
-    cropWidth: 500
-    cropHeight: 353
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
-    yOffset: 318
-  superType: Enchantment
+    yOffset: 0
+  superType: Creature
   subType: ""
   rulesText: >
-    When this enchantment enters, exile target creature an opponent controls
-    until this enchantment leaves the battlefield.
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
 
 
-
-    {6}, Mill four cards: Destroy this enchantment. Only your opponents may
-    activate this ability and only as a sorcery.
+    {B}: This creature gets +1/+1 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: Arnaud Pheu
-  autoCollectorNumber: CW14
+  power: "0"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: ""
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,12 +57,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: "2"
+  chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
-imageExports:
-  front: Caught in a Cave-In - 43de3711.jpg

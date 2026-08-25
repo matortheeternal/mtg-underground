@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Psychic Serpent
   manaCost:
     __type: ManaCost
@@ -20,20 +21,6 @@ front:
     yOffset: 334
   superType: Creature
   subType: Snake
-  flagLeft: ""
-  flagRight: ""
-  power: "1"
-  toughness: "1"
-  showPT: true
-  rarity: uncommon
-  illustrator: Alaiaorax
-  autoCollectorNumber: UB02
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     Climbing (This creature can't be blocked by creatures with greater
     toughness.)
@@ -43,6 +30,20 @@ front:
     nonland card from it. For as long as that card remains exiled, its owner may
     cast it by paying 3 life in addition to its other costs.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Alaiaorax
+  autoCollectorNumber: UB03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -62,6 +63,7 @@ front:
   chopBottom: "-1"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
