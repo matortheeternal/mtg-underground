@@ -21,7 +21,9 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
-  rulesText: Target creature gains escort and gets +1/+4 until end of turn.
+  rulesText: Target creature gets +2/+2 and gains escort until end of turn. (When
+    it attacks, another target creature without escort can't be blocked this
+    turn except by creatures with bulwark.)
   flavorText: null
   watermark: null
   flagLeft: ""

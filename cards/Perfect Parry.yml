@@ -21,7 +21,7 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
-  rulesText: Target creature gets +0/+3 and gains riposte until end of turn.
+  rulesText: Target creature gets +0/+6 and gains riposte until end of turn.
     (Whenever a creature with riposte is dealt damage by another creature, it
     deals that much damage back.)
   flavorText: null
