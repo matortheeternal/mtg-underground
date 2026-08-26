@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Simian Ritespeaker
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 71
   superType: Creature
   subType: Ape Shaman
+  rulesText: >-
+    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
+    end of turn.)
+
+
+    {4}{G}, Sacrifice this creature: Draw cards equal to this creature's
+    toughness.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
-
-
-    {4}{G}, Sacrifice this creature: Draw cards equal to this creature's
-    toughness.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +62,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

@@ -1,29 +1,30 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Perfect Parry
+  name: UB12
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 4B
   artImage:
     __type: image
-    width: 1232
-    height: 649
-    cropWidth: 920
-    cropHeight: 649
-    xOffset: 156
+    width: 0
+    height: 0
+    cropWidth: 1
+    cropHeight: 1
+    xOffset: 0
     yOffset: 0
   superType: Instant
   subType: ""
-  rulesText: Target creature gets +0/+6 and gains riposte until end of turn.
-    (Whenever a creature with riposte is dealt damage by another creature, it
-    deals that much damage back.)
+  rulesText: |-
+    This spell costs {1} less to cast for each creature that died this turn.
+
+    Target player draws three cards and loses 3 life.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -31,9 +32,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
-  illustrator: Themefinland
-  autoCollectorNumber: CW13
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +63,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Perfect Parry - 2a6cb311.jpg
+  front: UB12 - 4c1d0bb6.jpg

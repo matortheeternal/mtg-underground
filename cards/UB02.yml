@@ -15,8 +15,8 @@ front:
     __type: image
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Creature
@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: ""
+  autoCollectorNumber: UB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,3 +64,5 @@ front:
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: UB02 - d5208296.jpg

@@ -1,39 +1,37 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Perfect Parry
+  name: UB06
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 1BB
   artImage:
     __type: image
-    width: 1232
-    height: 649
-    cropWidth: 920
-    cropHeight: 649
-    xOffset: 156
+    width: 0
+    height: 0
+    cropWidth: 1
+    cropHeight: 1
+    xOffset: 0
     yOffset: 0
-  superType: Instant
+  superType: Creature
   subType: ""
-  rulesText: Target creature gets +0/+6 and gains riposte until end of turn.
-    (Whenever a creature with riposte is dealt damage by another creature, it
-    deals that much damage back.)
+  rulesText: Whenever you gain life, this creature gets +1/+0 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: common
-  illustrator: Themefinland
-  autoCollectorNumber: CW13
+  power: "4"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Perfect Parry - 2a6cb311.jpg
+  front: UB06 - 82cf46c5.jpg

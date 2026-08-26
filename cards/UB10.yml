@@ -1,29 +1,28 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Perfect Parry
+  name: UB10
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: B
   artImage:
     __type: image
-    width: 1232
-    height: 649
-    cropWidth: 920
-    cropHeight: 649
-    xOffset: 156
+    width: 0
+    height: 0
+    cropWidth: 1
+    cropHeight: 1
+    xOffset: 0
     yOffset: 0
-  superType: Instant
+  superType: Sorcery
   subType: ""
-  rulesText: Target creature gets +0/+6 and gains riposte until end of turn.
-    (Whenever a creature with riposte is dealt damage by another creature, it
-    deals that much damage back.)
+  rulesText: Return target creature card from your graveyard to your hand. If that
+    card was put into your graveyard this turn, add {B}{B}.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -31,9 +30,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
-  illustrator: Themefinland
-  autoCollectorNumber: CW13
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Perfect Parry - 2a6cb311.jpg
+  front: UB10 - 222b8ac1.jpg
