@@ -29,7 +29,7 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: Anton Kurbatov
   autoCollectorNumber: L05
   collectorNumber: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Forest - 9499ebdb.jpg
+  front: Forest - 60a57312.jpg

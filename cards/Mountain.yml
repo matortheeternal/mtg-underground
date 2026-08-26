@@ -29,7 +29,7 @@ front:
   power: ""
   toughness: ""
   showPT: false
-  rarity: common
+  rarity: land
   illustrator: Nat Monney
   autoCollectorNumber: L03
   collectorNumber: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Mountain - e7ee12b5.jpg
+  front: Mountain - 59bfe36f.jpg

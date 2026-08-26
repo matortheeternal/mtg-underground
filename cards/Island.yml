@@ -29,7 +29,7 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: Sylvia Ritter
   autoCollectorNumber: L01
   collectorNumber: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Island - 4b132807.jpg
+  front: Island - 982e0a90.jpg

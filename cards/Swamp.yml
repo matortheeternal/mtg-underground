@@ -29,7 +29,7 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: land
   illustrator: Anton Kurbatov
   autoCollectorNumber: L04
   collectorNumber: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Swamp - 67a248fa.jpg
+  front: Swamp - ed52e1d4.jpg
