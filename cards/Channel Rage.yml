@@ -25,7 +25,7 @@ front:
     Enchant creature
 
 
-    Enchanted creature gets +2/+1 and has rally. (Whenever you cast a creature
+    Enchanted creature gets +2/+1 and has zeal. (Whenever you cast a creature
     spell, it gets +1/+1 until end of turn.)
   flavorText: null
   watermark: null
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Channel Rage - 15a95bf7.jpg
+  front: Channel Rage - 10eec2b5.jpg

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Soulsip Scavenger
   manaCost:
     __type: ManaCost
@@ -20,6 +21,14 @@ front:
     yOffset: 0
   superType: Creature
   subType: Horror
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    {1}, {T}: Target player mills two cards.
+  flavorText: Memories linger after death, and it is never one to waste a meal.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -33,14 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Grind (Whenever this creature deals combat damage, target player mills that
-    many cards.)
-
-
-    {2}, {T}: Target player mills two cards.
-  flavorText: Memories linger after death, and it is never one to waste a meal.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -64,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Soulsip Scavenger - 5f754358.jpg
+  front: Soulsip Scavenger - 6ba392c6.jpg

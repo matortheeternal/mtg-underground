@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Flaming Newt
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 63
   superType: Creature
   subType: Elemental Salamander
+  rulesText: >-
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    {T}: Add {R}. Spend this mana only to cast Elemental, Lizard, and Salamander
+    spells.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,14 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Climbing (This creature can’t be blocked by creatures with greater
-    toughness.)
-
-
-    {T}: Add {R}.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Flaming Newt - 830af59c.jpg
+  front: Flaming Newt - deaaa8c3.jpg

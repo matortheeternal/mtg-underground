@@ -32,7 +32,7 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "8"
+  power: "7"
   toughness: "10"
   showPT: true
   rarity: uncommon
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU07 - 7c4d7f0c.jpg
+  front: UU07 - 8d5da926.jpg

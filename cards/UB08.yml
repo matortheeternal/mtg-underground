@@ -28,11 +28,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "5"
-  toughness: "6"
+  toughness: "5"
   showPT: true
-  rarity: uncommon
+  rarity: common
   illustrator: ""
-  autoCollectorNumber: UB08
+  autoCollectorNumber: CB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB08 - 680f6d2b.jpg
+  front: UB08 - ea763c89.jpg

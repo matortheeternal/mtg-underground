@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Waterfall Overseer
   manaCost:
     __type: ManaCost
@@ -20,9 +21,17 @@ front:
     yOffset: 10
   superType: Creature
   subType: Ape
+  rulesText: >
+    Ravage (This creature can deal excess combat damage to another creature
+    defending player controls.)
+
+
+    Bulwark (This creature can block an additional creature each combat.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "8"
+  power: "6"
   toughness: "8"
   showPT: true
   rarity: common
@@ -33,14 +42,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >
-    Ravage (This creature can deal excess combat damage to another creature
-    defending player controls.)
-
-
-    Bulwark (This creature can block an additional creature each combat.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +61,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Waterfall Overseer - 35fe458e.jpg
+  front: Waterfall Overseer - 19195a50.jpg

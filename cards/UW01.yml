@@ -22,8 +22,8 @@ front:
   superType: Creature
   subType: ""
   rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
     Retreat (Whenever this creature becomes blocked, you may return it to its
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW01 - 6b25e3b6.jpg
+  front: UW01 - d925f5d2.jpg

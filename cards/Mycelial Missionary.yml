@@ -22,8 +22,8 @@ front:
   superType: Creature
   subType: Fungus Beast
   rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
     Whenever this creature attacks, put a +1/+1 counter on another target
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Mycelial Missionary - 9a198cf0.jpg
+  front: Mycelial Missionary - f131ad59.jpg

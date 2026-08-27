@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Blasting Fields Expedition
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 0
   superType: Enchantment
   subType: ""
+  rulesText: >-
+    When this enchantment enters, you may search your library for a card with
+    rush, reveal it, put it into your hand, then shuffle.
+
+
+    Whenever you cast a spell, if less mana was spent to cast it than its mana
+    value, you may discard a card. If you do, draw a card.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -27,21 +37,12 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Las Pinter
-  autoCollectorNumber: UR01
+  autoCollectorNumber: UR09
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    When this enchantment enters, you may search your library for a creature
-    card with rush, reveal it, put it into your hand, then shuffle.
-
-
-    Whenever you cast a spell, if less mana was spent to cast it than its mana
-    value, you may discard a card. If you do, draw a card.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Blasting Fields Expedition - f127ae54.jpg
+  front: Blasting Fields Expedition - 550737a8.jpg
