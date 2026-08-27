@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Bonecoil Eradicator
   manaCost:
     __type: ManaCost
@@ -20,9 +21,15 @@ front:
     yOffset: 0
   superType: Creature
   subType: Skeleton Wurm
+  rulesText: Ravage (This creature can deal excess combat damage to another
+    creature defending player controls.)
+  flavorText: "The sound of clattering bones echoed through the cavern as the
+    eradicator prepared to greet its visitor with the only hospitality it knew:
+    violence."
+  watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "7"
+  power: "6"
   toughness: "4"
   showPT: true
   rarity: common
@@ -33,12 +40,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Ravage (This creature can deal excess combat damage to another
-    creature defending player controls.)
-  flavorText: "The sound of clattering bones echoed through the cavern as the
-    eradicator prepared to greet its visitor with the only hospitality it knew:
-    violence."
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,7 +59,8 @@ front:
   chopBottom: "-2"
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Bonecoil Eradicator - d09e09cf.jpg
+  front: Bonecoil Eradicator - 8f8d7a27.jpg

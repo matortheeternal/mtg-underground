@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UR07
+  manaCost:
+    __type: ManaCost
+    symbols: 5RRR
+  artImage:
+    __type: image
+    width: 0
+    height: 0
+    cropWidth: 0
+    cropHeight: 0
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Elemental
+  rulesText: >
+    Rush {3} (You may cast this spell for {3} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {3}.)
+
+
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    When this creature dies, add {R}{R}{R}. Until end of turn, you don't lose
+    this mana as steps and phases end.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "6"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UR07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UR07 - c2a6c88f.jpg

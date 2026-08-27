@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Thing in the Dark
   manaCost:
     __type: ManaCost
@@ -20,24 +21,24 @@ front:
     yOffset: 0
   superType: Creature
   subType: Spirit Horror
+  rulesText: Deathlink (Whenever this creature deals combat damage, target player
+    loses that much life.)
+  flavorText: Kayla stared into the darkness. As her eyes adjusted, she realized
+    something was staring back.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "5"
+  toughness: "6"
   showPT: true
-  rarity: common
+  rarity: uncommon
   illustrator: Acerbas
-  autoCollectorNumber: CB10
+  autoCollectorNumber: UB08
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Deathlink (Whenever this creature deals combat damage, target player
-    loses that much life.)
-  flavorText: Kayla stared into the darkness. As her eyes adjusted, she realized
-    something was staring back.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,8 +58,9 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags:
   - placeholder-in-ft
 imageExports:
-  front: Thing in the Dark - 661ce4ca.jpg
+  front: Thing in the Dark - c1892a6b.jpg

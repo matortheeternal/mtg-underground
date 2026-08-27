@@ -26,7 +26,7 @@ front:
     you control, and counters are modifications)
 
 
-    Whenever you spend four or more mana to cast a spell, put a +1/+1 counter on
+    Whenever you spend five or more mana to cast a spell, put a +1/+1 counter on
     this creature.
   flavorText: null
   watermark: null
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Bronze Golem - fb924cfa.jpg
+  front: Bronze Golem - a4323cf0.jpg

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Ossuary Omnivores
   manaCost:
     __type: ManaCost
@@ -20,6 +21,11 @@ front:
     yOffset: 0
   superType: Creature
   subType: Rat
+  rulesText: Deathlink (Whenever this creature deals combat damage, target player
+    loses that much life.)
+  flavorText: They fed on a thousand bodies, but it would take ten thousand more
+    to satisfy them.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,11 +39,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Deathlink (Whenever this creature deals combat damage, target player
-    loses that much life.)
-  flavorText: They fed on a thousand bodies, but it would take ten thousand more
-    to satisfy them.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,6 +58,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

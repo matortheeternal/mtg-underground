@@ -10,7 +10,7 @@ front:
   name: Perfect Parry
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 1W
   artImage:
     __type: image
     width: 1232
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Perfect Parry - 2a6cb311.jpg
+  front: Perfect Parry - abc08558.jpg

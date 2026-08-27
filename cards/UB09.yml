@@ -21,9 +21,9 @@ front:
     yOffset: 0
   superType: Sorcery
   subType: ""
-  rulesText: Target creature gets +X/+0 and gains ravage until end of turn. When
-    that creature dies this turn, draw a card. (You may assign its excess combat
-    damage to another creature defending player controls.)
+  rulesText: Target creature gets +X/+0 and gains grind until end of turn. When
+    that creature dies this turn, draw a card. (Whenever it deals damage, target
+    player mills that many cards.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB09 - 63f0bbab.jpg
+  front: UB09 - 7b912ab2.jpg

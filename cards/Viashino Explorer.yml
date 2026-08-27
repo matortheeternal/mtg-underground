@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Viashino Explorer
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 41
   superType: Creature
   subType: Lizard Warrior
+  rulesText: Zeal (Whenever you cast a creature spell, this creature gets +1/+1
+    until end of turn.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,10 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Rally (Whenever you cast a creature spell, this creature gets +1/+1
-    until end of turn.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Viashino Explorer - 08d1a961.jpg
+  front: Viashino Explorer - 86c8dd77.jpg

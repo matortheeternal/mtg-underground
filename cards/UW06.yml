@@ -22,8 +22,8 @@ front:
   superType: Creature
   subType: ""
   rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
     {W}, {T}: Another target creature gets +X/+X until end of turn, where X is
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW06 - 828c427d.jpg
+  front: UW06 - 6595d36a.jpg

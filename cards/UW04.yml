@@ -22,8 +22,8 @@ front:
   superType: Creature
   subType: ""
   rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
     Riposte (Whenever this creature is dealt damage by another creature, it
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW04 - b4d3a940.jpg
+  front: UW04 - e9b61ca1.jpg

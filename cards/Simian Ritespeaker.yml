@@ -22,18 +22,17 @@ front:
   superType: Creature
   subType: Ape Shaman
   rulesText: >-
-    Rally (Whenever you cast a creature spell, this creature gets +1/+1 until
-    end of turn.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
-    {4}{G}, Sacrifice this creature: Draw cards equal to this creature's
-    toughness.
+    {4}{G}, Sacrifice this creature: Draw cards equal to this creature's power.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "2"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Cyril Terpent
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Ritespeaker - 2ef43c98.jpg
+  front: Simian Ritespeaker - 55996080.jpg

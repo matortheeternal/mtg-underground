@@ -32,7 +32,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU01 - 14e6aebf.jpg
+  front: UU01 - 67377baf.jpg
