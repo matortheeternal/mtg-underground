@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Deep Devils
   manaCost:
     __type: ManaCost
@@ -14,12 +15,17 @@ front:
     __type: image
     width: 600
     height: 621
-    cropWidth: 600
-    cropHeight: 484
-    xOffset: 0
-    yOffset: 57
+    cropWidth: 595
+    cropHeight: 480
+    xOffset: 5
+    yOffset: 59
   superType: Creature
   subType: Beast
+  rulesText: ""
+  flavorText: The undisputed lords of the deep command fear in the upper reaches
+    as well. Relying mainly on their stealth and speed, Deep Devils can take a
+    victim by surprise, even beyond the dark zones.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,11 +39,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: ""
-  flavorText: The undisputed lords of the deep command fear in the upper reaches
-    as well. Relying mainly on their stealth and speed, Deep Devils can take a
-    victim by surprise, even beyond the dark zones.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -57,7 +58,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Deep Devils - 6b10e840.jpg
+  front: Deep Devils - 904af314.jpg

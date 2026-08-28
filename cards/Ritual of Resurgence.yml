@@ -7,26 +7,22 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB11
+  name: Ritual of Resurgence
   manaCost:
     __type: ManaCost
-    symbols: 1B
+    symbols: B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
-  superType: Instant
+    width: 1256
+    height: 636
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 203
+    yOffset: 36
+  superType: Sorcery
   subType: ""
-  rulesText: >-
-    As an additional cost to cast this spell, discard a card or sacrifice a
-    creature.
-
-
-    Destroy target creature.
+  rulesText: Return target creature card from your graveyard to your hand. If that
+    card was put into your graveyard this turn, add {B}{B}.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -35,8 +31,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UB11
+  illustrator: Themefinland
+  autoCollectorNumber: UB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB11 - afb1cfce.jpg
+  front: Ritual of Resurgence - cbcbe93c.jpg

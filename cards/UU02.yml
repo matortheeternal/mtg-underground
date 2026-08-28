@@ -13,14 +13,14 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1078
+    height: 741
+    cropWidth: 1050
+    cropHeight: 741
+    xOffset: 14
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Slug Wizard
   rulesText: >-
     Climbing (This creature can’t be blocked by creatures with greater
     toughness.)
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU02 - bb57316f.jpg
+  front: UU02 - a6804aad.jpg

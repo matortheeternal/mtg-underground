@@ -1,42 +1,39 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR01
+  name: Lead the Way
   manaCost:
     __type: ManaCost
-    symbols: RR
+    symbols: 1W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
+    width: 900
+    height: 632
+    cropWidth: 895
+    cropHeight: 632
+    xOffset: 2
     yOffset: 0
-  superType: Creature
-  subType: Goblin Artificer
-  rulesText: >-
-    Rush {R} (You may cast this spell for {R} less. When you do, sacrifice it at
-    the beginning of your next upkeep unless you pay {R}.)
-
-
-    When this creature dies, destroy up to one target artifact.
+  superType: Instant
+  subType: ""
+  rulesText: Target creature gets +2/+2 and gains escort until end of turn. (When
+    it attacks, another target creature without escort can't be blocked this
+    turn except by creatures with bulwark.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR01
+  autoCollectorNumber: UW08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR01 - 2150308e.jpg
+  front: Lead the Way - 5eeaf7cf.jpg

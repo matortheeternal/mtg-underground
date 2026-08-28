@@ -1,38 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB10
+  name: Flood Tyrant
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 6UU
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1162
+    height: 688
+    cropWidth: 914
+    cropHeight: 645
+    xOffset: 226
     yOffset: 0
-  superType: Sorcery
-  subType: ""
-  rulesText: Return target creature card from your graveyard to your hand. If that
-    card was put into your graveyard this turn, add {B}{B}.
+  superType: Creature
+  subType: Leviathan
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    {U}{U}{U}{U}: Untap this creature. It gains bulwark until end of turn. (It
+    can block an additional creature each combat.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "7"
+  toughness: "10"
+  showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB10
+  autoCollectorNumber: UU07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB10 - 222b8ac1.jpg
+  front: Flood Tyrant - 7561502d.jpg

@@ -1,42 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW05
+  name: Crystal-Crazed Construct
   manaCost:
     __type: ManaCost
-    symbols: 2W
+    symbols: 3U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
-  superType: Creature
-  subType: ""
-  rulesText: >-
-    Escort (Whenever this creature attacks, target attacking creature without
-    escort can't be blocked this turn except by creatures with bulwark.)
+    width: 1100
+    height: 727
+    cropWidth: 866
+    cropHeight: 611
+    xOffset: 93
+    yOffset: 57
+  superType: Artifact Creature
+  subType: Construct
+  rulesText: >
+    Bulwark (This creature can block an additional creature each combat.)
 
 
-    When this creature dies, draw a card.
+    Barrier {3} (If a source would deal damage to this creature, prevent that
+    damage unless its controller pays {3}.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "1"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW05
+  illustrator: ashot94
+  autoCollectorNumber: UU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW05 - 3ef4aea1.jpg
+  front: Crystal-Crazed Construct - 650f3c77.jpg

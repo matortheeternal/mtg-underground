@@ -1,36 +1,33 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW01
+  name: Crystal Pioneer
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 1UU
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 894
+    height: 894
+    cropWidth: 894
+    cropHeight: 631
     xOffset: 0
-    yOffset: 0
+    yOffset: 263
   superType: Creature
-  subType: ""
+  subType: Human Scout
   rulesText: >-
-    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
-    of turn.)
+    When this creature enters, return target creature to its owner's hand.
 
 
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
-
-
-    When this creature enters, scry 1.
+    {3}{U}: This creature gets +0/+3 and gains escort until end of turn. (When
+    it attacks, another target creature without escort can't be blocked this
+    turn except by creatures with bulwark.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -39,8 +36,8 @@ front:
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW01
+  illustrator: Daisanvisart
+  autoCollectorNumber: UU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW01 - d925f5d2.jpg
+  front: Crystal Pioneer - 5a07f851.jpg

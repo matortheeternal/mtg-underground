@@ -7,36 +7,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU05
+  name: Quicksilver Serpent
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 3UU
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1141
+    height: 700
+    cropWidth: 852
+    cropHeight: 601
+    xOffset: 232
     yOffset: 0
-  superType: Artifact Creature
-  subType: Construct
-  rulesText: >
-    Bulwark (This creature can block an additional creature each combat.)
+  superType: Creature
+  subType: Elemental Serpent
+  rulesText: >-
+    Climbing (This creature can't be blocked by creature with greater
+    toughness.)
 
 
-    Barrier {3} (If a source would deal damage to this creature, prevent that
-    damage unless its controller pays {3}.)
+    {5}{U}{U}: Return this card from your graveyard to your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "3"
+  power: "6"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU05
+  illustrator: Solfar
+  autoCollectorNumber: UU06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU05 - a2813644.jpg
+  front: Quicksilver Serpent - 0cd4ed3d.jpg

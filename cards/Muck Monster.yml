@@ -7,35 +7,32 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB05
+  name: Muck Monster
   manaCost:
     __type: ManaCost
-    symbols: 2B
+    symbols: 4B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1154
+    height: 692
+    cropWidth: 981
+    cropHeight: 692
+    xOffset: 87
     yOffset: 0
   superType: Creature
-  subType: ""
-  rulesText: >-
-    Mourn
-
-    Whenever another creature you control dies, you may pay 2 life. When you do,
-    draw a card.
+  subType: Elemental
+  rulesText: Whenever this creature attacks, you may sacrifice another creature.
+    When you do, target opponent loses life equal to that creature's power.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "4"
+  toughness: "5"
   showPT: true
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UB05
+  rarity: common
+  illustrator: Themefinland
+  autoCollectorNumber: CB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB05 - 608cdd2c.jpg
+  front: Muck Monster - 8639dc78.jpg

@@ -1,39 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR12
+  name: Catacomb Crawler
   manaCost:
     __type: ManaCost
-    symbols: 2RR
+    symbols: 3B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
-    yOffset: 0
-  superType: Sorcery
-  subType: ""
-  rulesText: Double target creature's power until end of turn. Then, up to one
-    target creature with power less than that creature's power can't block this
-    turn.
+    width: 736
+    height: 1082
+    cropWidth: 704
+    cropHeight: 569
+    xOffset: 14
+    yOffset: 362
+  superType: Creature
+  subType: Insect
+  rulesText: >-
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, you may return target creature card from your
+    graveyard to your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR12
+  autoCollectorNumber: UB07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR12 - 86bf84eb.jpg
+  front: Catacomb Crawler - ea26dd15.jpg

@@ -7,36 +7,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB04
+  name: Shadow of the Beast
   manaCost:
     __type: ManaCost
-    symbols: 1B
+    symbols: B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1024
+    height: 512
+    cropWidth: 726
+    cropHeight: 512
+    xOffset: 13
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Beast
   rulesText: >
-    Riposte (Whenever this creature is dealt damage by another creature, it
-    deals that much damage back.)
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
 
 
-    Whenever this creature attacks, target opponent loses 2 life.
+    {B}: This creature gets +1/+1 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
+  power: "0"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB04
+  autoCollectorNumber: UB01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB04 - 96803f5e.jpg
+  front: Shadow of the Beast - f447033f.jpg

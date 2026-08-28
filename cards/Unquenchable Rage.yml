@@ -1,43 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU07
+  name: Unquenchable Rage
   manaCost:
     __type: ManaCost
-    symbols: 6UU
+    symbols: 2RR
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
-  superType: Artifact Creature
-  subType: Leviathan Construct
+    width: 623
+    height: 864
+    cropWidth: 600
+    cropHeight: 424
+    xOffset: 23
+    yOffset: 209
+  superType: Sorcery
+  subType: ""
   rulesText: >-
-    Grind (Whenever this creature deals combat damage, target player mills that
-    many cards.)
+    This spell can't be countered.
 
 
-    {U}{U}{U}{U}: Untap this creature. It gains bulwark until end of turn. (It
-    can block an additional creature each combat.)
+    Double target creature's power until end of turn. Then, up to one target
+    creature with power less than that creature's power can't block this turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "7"
-  toughness: "10"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU07
+  illustrator: Preilly
+  autoCollectorNumber: UR12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU07 - 8d5da926.jpg
+  front: Unquenchable Rage - 1c060391.jpg

@@ -1,40 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB12
+  name: Saltmine Surveyor
   manaCost:
     __type: ManaCost
-    symbols: 4B
+    symbols: W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
-  superType: Instant
-  subType: ""
-  rulesText: |-
-    This spell costs {1} less to cast for each creature that died this turn.
+    width: 917
+    height: 871
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 34
+    yOffset: 25
+  superType: Creature
+  subType: Lizard Scout
+  rulesText: >-
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
-    Target player draws three cards and loses 3 life.
+
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, scry 1.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB12
+  autoCollectorNumber: UW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB12 - 4c1d0bb6.jpg
+  front: Saltmine Surveyor - ddfbca58.jpg

@@ -1,42 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB02
+  name: Karthos Elite
   manaCost:
     __type: ManaCost
-    symbols: B
+    symbols: 1WW
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 900
+    height: 822
+    cropWidth: 900
+    cropHeight: 635
     xOffset: 0
-    yOffset: 0
+    yOffset: 71
   superType: Creature
-  subType: ""
-  rulesText: >
-    Grind (Whenever this creature deals combat damage, target player mills that
-    many cards.)
+  subType: Lizard Warrior
+  rulesText: >-
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
-    {B}: This creature gets +1/+1 until end of turn.
+    Riposte (Whenever this creature is dealt damage by another creature, it
+    deals that much damage back.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "0"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB02
+  autoCollectorNumber: UW05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB02 - d5208296.jpg
+  front: Karthos Elite - 91d7975c.jpg

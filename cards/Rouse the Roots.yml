@@ -1,29 +1,34 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB09
+  name: Rouse the Roots
   manaCost:
     __type: ManaCost
-    symbols: XB
+    symbols: 1G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 900
+    height: 563
+    cropWidth: 798
+    cropHeight: 563
+    xOffset: 51
     yOffset: 0
   superType: Sorcery
   subType: ""
-  rulesText: Target creature gets +X/+0 and gains grind until end of turn. When
-    that creature dies this turn, draw a card. (Whenever it deals damage, target
-    player mills that many cards.)
+  rulesText: >
+    Kicker {3} (You may pay an additional {3} as you cast this spell.)
+
+
+    Search your library for a basic land card, put it onto the battlefield
+    tapped, then shuffle. If this spell was kicked, instead search your library
+    for three basic land cards, put them onto the battlefield tapped, then
+    shuffle.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -31,9 +36,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UB09
+  rarity: common
+  illustrator: Syncup
+  autoCollectorNumber: CG16
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB09 - 7b912ab2.jpg
+  front: Rouse the Roots - 62d72de3.jpg

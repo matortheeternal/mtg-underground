@@ -1,37 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB06
+  name: Zarun Spirit Guide
   manaCost:
     __type: ManaCost
-    symbols: 1BB
+    symbols: 2W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1120
+    height: 713
+    cropWidth: 1010
+    cropHeight: 713
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
-  rulesText: Whenever you gain life, this creature gets +1/+0 until end of turn.
+  subType: Human Shaman Warrior
+  rulesText: >-
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn except by creatures with bulwark.)
+
+
+    When this creature enters, exile target creature, then return it to the
+    battlefield under its owner's control.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "3"
+  power: "3"
+  toughness: "1"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB06
+  autoCollectorNumber: UW04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB06 - 82cf46c5.jpg
+  front: Zarun Spirit Guide - 6969de11.jpg

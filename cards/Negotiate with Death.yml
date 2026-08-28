@@ -1,29 +1,30 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW08
+  name: Negotiate with Death
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: 4B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 593
+    height: 900
+    cropWidth: 593
+    cropHeight: 418
     xOffset: 0
-    yOffset: 0
+    yOffset: 454
   superType: Instant
   subType: ""
-  rulesText: Target creature gets +2/+2 and gains escort until end of turn. (When
-    it attacks, another target creature without escort can't be blocked this
-    turn except by creatures with bulwark.)
+  rulesText: |-
+    This spell costs {1} less to cast for each creature that died this turn.
+
+    Target player draws three cards and loses 3 life.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -32,8 +33,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW08
+  illustrator: jjcanvas
+  autoCollectorNumber: UB12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +63,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW08 - cbed193b.jpg
+  front: Negotiate with Death - 6a6ae227.jpg

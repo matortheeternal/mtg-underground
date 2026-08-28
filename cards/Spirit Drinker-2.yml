@@ -7,32 +7,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UB08
+  name: Spirit Drinker
   manaCost:
     __type: ManaCost
-    symbols: 4B
+    symbols: 2B
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1280
+    height: 547
+    cropWidth: 775
+    cropHeight: 547
+    xOffset: 265
     yOffset: 0
   superType: Creature
-  subType: ""
-  rulesText: Whenever this creature attacks, you may sacrifice another creature.
-    When you do, target opponent loses life equal to that creature's power.
+  subType: Horror
+  rulesText: >-
+    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+
+
+    Whenever another creature you control dies, you may pay 2 life. When you do,
+    draw a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "5"
-  toughness: "5"
+  power: "3"
+  toughness: "2"
   showPT: true
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CB10
+  rarity: uncommon
+  illustrator: Indus Fera
+  autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UB08 - ea763c89.jpg
+  front: Spirit Drinker-2 - 6dccb0ab.jpg

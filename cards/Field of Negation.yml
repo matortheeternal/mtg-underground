@@ -1,27 +1,34 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: g
-      name: green
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Common Ramp Placeholder
+  name: Field of Negation
   manaCost:
     __type: ManaCost
-    symbols: G
+    symbols: UU
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 910
+    height: 879
+    cropWidth: 910
+    cropHeight: 642
     xOffset: 0
-    yOffset: 0
-  superType: Sorcery
+    yOffset: 88
+  superType: Instant
   subType: ""
-  rulesText: search for a land put it on battlefield or into hand idk
+  rulesText: >-
+    Choose one
+
+    - Counter target noncreature spell.
+
+    - Put a +1/+1 counter on target creature. It gains barrier {6} until end of
+    turn. (If a source would deal damage to it, prevent that damage unless its
+    controller pays {6}.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -29,9 +36,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
-  illustrator: ""
-  autoCollectorNumber: CG13
+  rarity: uncommon
+  illustrator: Daniel Clasquin
+  autoCollectorNumber: UU09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Common Ramp Placeholder - 7c044dad.jpg
+  front: Field of Negation - 982a1b60.jpg

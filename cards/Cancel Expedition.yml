@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Cancel Expedition
   manaCost:
     __type: ManaCost
@@ -20,6 +21,12 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: |-
+    This spell costs {2} less to cast for each creature you control it targets.
+
+    Return up to two target creatures to their owners’ hands.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,9 +40,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Return up to two target creatures to their owners’ hands.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +59,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Cancel Expedition - d3ddc9c4.jpg
+  front: Cancel Expedition - 09bdb43b.jpg

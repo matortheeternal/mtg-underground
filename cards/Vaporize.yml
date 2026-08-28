@@ -7,37 +7,31 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW04
+  name: Vaporize
   manaCost:
     __type: ManaCost
-    symbols: 1WW
+    symbols: 3W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
-  superType: Creature
+    width: 898
+    height: 889
+    cropWidth: 845
+    cropHeight: 596
+    xOffset: 28
+    yOffset: 122
+  superType: Instant
   subType: ""
-  rulesText: >-
-    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
-    of turn.)
-
-
-    Riposte (Whenever this creature is dealt damage by another creature, it
-    deals that much damage back.)
+  rulesText: Target nonland permanent loses all abilities until end of turn. Destroy it.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UW04
+  autoCollectorNumber: UW12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW04 - e9b61ca1.jpg
+  front: Vaporize - 95541422.jpg
