@@ -13,14 +13,14 @@ front:
     symbols: W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 867
+    height: 922
+    cropWidth: 867
+    cropHeight: 612
     xOffset: 0
-    yOffset: 0
+    yOffset: 37
   superType: Creature
-  subType: ""
+  subType: Lizard Cleric
   rulesText: Whenever a creature you control or a creature card in your graveyard
     is returned to your hand, put a +1/+1 counter on this creature.
   flavorText: null
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW02 - 9ef06606.jpg
+  front: UW02 - 250270da.jpg

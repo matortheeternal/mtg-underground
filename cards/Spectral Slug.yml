@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Spectral Slug
   manaCost:
     __type: ManaCost
@@ -20,6 +21,17 @@ front:
     yOffset: 32
   superType: Creature
   subType: Spirit Slug
+  rulesText: >-
+    Kicker {3} (You may pay an additional {3} as you cast this spell.)
+
+
+    Climbing (This creature can’t be blocked by creatures with greater
+    toughness.)
+
+
+    When this creature enters, if it was kicked, tap up to two target creatures.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,14 +45,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Climbing (This creature can’t be blocked by creatures with greater
-    toughness.)
-
-
-    {3}{U}: Return this card from your graveyard to your hand.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +64,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Spectral Slug - 9e7e1813.jpg
+  front: Spectral Slug - 7a91d364.jpg

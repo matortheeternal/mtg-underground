@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Terrifying Might
+  manaCost:
+    __type: ManaCost
+    symbols: XB
+  artImage:
+    __type: image
+    width: 1106
+    height: 722
+    cropWidth: 1023
+    cropHeight: 722
+    xOffset: 41
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  rulesText: Target creature gets +X/+0 and gains grind until end of turn. When
+    that creature dies this turn, draw a card. (Whenever it deals damage, target
+    player mills that many cards.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Isartxxx
+  autoCollectorNumber: UB09
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Terrifying Might - 3a3641d1.jpg

@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Flood Tyrant
+  manaCost:
+    __type: ManaCost
+    symbols: 6UU
+  artImage:
+    __type: image
+    width: 1162
+    height: 688
+    cropWidth: 914
+    cropHeight: 645
+    xOffset: 226
+    yOffset: 0
+  superType: Creature
+  subType: Leviathan
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    {U}{U}{U}{U}: Untap this creature. It gains bulwark until end of turn. (It
+    can block an additional creature each combat.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "7"
+  toughness: "10"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UU07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Flood Tyrant - 7561502d.jpg

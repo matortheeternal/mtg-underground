@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Field of Negation
+  manaCost:
+    __type: ManaCost
+    symbols: UU
+  artImage:
+    __type: image
+    width: 910
+    height: 879
+    cropWidth: 910
+    cropHeight: 642
+    xOffset: 0
+    yOffset: 88
+  superType: Instant
+  subType: ""
+  rulesText: >-
+    Choose one
+
+    - Counter target noncreature spell.
+
+    - Put a +1/+1 counter on target creature. It gains barrier {6} until end of
+    turn. (If a source would deal damage to it, prevent that damage unless its
+    controller pays {6}.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Daniel Clasquin
+  autoCollectorNumber: UU09
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Field of Negation - 982a1b60.jpg

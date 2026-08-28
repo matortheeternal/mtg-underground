@@ -26,12 +26,12 @@ front:
     you control, and counters are modifications)
 
 
-    When this creature enters, scry 2.
+    When this creature enters, you gain 2 life and draw a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: common
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Exhausted Mage - d8e81d17.jpg
+  front: Exhausted Mage - 909053c3.jpg

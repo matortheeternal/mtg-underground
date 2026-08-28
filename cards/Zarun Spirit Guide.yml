@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Zarun Spirit Guide
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    width: 1120
+    height: 713
+    cropWidth: 1010
+    cropHeight: 713
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Human Shaman Warrior
+  rulesText: >-
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn except by creatures with bulwark.)
+
+
+    When this creature enters, exile target creature, then return it to the
+    battlefield under its owner's control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UW04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Zarun Spirit Guide - 6969de11.jpg

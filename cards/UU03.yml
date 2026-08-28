@@ -13,14 +13,14 @@ front:
     symbols: 1U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1095
+    height: 730
+    cropWidth: 1034
+    cropHeight: 730
+    xOffset: 30
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Spirit Wizard
   rulesText: >-
     Kicker {2}{U} (You may pay an additional {2}{U} when you cast this spell.)
 
@@ -36,7 +36,7 @@ front:
   toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Twenty Seventh
   autoCollectorNumber: UU03
   collectorNumber: ""
   setCode: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU03 - cdcd0e10.jpg
+  front: UU03 - 570c32b7.jpg

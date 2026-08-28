@@ -15,8 +15,8 @@ front:
     __type: image
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
   superType: Instant
@@ -31,7 +31,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR11
+  autoCollectorNumber: UR09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR11 - c1c322fb.jpg
+  front: UR11 - 8299798c.jpg

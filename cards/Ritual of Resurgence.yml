@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Ritual of Resurgence
+  manaCost:
+    __type: ManaCost
+    symbols: B
+  artImage:
+    __type: image
+    width: 1256
+    height: 636
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 203
+    yOffset: 36
+  superType: Sorcery
+  subType: ""
+  rulesText: Return target creature card from your graveyard to your hand. If that
+    card was put into your graveyard this turn, add {B}{B}.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Themefinland
+  autoCollectorNumber: UB10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Ritual of Resurgence - cbcbe93c.jpg

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Scion of the Deep
+  manaCost:
+    __type: ManaCost
+    symbols: 1BB
+  artImage:
+    __type: image
+    width: 828
+    height: 1104
+    cropWidth: 828
+    cropHeight: 685
+    xOffset: 0
+    yOffset: 144
+  superType: Creature
+  subType: Beast
+  rulesText: Whenever you gain life, this creature gets +1/+0 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UB05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Scion of the Deep - db009350.jpg

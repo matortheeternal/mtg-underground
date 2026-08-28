@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Muck Monster
+  manaCost:
+    __type: ManaCost
+    symbols: 4B
+  artImage:
+    __type: image
+    width: 1154
+    height: 692
+    cropWidth: 981
+    cropHeight: 692
+    xOffset: 87
+    yOffset: 0
+  superType: Creature
+  subType: Elemental
+  rulesText: Whenever this creature attacks, you may sacrifice another creature.
+    When you do, target opponent loses life equal to that creature's power.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "5"
+  showPT: true
+  rarity: common
+  illustrator: Themefinland
+  autoCollectorNumber: CB10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Muck Monster - 8639dc78.jpg

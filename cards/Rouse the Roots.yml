@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Rouse the Roots
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    width: 900
+    height: 563
+    cropWidth: 798
+    cropHeight: 563
+    xOffset: 51
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  rulesText: >
+    Kicker {3} (You may pay an additional {3} as you cast this spell.)
+
+
+    Search your library for a basic land card, put it onto the battlefield
+    tapped, then shuffle. If this spell was kicked, instead search your library
+    for three basic land cards, put them onto the battlefield tapped, then
+    shuffle.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: common
+  illustrator: Syncup
+  autoCollectorNumber: CG16
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Rouse the Roots - 62d72de3.jpg

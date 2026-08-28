@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Spirit Drinker
+  manaCost:
+    __type: ManaCost
+    symbols: 2B
+  artImage:
+    __type: image
+    width: 1280
+    height: 547
+    cropWidth: 775
+    cropHeight: 547
+    xOffset: 265
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  rulesText: >-
+    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+
+
+    Whenever another creature you control dies, you may pay 2 life. When you do,
+    draw a card.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Indus Fera
+  autoCollectorNumber: UB06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Spirit Drinker-2 - 6dccb0ab.jpg

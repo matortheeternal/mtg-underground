@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Karthos Elite
+  manaCost:
+    __type: ManaCost
+    symbols: 1WW
+  artImage:
+    __type: image
+    width: 900
+    height: 822
+    cropWidth: 900
+    cropHeight: 635
+    xOffset: 0
+    yOffset: 71
+  superType: Creature
+  subType: Lizard Warrior
+  rulesText: >-
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
+
+
+    Riposte (Whenever this creature is dealt damage by another creature, it
+    deals that much damage back.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UW05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Karthos Elite - 91d7975c.jpg

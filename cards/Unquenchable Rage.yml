@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Unquenchable Rage
+  manaCost:
+    __type: ManaCost
+    symbols: 2RR
+  artImage:
+    __type: image
+    width: 623
+    height: 864
+    cropWidth: 600
+    cropHeight: 424
+    xOffset: 23
+    yOffset: 209
+  superType: Sorcery
+  subType: ""
+  rulesText: >-
+    This spell can't be countered.
+
+
+    Double target creature's power until end of turn. Then, up to one target
+    creature with power less than that creature's power can't block this turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Preilly
+  autoCollectorNumber: UR12
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Unquenchable Rage - 1c060391.jpg

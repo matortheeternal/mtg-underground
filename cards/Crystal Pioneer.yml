@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Crystal Pioneer
+  manaCost:
+    __type: ManaCost
+    symbols: 1UU
+  artImage:
+    __type: image
+    width: 894
+    height: 894
+    cropWidth: 894
+    cropHeight: 631
+    xOffset: 0
+    yOffset: 263
+  superType: Creature
+  subType: Human Scout
+  rulesText: >-
+    When this creature enters, return target creature to its owner's hand.
+
+
+    {3}{U}: This creature gets +0/+3 and gains escort until end of turn. (When
+    it attacks, another target creature without escort can't be blocked this
+    turn except by creatures with bulwark.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: uncommon
+  illustrator: Daisanvisart
+  autoCollectorNumber: UU04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Crystal Pioneer - 5a07f851.jpg
