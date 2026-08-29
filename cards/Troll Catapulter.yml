@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Troll Catapulter
+  manaCost:
+    __type: ManaCost
+    symbols: 4R
+  artImage:
+    __type: image
+    width: 1000
+    height: 750
+    cropWidth: 1000
+    cropHeight: 706
+    xOffset: 0
+    yOffset: 22
+  superType: Creature
+  subType: Troll
+  rulesText: When this creature enters, you may sacrifice a creature. When you do,
+    this creature deals damage equal to the sacrificed creature's power to any
+    target.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UR06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Troll Catapulter - 51127e25.jpg

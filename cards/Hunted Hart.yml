@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Hunted Hart
+  manaCost:
+    __type: ManaCost
+    symbols: 3G
+  artImage:
+    __type: image
+    width: 1023
+    height: 694
+    cropWidth: 983
+    cropHeight: 694
+    xOffset: 20
+    yOffset: 0
+  superType: Creature
+  subType: Beast
+  rulesText: >-
+    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
+    you control, and counters are modifications.)
+
+
+    Whenever you spend 5 or more mana on a spell, target creature you control
+    gets +2/+2 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "5"
+  showPT: true
+  rarity: uncommon
+  illustrator: Marc Simonetti
+  autoCollectorNumber: UG04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Hunted Hart - 552b4308.jpg

@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Human Cleric
   rulesText: >-
     Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
     of turn.)
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW06 - 6595d36a.jpg
+  front: UW06 - 7f2e83b2.jpg

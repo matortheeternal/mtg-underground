@@ -21,17 +21,17 @@ front:
     yOffset: 144
   superType: Creature
   subType: Beast
-  rulesText: Whenever you gain life, this creature gets +1/+0 until end of turn.
+  rulesText: Whenever you gain life, put a +1/+1 counter on this creature.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "4"
+  power: "3"
   toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UB05
+  autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Scion of the Deep - db009350.jpg
+  front: Scion of the Deep - 66b70bda.jpg

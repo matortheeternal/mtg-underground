@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Sow Spores
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 42
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: >-
+    Kicker {4} (You may pay an additional {4} as you cast this spell.)
+
+
+    Put a +1/+1 counter on target creature. Draw a card.
+
+
+    If this spell was kicked, put an additional three +1/+1 counters on that
+    creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Aenami
+  autoCollectorNumber: UG08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Sow Spores - cdd18629.jpg

@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Sporecap Troll
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    width: 1024
+    height: 745
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 113
+    yOffset: 57
+  superType: Creature
+  subType: Fungus Troll
+  rulesText: |-
+    Bulwark (This creature can block an additional creature each combat.)
+
+    {T}: Add {G}.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UG01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Sporecap Troll - bef6e5d2.jpg

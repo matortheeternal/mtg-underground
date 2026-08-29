@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Madman's Vigor
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    width: 1024
+    height: 738
+    cropWidth: 1024
+    cropHeight: 723
+    xOffset: 0
+    yOffset: 15
+  superType: Sorcery
+  subType: ""
+  rulesText: Target creature gets +4/+2 and gains grind until end of turn. It must
+    be blocked this turn if able.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Mourphine
+  autoCollectorNumber: UG09
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Madman's Vigor - cfa06f2d.jpg

@@ -1,0 +1,63 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Magnificent Might
+  manaCost:
+    __type: ManaCost
+    symbols: 3G
+  artImage:
+    __type: image
+    width: 1345
+    height: 594
+    cropWidth: 842
+    cropHeight: 594
+    xOffset: 115
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: Target creature gets +6/+6 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Truilt
+  autoCollectorNumber: UG12
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Magnificent Might - 5f742463.jpg

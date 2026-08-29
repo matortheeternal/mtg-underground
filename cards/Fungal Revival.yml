@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Fungal Revival
+  manaCost:
+    __type: ManaCost
+    symbols: 1GG
+  artImage:
+    __type: image
+    width: 1226
+    height: 652
+    cropWidth: 924
+    cropHeight: 652
+    xOffset: 88
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  rulesText: >-
+    Choose one or both:
+
+    - Return target creature card with mana value 4 or greater from your
+    graveyard to your hand. 
+
+    - Return target noncreature card with mana value 4 or less from your
+    graveyard to your hand.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Caymartworks
+  autoCollectorNumber: UG11
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Fungal Revival - 6f1fc166.jpg

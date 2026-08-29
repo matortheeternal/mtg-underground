@@ -20,7 +20,7 @@ front:
     xOffset: 150
     yOffset: 28
   superType: Artifact Creature
-  subType: Construct
+  subType: Insect Construct
   rulesText: >
     Riposte (Whenever this creature is dealt damage by another creature, it
     deals that much damage back.)
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Scythecrawler - 802c544f.jpg
+  front: Scythecrawler - 64133c9c.jpg

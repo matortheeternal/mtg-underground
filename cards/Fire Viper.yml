@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Fire Viper
+  manaCost:
+    __type: ManaCost
+    symbols: 2R
+  artImage:
+    __type: image
+    width: 894
+    height: 894
+    cropWidth: 894
+    cropHeight: 631
+    xOffset: 0
+    yOffset: 28
+  superType: Creature
+  subType: Elemental Snake
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    Whenever you cast a noncreature spell, this creature gets +2/+0 until end of
+    turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Paulo Graner
+  autoCollectorNumber: UR03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Fire Viper - db5b76d2.jpg

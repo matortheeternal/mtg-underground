@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Crafty Conjurer
+  manaCost:
+    __type: ManaCost
+    symbols: 1R
+  artImage:
+    __type: image
+    width: 662
+    height: 900
+    cropWidth: 662
+    cropHeight: 467
+    xOffset: 0
+    yOffset: 269
+  superType: Creature
+  subType: Goblin Shaman
+  rulesText: >-
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
+
+
+    Whenever this creature attacks, you may discard a card. When you do, exile
+    the top two cards of your library. You may play those cards until the end of
+    your next turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: armandeo64
+  autoCollectorNumber: UR02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Crafty Conjurer - 738b5573.jpg

@@ -20,14 +20,13 @@ front:
     xOffset: 80
     yOffset: 0
   superType: Artifact Creature
-  subType: Construct
+  subType: Ape Construct
   rulesText: >-
     Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
     you control, and counters are modifications)
 
 
-    Whenever you spend five or more mana to cast a spell, put a +1/+1 counter on
-    this creature.
+    {4}: Put a +1/+1 counter on this creature.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Bronze Golem - a4323cf0.jpg
+  front: Bronze Golem - 77d50b9d.jpg

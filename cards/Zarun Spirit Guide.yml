@@ -26,8 +26,8 @@ front:
     escort can't be blocked this turn except by creatures with bulwark.)
 
 
-    When this creature enters, exile target creature, then return it to the
-    battlefield under its owner's control.
+    When this creature enters, you may exile another target creature, then
+    return it to the battlefield under its owner's control.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Zarun Spirit Guide - 6969de11.jpg
+  front: Zarun Spirit Guide - 6808ccf2.jpg

@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Gargantuan Iguanadon
+  manaCost:
+    __type: ManaCost
+    symbols: 6RRR
+  artImage:
+    __type: image
+    width: 1150
+    height: 695
+    cropWidth: 985
+    cropHeight: 695
+    xOffset: 129
+    yOffset: 0
+  superType: Creature
+  subType: Lizard
+  rulesText: >
+    Rush {3} (You may cast this spell for {3} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {3}.)
+
+
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "8"
+  toughness: "6"
+  showPT: true
+  rarity: uncommon
+  illustrator: Jiri Kus
+  autoCollectorNumber: UR07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Gargantuan Iguanadon - c2dc5ad3.jpg
