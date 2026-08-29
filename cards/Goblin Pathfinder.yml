@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Goblin Pathfinder
+  manaCost:
+    __type: ManaCost
+    symbols: 1G
+  artImage:
+    __type: image
+    width: 1047
+    height: 763
+    cropWidth: 1047
+    cropHeight: 739
+    xOffset: 0
+    yOffset: 12
+  superType: Creature
+  subType: Goblin Scout
+  rulesText: >
+    Escort (Whenever this creature attacks, another attacking creature can't be
+    blocked this turn except by creatures with bulwark.)
+
+
+    When this creature enters or dies, put a +1/+1 counter on another target
+    creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Elijah Siberian
+  autoCollectorNumber: UG02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Goblin Pathfinder - efd426ba.jpg

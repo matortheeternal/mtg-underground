@@ -1,42 +1,45 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU01
+  name: Slumbering Stag
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: 1W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1000
+    height: 585
+    cropWidth: 829
+    cropHeight: 585
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Beast
   rulesText: >-
-    Nullify (Whenever this creature blocks or becomes blocked by a creature,
-    that creature loses all abilities until end of combat.)
+    Bulwark (This creature can block an additional creature each combat.)
 
 
-    Whenever a creature you control dies, target player mills 2 cards.
+    Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
+    you control, and counters are modifications.)
+
+
+    When this creature enters, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UU01
+  autoCollectorNumber: UW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU01 - 67377baf.jpg
+  front: Slumbering Stag - 0a1a2c0c.jpg

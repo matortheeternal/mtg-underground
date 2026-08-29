@@ -1,43 +1,45 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU03
+  name: Sow Spores
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: G
   artImage:
     __type: image
-    width: 1095
-    height: 730
-    cropWidth: 1034
-    cropHeight: 730
-    xOffset: 30
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 42
     yOffset: 0
-  superType: Creature
-  subType: Spirit Wizard
+  superType: Instant
+  subType: ""
   rulesText: >-
-    Kicker {2}{U} (You may pay an additional {2}{U} when you cast this spell.)
+    Kicker {4} (You may pay an additional {4} as you cast this spell.)
 
 
-    When this creature enters, if it was kicked, draw three cards, discard a
-    card, and put a +1/+1 counter on it. Otherwise, draw a card, then discard a
-    card.
+    Put a +1/+1 counter on target creature. Draw a card.
+
+
+    If this spell was kicked, put an additional three +1/+1 counters on that
+    creature.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "3"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: Twenty Seventh
-  autoCollectorNumber: UU03
+  illustrator: Aenami
+  autoCollectorNumber: UG08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU03 - 570c32b7.jpg
+  front: Sow Spores - cdd18629.jpg

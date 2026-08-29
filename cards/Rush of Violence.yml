@@ -21,7 +21,7 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
-  rulesText: Target creature gets +2/+0 and gains ravage until end of turn. (It
+  rulesText: Target creature gets +1/+0 and gains ravage until end of turn. (It
     can deal excess combat damage to another creature defending player
     controls.)
   flavorText: null
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Rush of Violence - 11755bf8.jpg
+  front: Rush of Violence - e44b5447.jpg

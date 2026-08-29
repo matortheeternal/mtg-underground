@@ -1,45 +1,37 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW03
+  name: Magnificent Might
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: 3G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1345
+    height: 594
+    cropWidth: 842
+    cropHeight: 594
+    xOffset: 115
     yOffset: 0
-  superType: Creature
+  superType: Instant
   subType: ""
-  rulesText: >-
-    Bulwark (This creature can block an additional creature each combat.)
-
-
-    Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
-    you control, and counters are modifications.)
-
-
-    When this creature enters, you gain 2 life.
+  rulesText: Target creature gets +6/+6 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "3"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW03
+  illustrator: Truilt
+  autoCollectorNumber: UG12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW03 - 2609877e.jpg
+  front: Magnificent Might - 5f742463.jpg

@@ -1,46 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU02
+  name: Gargantuan Iguanadon
   manaCost:
     __type: ManaCost
-    symbols: 1U
+    symbols: 6RRR
   artImage:
     __type: image
-    width: 1078
-    height: 741
-    cropWidth: 1050
-    cropHeight: 741
-    xOffset: 14
+    width: 1150
+    height: 695
+    cropWidth: 985
+    cropHeight: 695
+    xOffset: 129
     yOffset: 0
   superType: Creature
-  subType: Slug Wizard
-  rulesText: >-
-    Climbing (This creature can’t be blocked by creatures with greater
-    toughness.)
+  subType: Lizard
+  rulesText: >
+    Rush {3} (You may cast this spell for {3} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {3}.)
 
 
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
-
-
-    When this creature enters, target creature gets -3/-0 until end of turn.
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "8"
+  toughness: "6"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU02
+  illustrator: Jiri Kus
+  autoCollectorNumber: UR07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU02 - a6804aad.jpg
+  front: Gargantuan Iguanadon - c2dc5ad3.jpg

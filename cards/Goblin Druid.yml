@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Goblin Druid
+  manaCost:
+    __type: ManaCost
+    symbols: 3G
+  artImage:
+    __type: image
+    width: 828
+    height: 979
+    cropWidth: 828
+    cropHeight: 607
+    xOffset: 0
+    yOffset: 154
+  superType: Creature
+  subType: Goblin Druid
+  rulesText: >-
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
+
+
+    When this creature enters, look at the top five cards of your library. You
+    may put a land card from among them onto the battlefield tapped. Put the
+    rest on the bottom of your library in a random order.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UG05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Goblin Druid - 988ba5e8.jpg

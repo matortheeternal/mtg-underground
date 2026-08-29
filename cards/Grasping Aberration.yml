@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Grasping Aberration
+  manaCost:
+    __type: ManaCost
+    symbols: U
+  artImage:
+    __type: image
+    width: 1264
+    height: 632
+    cropWidth: 896
+    cropHeight: 632
+    xOffset: 165
+    yOffset: 0
+  superType: Creature
+  subType: Snail
+  rulesText: >-
+    Nullify (Whenever this creature blocks or becomes blocked by a creature,
+    that creature loses all abilities until end of combat.)
+
+
+    Whenever a creature you control dies, target player mills 2 cards.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: ""
+  autoCollectorNumber: UU01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Grasping Aberration - 03a5ffe1.jpg

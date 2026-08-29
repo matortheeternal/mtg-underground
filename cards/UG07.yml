@@ -1,43 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR03
+  name: UG07
   manaCost:
     __type: ManaCost
-    symbols: 2R
+    symbols: 5GG
   artImage:
     __type: image
     width: 0
     height: 0
-    cropWidth: 1
-    cropHeight: 1
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: Lizard Shaman
-  rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+  subType: ""
+  rulesText: >
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
 
 
-    Whenever you cast a noncreature spell, this creature gets +2/+0 until end of
-    turn.
+    {G}{G}{G}{G}: Destroy target artifact or enchantment, then draw a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "7"
+  toughness: "7"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR03
+  autoCollectorNumber: UG07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR03 - 1aa0e0c4.jpg
+  front: UG07 - 590370cf.jpg

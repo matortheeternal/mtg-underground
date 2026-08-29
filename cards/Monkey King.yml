@@ -1,39 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR06
+  name: Monkey King
   manaCost:
     __type: ManaCost
-    symbols: 4R
+    symbols: 1GG
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
-    yOffset: 0
+    width: 1187
+    height: 673
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 167
+    yOffset: 34
   superType: Creature
-  subType: Troll
-  rulesText: When this creature enters, you may sacrifice a creature. When you do,
-    this creature deals damage equal to the sacrificed creature's power to any
-    target.
+  subType: Ape
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "4"
+  toughness: "3"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR06
+  autoCollectorNumber: UG03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR06 - 1f54b9d1.jpg
+  front: Monkey King - 1bc57b81.jpg

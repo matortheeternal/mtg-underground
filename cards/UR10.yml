@@ -29,7 +29,7 @@ front:
     When this equipment enters, attach it to target creature you control.
 
 
-    Equipped creature gets +3/+2.
+    Equipped creature gets +3/+1.
 
 
     Equip {4}
@@ -71,4 +71,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR10 - 3a9f4a93.jpg
+  front: UR10 - 962a335f.jpg

@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 71
   superType: Creature
-  subType: Ape Shaman
+  subType: Ape Druid
   rulesText: >-
     Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
     of turn.)
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Ritespeaker - 55996080.jpg
+  front: Simian Ritespeaker - c577616d.jpg

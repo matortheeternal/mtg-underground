@@ -20,7 +20,7 @@ front:
     xOffset: 0
     yOffset: 0
   superType: Creature
-  subType: ""
+  subType: Human Cleric
   rulesText: >-
     Mourn, mourn (Whenever a creature card is put into a graveyard, you gain 1
     life twice.)
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW07 - eba7b97e.jpg
+  front: UW07 - 1bf88b0b.jpg

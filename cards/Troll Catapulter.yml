@@ -7,38 +7,33 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR02
+  name: Troll Catapulter
   manaCost:
     __type: ManaCost
-    symbols: 1R
+    symbols: 4R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 1000
+    height: 750
+    cropWidth: 1000
+    cropHeight: 706
     xOffset: 0
-    yOffset: 0
+    yOffset: 22
   superType: Creature
-  subType: Ape Soldier
-  rulesText: >-
-    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
-    of turn.)
-
-
-    Whenever this creature attacks, you may discard a card. When you do, exile
-    the top two cards of your library. You may play those cards until the end of
-    your next turn.
+  subType: Troll
+  rulesText: When this creature enters, you may sacrifice a creature. When you do,
+    this creature deals damage equal to the sacrificed creature's power to any
+    target.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "3"
+  power: "4"
+  toughness: "4"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UR02
+  autoCollectorNumber: UR06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR02 - 63f0aff2.jpg
+  front: Troll Catapulter - 51127e25.jpg
