@@ -1,45 +1,36 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: g
-      name: green
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: UC04
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: "8"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1096
+    height: 729
+    cropWidth: 1033
+    cropHeight: 729
+    xOffset: 31
     yOffset: 0
-  superType: Creature
-  subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+  superType: Artifact Creature
+  subType: Beast Construct
+  rulesText: |-
+    {5}: Target artifact creature gains ravage until end of turn.
 
-
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
-
-
-    When this creature dies, you gain 5 life.
+    When this creature dies, it deals 4 damage to any target.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
+  power: "7"
+  toughness: "6"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UG06
+  illustrator: Dave Melvin
+  autoCollectorNumber: UA04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +59,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: UC04 - 044fe90d.jpg

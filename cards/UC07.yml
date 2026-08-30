@@ -1,45 +1,38 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: g
-      name: green
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: UC07
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: "3"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1286
+    height: 621
+    cropWidth: 880
+    cropHeight: 621
+    xOffset: 336
     yOffset: 0
-  superType: Creature
+  superType: Artifact
   subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+  rulesText: >-
+    Whenever an artifact enters under your control, you gain 2 life.
 
 
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
-
-
-    When this creature dies, you gain 5 life.
+    {6}, {T}: Draw a card. This ability costs {1} less for each other artifact
+    you control.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UG06
+  illustrator: Sylvia Ritter
+  autoCollectorNumber: UA07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: UC07 - 7f8d5fbf.jpg

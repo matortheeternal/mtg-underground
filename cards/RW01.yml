@@ -1,16 +1,16 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: g
-      name: green
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: RW01
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: 2WW
   artImage:
     __type: image
     width: 0
@@ -19,27 +19,27 @@ front:
     cropHeight: 1
     xOffset: 0
     yOffset: 0
-  superType: Creature
-  subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+  superType: Legendary Creature
+  subType: Human Cleric
+  rulesText: >-
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
 
 
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
+    You and creatures you control have barrier {1}.
 
 
-    When this creature dies, you gain 5 life.
+    When this creature enters, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
+  power: "4"
+  toughness: "4"
   showPT: true
-  rarity: uncommon
+  rarity: rare
   illustrator: ""
-  autoCollectorNumber: UG06
+  autoCollectorNumber: RW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: RW01 - b1222394.jpg

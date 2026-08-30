@@ -1,45 +1,38 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: g
-      name: green
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: UC05
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: "2"
   artImage:
     __type: image
     width: 0
     height: 0
-    cropWidth: 1
-    cropHeight: 1
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
     yOffset: 0
-  superType: Creature
-  subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+  superType: Artifact
+  subType: Equipment
+  rulesText: >-
+    Equipped creature gets +1/+2 and has  "Sacrifice this creature: You gain
+    life equal to this creature's toughness."
 
 
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
-
-
-    When this creature dies, you gain 5 life.
+    Equip {1}
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UG06
+  autoCollectorNumber: UA06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: UC05 - 7ee9a03a.jpg

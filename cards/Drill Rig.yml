@@ -1,45 +1,34 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: g
-      name: green
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: Drill Rig
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: "1"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 960
+    height: 540
+    cropWidth: 765
+    cropHeight: 540
+    xOffset: 97
     yOffset: 0
-  superType: Creature
+  superType: Artifact
   subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
-
-
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
-
-
-    When this creature dies, you gain 5 life.
+  rulesText: "{T}: Add {C}{C}. Spend this mana only to cast a kicked spell or
+    activate an ability."
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UG06
+  illustrator: Las Pinter
+  autoCollectorNumber: UA05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +57,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: Drill Rig - 12d3ae60.jpg

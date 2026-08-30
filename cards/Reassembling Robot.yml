@@ -1,45 +1,39 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: g
-      name: green
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UG06
+  name: Reassembling Robot
   manaCost:
     __type: ManaCost
-    symbols: 3GG
+    symbols: "3"
   artImage:
     __type: image
     width: 0
     height: 0
-    cropWidth: 1
-    cropHeight: 1
+    cropWidth: 0
+    cropHeight: 0
     xOffset: 0
     yOffset: 0
-  superType: Creature
-  subType: ""
-  rulesText: >
-    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+  superType: Artifact Creature
+  subType: Robot
+  rulesText: >-
+    Rush {1} (You may cast this spell for {1} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {1}.)
 
 
-    When this creature enters, if the kicker cost was paid, creatures you
-    control get +2/+2 until end of turn.
-
-
-    When this creature dies, you gain 5 life.
+    When this card is put into your graveyard from anywhere, you may pay {2} to
+    return it to your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
-  toughness: "5"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UG06
+  autoCollectorNumber: UA03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG06 - 0539465e.jpg
+  front: Reassembling Robot - 5f12978c.jpg

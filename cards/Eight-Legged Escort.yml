@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Eight-Legged Escort
   manaCost:
     __type: ManaCost
@@ -20,10 +21,14 @@ front:
     yOffset: 179
   superType: Creature
   subType: Crab
+  rulesText: Escort (Whenever this creature attacks, target attacking creature
+    without escort can't be blocked this turn except by creatures with bulwark.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "2"
+  toughness: "1"
   showPT: true
   rarity: common
   illustrator: Anton Kurbatov
@@ -33,10 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Escort (Whenever this creature attacks, target attacking creature
-    without escort can't be blocked this turn except by creatures with bulwark.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Eight-Legged Escort - 7da0e43f.jpg
+  front: Eight-Legged Escort - 818f6d89.jpg
