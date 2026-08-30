@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Netherworld Mesmer
   manaCost:
     __type: ManaCost
@@ -20,9 +21,18 @@ front:
     yOffset: 0
   superType: Creature
   subType: Beast
+  rulesText: >-
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
+
+
+    When this creature enters, tap target creature an opponent controls and put
+    a stun counter on it.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: common
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
-
-
-    When this creature enters, tap target creature an opponent controls and put
-    a stun counter on it.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Netherworld Mesmer - b4ab69c4.jpg
+  front: Netherworld Mesmer - 4eb771ef.jpg

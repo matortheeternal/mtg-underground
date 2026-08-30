@@ -38,7 +38,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UG05
+  autoCollectorNumber: UG04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Druid - 988ba5e8.jpg
+  front: Goblin Druid - e2daebaf.jpg

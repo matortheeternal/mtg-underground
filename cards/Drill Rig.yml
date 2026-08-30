@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Drill Rig
+  manaCost:
+    __type: ManaCost
+    symbols: "1"
+  artImage:
+    __type: image
+    width: 960
+    height: 540
+    cropWidth: 765
+    cropHeight: 540
+    xOffset: 97
+    yOffset: 0
+  superType: Artifact
+  subType: ""
+  rulesText: "{T}: Add {C}{C}. Spend this mana only to cast a kicked spell or
+    activate an ability."
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Las Pinter
+  autoCollectorNumber: UA05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Drill Rig - 12d3ae60.jpg
