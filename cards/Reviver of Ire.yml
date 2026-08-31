@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Reviver of Ire
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    width: 867
+    height: 922
+    cropWidth: 867
+    cropHeight: 612
+    xOffset: 0
+    yOffset: 37
+  superType: Creature
+  subType: Lizard Cleric
+  rulesText: Whenever a creature you control or a creature card in your graveyard
+    is returned to your hand, put a +1/+1 counter on this creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Themefinland
+  autoCollectorNumber: UW02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Reviver of Ire - 26875782.jpg

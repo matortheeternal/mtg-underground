@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Metra's Blessing
+  manaCost:
+    __type: ManaCost
+    symbols: 1W
+  artImage:
+    __type: image
+    width: 1123
+    height: 711
+    cropWidth: 1008
+    cropHeight: 711
+    xOffset: 115
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: Creatures you control get +1/+0 and gain barrier {2} until end of
+    turn. (If a source would deal damage to a creature with barrier {2}, prevent
+    that damage unless its controller pays {2}.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Preciteran
+  autoCollectorNumber: UW08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Metra's Blessing - 4a9a122d.jpg

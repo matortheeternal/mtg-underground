@@ -36,7 +36,7 @@ front:
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Unknown
   autoCollectorNumber: UB07
   collectorNumber: ""
   setCode: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Catacomb Crawler - ea26dd15.jpg
+  front: Catacomb Crawler - 23a6082b.jpg

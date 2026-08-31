@@ -26,11 +26,11 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "4"
   toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Dave Rapoza
   autoCollectorNumber: UB06
   collectorNumber: ""
   setCode: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Scion of the Deep - 66b70bda.jpg
+  front: Scion of the Deep - 545aa77a.jpg

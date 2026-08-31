@@ -35,7 +35,7 @@ front:
   toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Dmitrii Ustinov
   autoCollectorNumber: UU01
   collectorNumber: ""
   setCode: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Grasping Aberration - 03a5ffe1.jpg
+  front: Grasping Aberration - 072b068c.jpg

@@ -1,0 +1,60 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Mechanize
+  manaCost:
+    __type: ManaCost
+    symbols: "4"
+  artImage:
+    __type: image
+    width: 1024
+    height: 722
+    cropWidth: 526
+    cropHeight: 722
+    xOffset: 333
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: Target creature becomes an artifact, gets +4/+4, and gains bulwark
+    until end of turn. (It can block an additional creature each combat.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Lukas Remmler
+  autoCollectorNumber: UC01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: clear
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Mechanize - 69a5a896.jpg

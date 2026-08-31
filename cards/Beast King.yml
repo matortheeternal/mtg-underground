@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Beast King
+  manaCost:
+    __type: ManaCost
+    symbols: 3GG
+  artImage:
+    __type: image
+    width: 1037
+    height: 771
+    cropWidth: 937
+    cropHeight: 661
+    xOffset: 50
+    yOffset: 39
+  superType: Creature
+  subType: Beast
+  rulesText: >
+    Kicker {2} (You may pay an additional {2} as you cast this spell.)
+
+
+    When this creature enters, if the kicker cost was paid, creatures you
+    control get +2/+2 until end of turn.
+
+
+    When this creature dies, you gain 5 life.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "5"
+  showPT: true
+  rarity: uncommon
+  illustrator: Cryptos13
+  autoCollectorNumber: UG06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Beast King - 11f08624.jpg

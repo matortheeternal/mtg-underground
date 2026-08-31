@@ -32,8 +32,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW08
+  illustrator: Radioblur
+  autoCollectorNumber: UW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Lead the Way - 5eeaf7cf.jpg
+  front: Lead the Way - 19aa00ce.jpg

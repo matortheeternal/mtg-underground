@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Heartblade
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    width: 800
+    height: 1334
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 385
+  superType: Artifact
+  subType: Equipment
+  rulesText: >-
+    Equipped creature gets +1/+2 and has  "Sacrifice this creature: You gain
+    life equal to this creature's toughness."
+
+
+    Equip {1}
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Shurita
+  autoCollectorNumber: UA05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Heartblade - 6d4ee615.jpg

@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Return to Monkey
+  manaCost:
+    __type: ManaCost
+    symbols: 3UU
+  artImage:
+    __type: image
+    width: 1024
+    height: 640
+    cropWidth: 907
+    cropHeight: 640
+    xOffset: 88
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: >-
+    Choose one:
+
+    - Until end of turn, each creature target player controls becomes a 4/4 red
+    Ape until end of turn.
+
+    - Until end of turn, each creature target player controls becomes a 1/1
+    green Monkey until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Joe Stiller
+  autoCollectorNumber: UU12
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Return to Monkey - 35f8b19f.jpg

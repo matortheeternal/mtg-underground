@@ -29,7 +29,7 @@ front:
     you control, and counters are modifications.)
 
 
-    When this creature enters, you gain 4 life.
+    When this creature dies, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -38,7 +38,7 @@ front:
   toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Rowkey
   autoCollectorNumber: UW03
   collectorNumber: ""
   setCode: ""
@@ -68,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Slumbering Stag - 0a1a2c0c.jpg
+  front: Slumbering Stag - b637b47d.jpg

@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Mysterious Orb
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    width: 828
+    height: 1327
+    cropWidth: 828
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 438
+  superType: Artifact
+  subType: ""
+  rulesText: >-
+    When this artifact enters, exile up to one target creature, then return it
+    to the battlefield under its owner's control.
+
+
+    {T}, Exile this artifact: Target player shuffles their graveyard into their
+    library.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Rugidoart
+  autoCollectorNumber: UA06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Mysterious Orb - 656dd36f.jpg
