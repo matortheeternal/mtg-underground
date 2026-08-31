@@ -1,43 +1,39 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR04
+  name: Metra's Blessing
   manaCost:
     __type: ManaCost
-    symbols: 2RR
+    symbols: 1W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1123
+    height: 711
+    cropWidth: 1008
+    cropHeight: 711
+    xOffset: 115
     yOffset: 0
-  superType: Creature
-  subType: Human Warrior
-  rulesText: >-
-    Zeal, zeal (Whenever you cast a creature spell, this creature gets +1/+1
-    until end of turn, twice.)
-
-
-    Whenever you attack with three or more creatures, up to one target creature
-    can't block this turn.
+  superType: Instant
+  subType: ""
+  rulesText: Creatures you control get +1/+0 and gain barrier {2} until end of
+    turn. (If a source would deal damage to a creature with barrier {2}, prevent
+    that damage unless its controller pays {2}.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "3"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UR04
+  illustrator: Preciteran
+  autoCollectorNumber: UW08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR04 - 9390d7b1.jpg
+  front: Metra's Blessing - 4a9a122d.jpg

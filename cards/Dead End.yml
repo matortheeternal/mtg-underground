@@ -1,27 +1,28 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR09
+  name: Dead End
   manaCost:
     __type: ManaCost
-    symbols: 1R
+    symbols: 2U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 900
+    height: 720
+    cropWidth: 900
+    cropHeight: 635
     xOffset: 0
-    yOffset: 0
-  superType: Instant
+    yOffset: 42
+  superType: Sorcery
   subType: ""
-  rulesText: Target creature gets +3/+0 and gains climbing until end of turn.
+  rulesText: Target player mills a card. Draw cards equal to the number of cards
+    that player has milled this turn.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -30,8 +31,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UR08
+  illustrator: Kieath
+  autoCollectorNumber: UU10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR09 - 79498776.jpg
+  front: Dead End - 2c223476.jpg

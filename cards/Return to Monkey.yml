@@ -1,42 +1,44 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: g
-      name: green
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UG07
+  name: Return to Monkey
   manaCost:
     __type: ManaCost
-    symbols: 5GG
+    symbols: 3UU
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1024
+    height: 640
+    cropWidth: 907
+    cropHeight: 640
+    xOffset: 88
     yOffset: 0
-  superType: Creature
+  superType: Instant
   subType: ""
-  rulesText: >
-    Ravage (This creature can assign excess combat damage to another creature
-    defending player controls.)
+  rulesText: >-
+    Choose one:
 
+    - Until end of turn, each creature target player controls becomes a 4/4 red
+    Ape until end of turn.
 
-    {G}{G}{G}{G}: Destroy target artifact or enchantment, then draw a card.
+    - Until end of turn, each creature target player controls becomes a 1/1
+    green Monkey until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "7"
-  toughness: "7"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UG07
+  illustrator: Joe Stiller
+  autoCollectorNumber: UU12
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UG07 - 590370cf.jpg
+  front: Return to Monkey - 35f8b19f.jpg

@@ -1,28 +1,27 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC05
+  name: Immolate
   manaCost:
     __type: ManaCost
-    symbols: "2"
+    symbols: 2R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
+    width: 1232
+    height: 649
+    cropWidth: 920
+    cropHeight: 649
+    xOffset: 156
     yOffset: 0
-  superType: Artifact
-  subType: Equipment
-  rulesText: >-
-    Equipped creature gets +1/+2 and has  "Sacrifice this creature: You gain
-    life equal to this creature's toughness."
-
-
-    Equip {1}
+  superType: Instant
+  subType: ""
+  rulesText: ~ deals 2 damage to you, then deals 2 damage to each of up to two targets.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -31,8 +30,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UA06
+  illustrator: Themefinland
+  autoCollectorNumber: UR10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC05 - 7ee9a03a.jpg
+  front: Immolate - 8a136e87.jpg

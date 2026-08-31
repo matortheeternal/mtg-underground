@@ -1,36 +1,45 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC04
+  name: Beast King
   manaCost:
     __type: ManaCost
-    symbols: "8"
+    symbols: 3GG
   artImage:
     __type: image
-    width: 1096
-    height: 729
-    cropWidth: 1033
-    cropHeight: 729
-    xOffset: 31
-    yOffset: 0
-  superType: Artifact Creature
-  subType: Beast Construct
-  rulesText: |-
-    {5}: Target artifact creature gains ravage until end of turn.
+    width: 1037
+    height: 771
+    cropWidth: 937
+    cropHeight: 661
+    xOffset: 50
+    yOffset: 39
+  superType: Creature
+  subType: Beast
+  rulesText: >
+    Kicker {2} (You may pay an additional {2} as you cast this spell.)
 
-    When this creature dies, it deals 4 damage to any target.
+
+    When this creature enters, if the kicker cost was paid, creatures you
+    control get +2/+2 until end of turn.
+
+
+    When this creature dies, you gain 5 life.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "7"
-  toughness: "6"
+  power: "6"
+  toughness: "5"
   showPT: true
   rarity: uncommon
-  illustrator: Dave Melvin
-  autoCollectorNumber: UA04
+  illustrator: Cryptos13
+  autoCollectorNumber: UG06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -59,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC04 - 044fe90d.jpg
+  front: Beast King - 11f08624.jpg

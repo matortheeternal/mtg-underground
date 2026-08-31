@@ -1,38 +1,45 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC07
+  name: Araphor, Radiant Protector
   manaCost:
     __type: ManaCost
-    symbols: "3"
+    symbols: 2WW
   artImage:
     __type: image
-    width: 1286
-    height: 621
-    cropWidth: 880
-    cropHeight: 621
-    xOffset: 336
-    yOffset: 0
-  superType: Artifact
-  subType: ""
+    width: 827
+    height: 1160
+    cropWidth: 827
+    cropHeight: 586
+    xOffset: 0
+    yOffset: 69
+  superType: Legendary Creature
+  subType: Human Cleric
   rulesText: >-
-    Whenever an artifact enters under your control, you gain 2 life.
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner’s hand.)
 
 
-    {6}, {T}: Draw a card. This ability costs {1} less for each other artifact
-    you control.
+    You and creatures you control have barrier {1}.
+
+
+    When this creature enters, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: uncommon
-  illustrator: Sylvia Ritter
-  autoCollectorNumber: UA07
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Kamanaka Satoshi
+  autoCollectorNumber: RW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC07 - 7f8d5fbf.jpg
+  front: Araphor, Radiant Protector - 25efe137.jpg

@@ -17,8 +17,10 @@ front:
     yOffset: 0
   superType: Artifact
   subType: ""
-  rulesText: "{T}: Add {C}{C}. Spend this mana only to cast a kicked spell or
-    activate an ability."
+  rulesText: |-
+    This artifact enters tapped.
+
+    {T}: Add {C}{C}. This mana can't be spent to cast nonartifact spells.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -26,9 +28,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: rare
   illustrator: Las Pinter
-  autoCollectorNumber: UA05
+  autoCollectorNumber: RA01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -57,4 +59,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Drill Rig - 12d3ae60.jpg
+  front: Drill Rig - 14084d20.jpg

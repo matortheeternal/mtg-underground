@@ -32,7 +32,7 @@ front:
   toughness: "4"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Maroniux
   autoCollectorNumber: UR06
   collectorNumber: ""
   setCode: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Troll Catapulter - 51127e25.jpg
+  front: Troll Catapulter - 3cbe335c.jpg

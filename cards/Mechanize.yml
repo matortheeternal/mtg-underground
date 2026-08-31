@@ -1,51 +1,40 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: w
-      name: white
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: RW01
+  name: Mechanize
   manaCost:
     __type: ManaCost
-    symbols: 2WW
+    symbols: "4"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1024
+    height: 722
+    cropWidth: 526
+    cropHeight: 722
+    xOffset: 333
     yOffset: 0
-  superType: Legendary Creature
-  subType: Human Cleric
-  rulesText: >-
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
-
-
-    You and creatures you control have barrier {1}.
-
-
-    When this creature enters, you gain 4 life.
+  superType: Instant
+  subType: ""
+  rulesText: Target creature becomes an artifact, gets +4/+4, and gains bulwark
+    until end of turn. (It can block an additional creature each combat.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "4"
-  showPT: true
-  rarity: rare
-  illustrator: ""
-  autoCollectorNumber: RW01
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: uncommon
+  illustrator: Lukas Remmler
+  autoCollectorNumber: UC01
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  frame: auto
+  frame: clear
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -68,4 +57,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: RW01 - b1222394.jpg
+  front: Mechanize - 69a5a896.jpg

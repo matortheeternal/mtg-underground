@@ -1,35 +1,43 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC01
+  name: Melancholy
   manaCost:
     __type: ManaCost
-    symbols: "1"
+    symbols: 3WW
   artImage:
     __type: image
-    width: 1192
-    height: 670
-    cropWidth: 949
-    cropHeight: 670
-    xOffset: 28
-    yOffset: 0
-  superType: Artifact Creature
-  subType: Construct
-  rulesText: "{T}, Sacrifice this creature: Target creature, player, or
-    planeswalker gains barrier {2} until end of turn. (If a source would deal
-    damage to it, prevent that damage unless its controller pays {2}.)"
+    width: 1243
+    height: 643
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 164
+    yOffset: 23
+  superType: Creature
+  subType: Elemental
+  rulesText: >-
+    Mourn, mourn (Whenever a creature card is put into a graveyard, you gain 1
+    life twice.)
+
+
+    When this creature enters, return target creature card with mana value 3 or
+    less from your graveyard to the battlefield.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
+  power: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UA01
+  illustrator: ChenlinW
+  autoCollectorNumber: UW07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -58,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC01 - 4ea5d748.jpg
+  front: Melancholy - 1fda0b30.jpg

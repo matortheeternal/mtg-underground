@@ -9,10 +9,10 @@ front:
     symbols: "3"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
+    width: 900
+    height: 507
+    cropWidth: 900
+    cropHeight: 507
     xOffset: 0
     yOffset: 0
   superType: Artifact Creature
@@ -29,10 +29,10 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "1"
-  toughness: "2"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: Andrew Olson
   autoCollectorNumber: UA03
   collectorNumber: ""
   setCode: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Reassembling Robot - 5f12978c.jpg
+  front: Reassembling Robot - b20adbad.jpg

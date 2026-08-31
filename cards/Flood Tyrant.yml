@@ -36,7 +36,7 @@ front:
   toughness: "10"
   showPT: true
   rarity: uncommon
-  illustrator: ""
+  illustrator: LotuSpleen
   autoCollectorNumber: UU07
   collectorNumber: ""
   setCode: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Flood Tyrant - 7561502d.jpg
+  front: Flood Tyrant - 1c11c3af.jpg

@@ -1,40 +1,48 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC08
+  name: Avatar of Annihilation
   manaCost:
     __type: ManaCost
-    symbols: "4"
+    symbols: 5GG
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 0
-    cropHeight: 0
-    xOffset: 0
+    width: 1239
+    height: 645
+    cropWidth: 914
+    cropHeight: 645
+    xOffset: 121
     yOffset: 0
-  superType: Instant
-  subType: ""
-  rulesText: Target creature gets +4/+4 and gains bulwark until end of turn. (It
-    can block an additional creature each combat.)
+  superType: Creature
+  subType: Elemental Avatar
+  rulesText: >
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    {X}{G}: Destroy target artifact or enchantment with mana value X.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "7"
+  toughness: "7"
+  showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UC01
+  illustrator: Kamanaka Satoshi
+  autoCollectorNumber: UG07
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  frame: clear
+  frame: auto
   artSize: auto
   crownStyle: auto
   nyxStyle: auto
@@ -57,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC08 - d314a075.jpg
+  front: Avatar of Annihilation - a1d02493.jpg

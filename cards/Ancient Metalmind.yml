@@ -1,36 +1,28 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: u
-      name: blue
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UU08
+  name: Ancient Metalmind
   manaCost:
     __type: ManaCost
-    symbols: U
+    symbols: "3"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1286
+    height: 621
+    cropWidth: 880
+    cropHeight: 621
+    xOffset: 336
     yOffset: 0
   superType: Artifact
-  subType: Equipment
+  subType: ""
   rulesText: >-
-    Equipped creature gets +1/+1.
+    Whenever an artifact enters under your control, you gain 2 life.
 
 
-    {4}: Equipped creature gains barrier {4} until end of turn. (If a source
-    would deal damage to it, prevent that damage unless its controller pays
-    {4}.)
-
-
-    Equip {1}
+    {6}, {T}: Draw a card. This ability costs {1} less for each other artifact
+    you control.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -39,8 +31,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU08
+  illustrator: Sylvia Ritter
+  autoCollectorNumber: UA07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,10 +55,10 @@ front:
     avoidCoveringDevoid: true
   chopTop: ""
   chopBottom: ""
-  maxFontSize: "18.5"
+  maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: UU08 - 7b11964d.jpg
+  front: Ancient Metalmind - 8abe822d.jpg

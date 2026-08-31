@@ -1,44 +1,38 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU11
+  name: Reviver of Ire
   manaCost:
     __type: ManaCost
-    symbols: 3UU
+    symbols: W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 867
+    height: 922
+    cropWidth: 867
+    cropHeight: 612
     xOffset: 0
-    yOffset: 0
-  superType: Instant
-  subType: ""
-  rulesText: >-
-    Choose one:
-
-    - Until end of turn, each creature target player controls becomes a 4/4 blue
-    Beast until end of turn.
-
-    - Until end of turn, each creature target player controls becomes a 1/1 blue
-    Crab until end of turn.
+    yOffset: 37
+  superType: Creature
+  subType: Lizard Cleric
+  rulesText: Whenever a creature you control or a creature card in your graveyard
+    is returned to your hand, put a +1/+1 counter on this creature.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "1"
+  toughness: "2"
+  showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU12
+  illustrator: Themefinland
+  autoCollectorNumber: UW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UU11 - bb297f6d.jpg
+  front: Reviver of Ire - 26875782.jpg

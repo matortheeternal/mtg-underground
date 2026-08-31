@@ -1,39 +1,42 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: w
-      name: white
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UW09
+  name: Command Construct
   manaCost:
     __type: ManaCost
-    symbols: 1W
+    symbols: "2"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1154
+    height: 692
+    cropWidth: 981
+    cropHeight: 692
+    xOffset: 23
     yOffset: 0
-  superType: Instant
-  subType: ""
-  rulesText: Creatures you control get +1/+0 and gain barrier {2} until end of
-    turn. (If a source would deal damage to a creature with barrier {2}, prevent
-    that damage unless its controller pays {2}.)
+  superType: Artifact Creature
+  subType: Construct
+  rulesText: >-
+    Kicker {3} (You may pay an additional {3} as you cast this spell.)
+
+
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner's hand.)
+
+
+    When this creature enters, if it was kicked, put two +1/+1 counters on
+    target creature.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "2"
+  toughness: "1"
+  showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW09
+  illustrator: Traaw
+  autoCollectorNumber: UA02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW09 - 78a5eb07.jpg
+  front: Command Construct - c38f71e5.jpg

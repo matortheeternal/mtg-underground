@@ -1,27 +1,28 @@
 front:
   template: magic/M15/Main
-  colors:
-    - char: r
-      name: red
-      sources:
-        normal: true
+  colors: []
   colorOverride: []
   faceSymbol: null
-  name: UR11
+  name: Heartblade
   manaCost:
     __type: ManaCost
-    symbols: 2R
+    symbols: "2"
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 800
+    height: 1334
+    cropWidth: 800
+    cropHeight: 565
     xOffset: 0
-    yOffset: 0
-  superType: Instant
-  subType: ""
-  rulesText: ~ deals 2 damage to you, then deals 2 damage to each of up to two targets.
+    yOffset: 385
+  superType: Artifact
+  subType: Equipment
+  rulesText: >-
+    Equipped creature gets +1/+2 and has  "Sacrifice this creature: You gain
+    life equal to this creature's toughness."
+
+
+    Equip {1}
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -30,8 +31,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UR09
+  illustrator: Shurita
+  autoCollectorNumber: UA05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR11 - 8299798c.jpg
+  front: Heartblade - 6d4ee615.jpg

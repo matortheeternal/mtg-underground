@@ -7,32 +7,37 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW02
+  name: Veteran Expeditioner
   manaCost:
     __type: ManaCost
-    symbols: W
+    symbols: 2WW
   artImage:
     __type: image
-    width: 867
-    height: 922
-    cropWidth: 867
-    cropHeight: 612
+    width: 709
+    height: 1000
+    cropWidth: 709
+    cropHeight: 558
     xOffset: 0
-    yOffset: 37
+    yOffset: 201
   superType: Creature
-  subType: Lizard Cleric
-  rulesText: Whenever a creature you control or a creature card in your graveyard
-    is returned to your hand, put a +1/+1 counter on this creature.
+  subType: Human Cleric
+  rulesText: >-
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
+
+
+    {1}{W}, {T}: Another target creature gets +X/+X until end of turn, where X
+    is this creature's power. Activate only as a sorcery.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "2"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW02
+  illustrator: Chern
+  autoCollectorNumber: UW06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW02 - 250270da.jpg
+  front: Veteran Expeditioner - 3a5eb978.jpg

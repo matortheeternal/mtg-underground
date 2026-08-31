@@ -7,22 +7,30 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UU10
+  name: Barrier Stone
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: U
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 714
+    height: 1000
+    cropWidth: 714
+    cropHeight: 504
     xOffset: 0
-    yOffset: 0
-  superType: Sorcery
-  subType: ""
-  rulesText: Target player mills a card. Draw cards equal to the number of cards
-    that player has milled this turn.
+    yOffset: 141
+  superType: Artifact
+  subType: Equipment
+  rulesText: >-
+    Equipped creature gets +0/+1.
+
+
+    {4}: Equipped creature gains barrier {4} until end of turn. (If a source
+    would deal damage to it, prevent that damage unless its controller pays
+    {4}.)
+
+
+    Equip {1}
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -31,8 +39,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UU10
+  illustrator: Jason Nguyen
+  autoCollectorNumber: UU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -55,10 +63,10 @@ front:
     avoidCoveringDevoid: true
   chopTop: ""
   chopBottom: ""
-  maxFontSize: ""
+  maxFontSize: "18.5"
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: UU10 - 0ec2bc96.jpg
+  front: Barrier Stone - 7c1a6c23.jpg

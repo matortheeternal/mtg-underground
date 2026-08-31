@@ -1,42 +1,37 @@
 front:
   template: magic/M15/Main
-  colors: []
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UC02
+  name: Ambush from Above
   manaCost:
     __type: ManaCost
-    symbols: "2"
+    symbols: 1R
   artImage:
     __type: image
     width: 0
     height: 0
-    cropWidth: 0
-    cropHeight: 0
+    cropWidth: 1
+    cropHeight: 1
     xOffset: 0
     yOffset: 0
-  superType: Artifact Creature
-  subType: Construct
-  rulesText: >-
-    Kicker {4} (You may pay an additional {4} as you cast this spell.)
-
-
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner's hand.)
-
-
-    When this creature enters, if it was kicked, put two +1/+1 counters on
-    target creature.
+  superType: Instant
+  subType: ""
+  rulesText: Target creature gets +3/+0 and gains climbing until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
-  showPT: true
+  power: ""
+  toughness: ""
+  showPT: ""
   rarity: uncommon
   illustrator: ""
-  autoCollectorNumber: UA02
+  autoCollectorNumber: UR08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UC02 - 458008f6.jpg
+  front: Ambush from Above - b150c8de.jpg
