@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UZ05
+  manaCost:
+    __type: ManaCost
+    symbols: 1RG
+  artImage:
+    __type: image
+    width: 1024
+    height: 660
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 71
+    yOffset: 34
+  superType: Creature
+  subType: Beast
+  rulesText: >-
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    At the beginning of combat on your turn, target creature you control gets
+    +2/+0 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Artoflariz
+  autoCollectorNumber: UZ04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UZ05 - 10559356.jpg

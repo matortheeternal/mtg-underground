@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UZ10
+  manaCost:
+    __type: ManaCost
+    symbols: 3GU
+  artImage:
+    __type: image
+    width: 1280
+    height: 618
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 160
+    yOffset: 15
+  superType: Artifact Creature
+  subType: Golem
+  rulesText: >-
+    Bulwark (This creature can block an additional creature each combat.)
+
+
+    Whenever you spend five or more mana to cast a spell, you may put two +1/+1
+    counters on target creature you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "6"
+  showPT: true
+  rarity: uncommon
+  illustrator: Lichachan
+  autoCollectorNumber: UZ10
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UZ10 - 6a94d8d3.jpg

@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UZ03
+  manaCost:
+    __type: ManaCost
+    symbols: 2UB
+  artImage:
+    __type: image
+    width: 1024
+    height: 614
+    cropWidth: 870
+    cropHeight: 614
+    xOffset: 77
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    Whenever one or more creatures you control deal combat damage to an
+    opponent, that player discards a card.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: uncommon
+  illustrator: TentaclesAndTeeth
+  autoCollectorNumber: UZ06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UZ03 - 7ce5d372.jpg

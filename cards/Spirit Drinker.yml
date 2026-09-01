@@ -25,8 +25,8 @@ front:
     Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
 
 
-    Whenever another creature you control dies, you may pay 2 life. When you do,
-    draw a card.
+    Whenever one or more other creatures die, you may pay 2 life. When you do,
+    draw a card. This ability triggers only once each turn.
   flavorText: null
   watermark: null
   flagLeft: ""

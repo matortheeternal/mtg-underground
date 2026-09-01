@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UZ04
+  manaCost:
+    __type: ManaCost
+    symbols: 2BG
+  artImage:
+    __type: image
+    width: 1171
+    height: 683
+    cropWidth: 968
+    cropHeight: 683
+    xOffset: 129
+    yOffset: 0
+  superType: Creature
+  subType: Plant
+  rulesText: >-
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
+
+
+    Whenever a nontoken creature you control dies, you may put two +1/+1
+    counters on target creature you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "3"
+  showPT: true
+  rarity: uncommon
+  illustrator: Anton Kurbatov
+  autoCollectorNumber: UZ07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UZ04 - 924346e3.jpg

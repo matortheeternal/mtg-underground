@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: UZ08
+  manaCost:
+    __type: ManaCost
+    symbols: 2BR
+  artImage:
+    __type: image
+    width: 1143
+    height: 699
+    cropWidth: 990
+    cropHeight: 699
+    xOffset: 0
+    yOffset: 0
+  superType: Creature
+  subType: Demon
+  rulesText: >-
+    Deathlink (Whenever this creature deals combat damage, target player loses
+    that much life.)
+
+
+    When this creature enters, destroy up to one target creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: uncommon
+  illustrator: Cryptos13
+  autoCollectorNumber: UZ08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: UZ08 - 8fb36d63.jpg
