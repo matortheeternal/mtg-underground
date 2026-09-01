@@ -5,39 +5,43 @@ front:
       name: red
       sources:
         normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ05
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 1RG
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
-    yOffset: 0
+    width: 1024
+    height: 660
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 71
+    yOffset: 34
   superType: Creature
-  subType: Ape Assassin
+  subType: Beast
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    At the beginning of combat on your turn, target creature you control gets
+    +2/+0 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Artoflariz
+  autoCollectorNumber: UZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ05 - 10559356.jpg

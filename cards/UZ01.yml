@@ -1,43 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ01
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 1UW
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
-    yOffset: 0
+    width: 1122
+    height: 712
+    cropWidth: 972
+    cropHeight: 686
+    xOffset: 10
+    yOffset: 19
   superType: Creature
-  subType: Ape Assassin
-  rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+  subType: Human Soldier
+  rulesText: >
+    Nullify (Whenever this creature blocks or becomes blocked by a creature,
+    that creature loses all abilities until end of turn.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    Creature spells with retreat you cast cost {1} less to cast.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "1"
+  toughness: "4"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Roswarz
+  autoCollectorNumber: UZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ01 - aa6484dd.jpg

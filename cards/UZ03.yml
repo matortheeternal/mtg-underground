@@ -1,43 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ03
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 2UB
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
+    width: 1024
+    height: 614
+    cropWidth: 870
+    cropHeight: 614
+    xOffset: 77
     yOffset: 0
   superType: Creature
-  subType: Ape Assassin
+  subType: Horror
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    Whenever one or more creatures you control deal combat damage to an
+    opponent, that player discards a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "5"
+  toughness: "5"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: TentaclesAndTeeth
+  autoCollectorNumber: UZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ03 - 7ce5d372.jpg

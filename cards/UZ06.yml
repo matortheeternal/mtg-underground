@@ -1,43 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
     - char: r
       name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ06
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 1UR
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
+    width: 1000
+    height: 499
+    cropWidth: 707
+    cropHeight: 499
+    xOffset: 173
     yOffset: 0
   superType: Creature
-  subType: Ape Assassin
+  subType: Salamander
   rulesText: >-
     Climbing (This creature can't be blocked by creatures with greater
     toughness.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    Whenever you cast a noncreature spell, creatures you control get +1/+0 until
+    end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Lizzy John
+  autoCollectorNumber: UZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ06 - 7884f480.jpg

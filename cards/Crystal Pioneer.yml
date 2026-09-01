@@ -18,7 +18,7 @@ front:
     cropWidth: 894
     cropHeight: 631
     xOffset: 0
-    yOffset: 263
+    yOffset: 185
   superType: Creature
   subType: Human Scout
   rulesText: >-

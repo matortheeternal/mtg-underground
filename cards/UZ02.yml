@@ -1,43 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
     - char: r
       name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ02
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: WR
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
-    yOffset: 0
+    width: 827
+    height: 1064
+    cropWidth: 827
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 222
   superType: Creature
-  subType: Ape Assassin
+  subType: Human Cleric
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    {1}, {T}: Exile another target creature you control. You may cast it for as
+    long as it remains exiled. Activate only as a sorcery.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
+  power: "1"
   toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Disezno
+  autoCollectorNumber: UZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ02 - de27c807.jpg

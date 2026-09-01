@@ -1,43 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ07
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: WB
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
+    width: 1162
+    height: 687
+    cropWidth: 850
+    cropHeight: 600
     xOffset: 168
-    yOffset: 0
+    yOffset: 23
   superType: Creature
-  subType: Ape Assassin
+  subType: Human Warlock
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    At the beginning of each end step, you may scry X, where X is the amount of
+    life you gained this turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Indusfera
+  autoCollectorNumber: UZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ07 - 74b74944.jpg

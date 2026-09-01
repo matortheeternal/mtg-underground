@@ -18,7 +18,7 @@ front:
     cropWidth: 1600
     cropHeight: 1406
     xOffset: 0
-    yOffset: 659
+    yOffset: 734
   superType: Sorcery
   subType: ""
   rulesText: ~ deals 1 damage to each creature your opponents control. Creatures

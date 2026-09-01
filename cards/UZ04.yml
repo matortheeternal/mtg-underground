@@ -1,43 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ04
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 2BG
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
+    width: 1171
+    height: 683
+    cropWidth: 968
+    cropHeight: 683
+    xOffset: 129
     yOffset: 0
   superType: Creature
-  subType: Ape Assassin
+  subType: Plant
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    Whenever a nontoken creature you control dies, you may put two +1/+1
+    counters on target creature you control.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "1"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Anton Kurbatov
+  autoCollectorNumber: UZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ04 - 924346e3.jpg

@@ -22,7 +22,8 @@ front:
   superType: Sorcery
   subType: ""
   rulesText: Target creature gets +4/+2 and gains grind until end of turn. It must
-    be blocked this turn if able.
+    be blocked this turn if able. *(Whenever it deals combat damage, target
+    player mills that many cards.)
   flavorText: null
   watermark: null
   flagLeft: ""

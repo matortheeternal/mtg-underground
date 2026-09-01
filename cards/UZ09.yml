@@ -1,43 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Simian Spearmaster
+  name: UZ09
   manaCost:
     __type: ManaCost
-    symbols: 3R
+    symbols: 3GW
   artImage:
     __type: image
-    width: 1280
-    height: 561
-    cropWidth: 795
-    cropHeight: 561
-    xOffset: 168
-    yOffset: 0
+    width: 1187
+    height: 673
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 169
+    yOffset: 46
   superType: Creature
-  subType: Ape Assassin
+  subType: Frog
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
+    you control, and counters are modifications.)
 
 
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    {T}: Target creature you control gets +0/+3 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "7"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: Blankasore
-  autoCollectorNumber: UR04
+  illustrator: Jiri Kus
+  autoCollectorNumber: UZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simian Spearmaster - 9dd91a7d.jpg
+  front: UZ09 - 901835b6.jpg
