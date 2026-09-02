@@ -11,7 +11,7 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ05
+  name: Ferocious Bloodfiend
   manaCost:
     __type: ManaCost
     symbols: 1RG
@@ -24,7 +24,7 @@ front:
     xOffset: 71
     yOffset: 34
   superType: Creature
-  subType: Beast
+  subType: Elemental Beast
   rulesText: >-
     Ravage (This creature can assign excess combat damage to another creature
     defending player controls.)
@@ -70,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ05 - 10559356.jpg
+  front: Ferocious Bloodfiend - b5f8b86c.jpg

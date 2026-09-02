@@ -1,47 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
     - char: b
       name: black
       sources:
         normal: true
-    - char: g
-      name: green
-      sources:
-        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ04
+  name: Grotesque Abomination
   manaCost:
     __type: ManaCost
-    symbols: 2BG
+    symbols: 2UB
   artImage:
     __type: image
-    width: 1171
-    height: 683
-    cropWidth: 968
-    cropHeight: 683
-    xOffset: 129
+    width: 1024
+    height: 614
+    cropWidth: 870
+    cropHeight: 614
+    xOffset: 77
     yOffset: 0
   superType: Creature
-  subType: Plant
+  subType: Horror
   rulesText: >-
-    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
-    the beginning of your next upkeep unless you pay {2}.)
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
 
 
-    Whenever a nontoken creature you control dies, you may put two +1/+1
-    counters on target creature you control.
+    Whenever one or more creatures you control deal combat damage to an
+    opponent, that player discards a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "3"
+  power: "5"
+  toughness: "5"
   showPT: true
   rarity: uncommon
-  illustrator: Anton Kurbatov
-  autoCollectorNumber: UZ07
+  illustrator: TentaclesAndTeeth
+  autoCollectorNumber: UZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ04 - 924346e3.jpg
+  front: Grotesque Abomination - 182ebaae.jpg

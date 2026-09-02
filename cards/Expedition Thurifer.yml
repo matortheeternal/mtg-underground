@@ -11,7 +11,7 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ01
+  name: Expedition Thurifer
   manaCost:
     __type: ManaCost
     symbols: 1UW
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ01 - aa6484dd.jpg
+  front: Expedition Thurifer - 0db27a21.jpg

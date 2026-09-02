@@ -1,46 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: b
-      name: black
+    - char: u
+      name: blue
       sources:
         normal: true
-    - char: r
-      name: red
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ08
+  name: Lumbering Gladeguard
   manaCost:
     __type: ManaCost
-    symbols: 2BR
+    symbols: 3GU
   artImage:
     __type: image
-    width: 1143
-    height: 699
-    cropWidth: 990
-    cropHeight: 699
-    xOffset: 0
-    yOffset: 0
-  superType: Creature
-  subType: Demon
+    width: 1280
+    height: 618
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 160
+    yOffset: 15
+  superType: Artifact Creature
+  subType: Golem
   rulesText: >-
-    Deathlink (Whenever this creature deals combat damage, target player loses
-    that much life.)
+    Bulwark (This creature can block an additional creature each combat.)
 
 
-    When this creature enters, destroy up to one target creature.
+    Whenever you spend five or more mana to cast a spell, you may put two +1/+1
+    counters on target creature you control.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "4"
+  toughness: "6"
   showPT: true
   rarity: uncommon
-  illustrator: Cryptos13
-  autoCollectorNumber: UZ08
+  illustrator: Lichachan
+  autoCollectorNumber: UZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ08 - 8fb36d63.jpg
+  front: Lumbering Gladeguard - 7ccfacfa.jpg

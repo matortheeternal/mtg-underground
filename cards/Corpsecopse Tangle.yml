@@ -1,46 +1,47 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
-      sources:
-        normal: true
     - char: b
       name: black
       sources:
         normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ07
+  name: Corpsecopse Tangle
   manaCost:
     __type: ManaCost
-    symbols: WB
+    symbols: 2BG
   artImage:
     __type: image
-    width: 1162
-    height: 687
-    cropWidth: 850
-    cropHeight: 600
-    xOffset: 168
-    yOffset: 23
+    width: 1171
+    height: 683
+    cropWidth: 968
+    cropHeight: 683
+    xOffset: 129
+    yOffset: 0
   superType: Creature
-  subType: Human Warlock
+  subType: Plant
   rulesText: >-
-    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
 
 
-    At the beginning of each end step, you may scry X, where X is the amount of
-    life you gained this turn.
+    Whenever a nontoken creature you control dies, you may put two +1/+1
+    counters on target creature you control.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "2"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: Indusfera
-  autoCollectorNumber: UZ02
+  illustrator: Anton Kurbatov
+  autoCollectorNumber: UZ07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ07 - 74b74944.jpg
+  front: Corpsecopse Tangle - df6e7979.jpg

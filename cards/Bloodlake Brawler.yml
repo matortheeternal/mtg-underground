@@ -1,8 +1,8 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: b
+      name: black
       sources:
         normal: true
     - char: r
@@ -11,37 +11,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ02
+  name: Bloodlake Brawler
   manaCost:
     __type: ManaCost
-    symbols: WR
+    symbols: 2BR
   artImage:
     __type: image
-    width: 827
-    height: 1064
-    cropWidth: 827
-    cropHeight: 584
+    width: 1143
+    height: 699
+    cropWidth: 990
+    cropHeight: 699
     xOffset: 0
-    yOffset: 222
+    yOffset: 0
   superType: Creature
-  subType: Human Cleric
+  subType: Demon
   rulesText: >-
-    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
-    of turn.)
+    Deathlink (Whenever this creature deals combat damage, target player loses
+    that much life.)
 
 
-    {1}, {T}: Exile another target creature you control. You may cast it for as
-    long as it remains exiled. Activate only as a sorcery.
+    When this creature enters, destroy up to one target creature.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "1"
+  power: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Disezno
-  autoCollectorNumber: UZ01
+  illustrator: Cryptos13
+  autoCollectorNumber: UZ08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ02 - de27c807.jpg
+  front: Bloodlake Brawler - fc1709fd.jpg
