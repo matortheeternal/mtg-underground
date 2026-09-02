@@ -40,7 +40,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Las Pinter
-  autoCollectorNumber: CL05
+  autoCollectorNumber: CL10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Simic Thicket - a483444e.jpg
+  front: Simic Thicket - b25bdda8.jpg

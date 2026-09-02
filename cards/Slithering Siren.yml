@@ -26,11 +26,12 @@ front:
     toughness.)
 
 
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
+    Retreat (Whenever this creature because blocked, you may return it to its
+    owner's hand.)
 
 
-    When this creature enters, target creature gets -3/-0 until end of turn.
+    When this creature leaves the battlefield, target creature an opponent
+    controls gets -2/-0 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -40,7 +41,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: MrRedButcher
-  autoCollectorNumber: UU02
+  autoCollectorNumber: UU03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Slithering Siren - 0cbef36d.jpg
+  front: Slithering Siren - d3038bf6.jpg

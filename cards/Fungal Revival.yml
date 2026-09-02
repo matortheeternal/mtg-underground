@@ -27,8 +27,8 @@ front:
     - Return target creature card with mana value 4 or greater from your
     graveyard to your hand. 
 
-    - Return target noncreature card with mana value 4 or less from your
-    graveyard to your hand.
+    - Return target noncreature card with mana value 4 or less your graveyard to
+    your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -38,7 +38,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Caymartworks
-  autoCollectorNumber: UG11
+  autoCollectorNumber: UG09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Fungal Revival - 6f1fc166.jpg
+  front: Fungal Revival - 55d33ffa.jpg

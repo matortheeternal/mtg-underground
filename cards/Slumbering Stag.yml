@@ -22,14 +22,12 @@ front:
   superType: Creature
   subType: Beast
   rulesText: >-
-    Bulwark (This creature can block an additional creature each combat.)
-
-
     Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
     you control, and counters are modifications.)
 
 
-    When this creature dies, you gain 4 life.
+    If this creature would die, instead attach any number of Auras and Equipment
+    attached to it to another creature you control, then it dies.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -68,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Slumbering Stag - b637b47d.jpg
+  front: Slumbering Stag - 3c31a797.jpg

@@ -35,12 +35,12 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
+  power: "2"
   toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Cryptos13
-  autoCollectorNumber: UZ08
+  autoCollectorNumber: UZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Bloodlake Brawler - fc1709fd.jpg
+  front: Bloodlake Brawler - c32b7fa9.jpg

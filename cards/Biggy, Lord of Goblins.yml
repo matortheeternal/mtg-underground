@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Biggy, Lord of Goblins
+  manaCost:
+    __type: ManaCost
+    symbols: 2RR
+  artImage:
+    __type: image
+    width: 900
+    height: 701
+    cropWidth: 900
+    cropHeight: 635
+    xOffset: 0
+    yOffset: 30
+  superType: Legendary Creature
+  subType: Goblin Noble
+  rulesText: >-
+    Whenever @ attacks, put a +1/+1 counter on him for each Goblin and/or Fungus
+    you control.
+
+
+    At the beginning of your upkeep, add {R}{R}.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Armandeo64
+  autoCollectorNumber: RR04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Biggy, Lord of Goblins - d58fdbb1.jpg

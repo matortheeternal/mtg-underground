@@ -1,0 +1,77 @@
+front:
+  template: magic/M20/Archetypes
+  name: UDG New Keywords
+  rulesText: >
+    *Barrier [cost]*: If a source would deal damage to this creature, prevent
+    that damage unless that source's controller pays [cost]. 
+
+    *Bulwark*: Can block an additional creature.
+
+    *Climbing*: Can't be blocked by creatures with greater toughness.
+
+    *Deathlink*: Whenever it deals combat damage, target player loses that much
+    life.
+
+    *Escort*: Whenever it attacks, target creature without escort can't be
+    blocked this turn.
+
+    *Grind*: Whenever it deals combat damage, target player mills that many
+    cards.
+
+    *Nullify*: Whenever it blocks or becomes blocked by a creature, that
+    creature loses all abilities until end of combat.
+  flavorText: null
+  rarity: ad
+  illustrator: ""
+  autoCollectorNumber: A02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+back:
+  template: magic/M20/Archetypes
+  name: UDG New Keywords (cont.)
+  rulesText: >-
+    *Mourn*: Whenever a creature card is put into your graveyard, you gain 1
+    life.
+
+    *Ravage*: It can deal excess combat damage to another creature defending
+    player controls.
+
+    *Riposte*: Whenever it is dealt damage by another creature, it deals that
+    much damage back.
+
+    *Retreat:* Whenever it becomes blocked, you may return it to its owner's
+    hand.
+
+    *Rush [N]*: You may cast it for N less. At the beginning of your next
+    upkeep, sacrifice it unless you pay N.
+
+    *Sleeper*: It can't attack unless it is modified.
+
+    *Zeal*: Whenever you cast a creature spell, it gets +1/+1 until end of turn.
+  flavorText: null
+  rarity: ad
+  illustrator: ""
+  autoCollectorNumber: ""
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+imageExports:
+  front: UDG New Keywords + UDG New Keywords (cont.) - front - 982b9987.jpg
+  back: UDG New Keywords + UDG New Keywords (cont.) - back - a61b6d47.jpg

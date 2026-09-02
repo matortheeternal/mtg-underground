@@ -23,7 +23,7 @@ front:
   subType: ""
   rulesText: Creatures you control get +1/+0 and gain barrier {2} until end of
     turn. (If a source would deal damage to a creature with barrier {2}, prevent
-    that damage unless its controller pays {2}.)
+    that damage unless that source's controller pays {2}.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -33,7 +33,7 @@ front:
   showPT: ""
   rarity: uncommon
   illustrator: Preciteran
-  autoCollectorNumber: UW08
+  autoCollectorNumber: UW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Metra's Blessing - 4a9a122d.jpg
+  front: Metra's Blessing - cff2802b.jpg

@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: common
   illustrator: David Haire
-  autoCollectorNumber: CU05
+  autoCollectorNumber: CU04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Colossal Axolotl - 32f4067f.jpg
+  front: Colossal Axolotl - 65793a4c.jpg

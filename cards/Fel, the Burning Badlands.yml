@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Natt Money
-  autoCollectorNumber: RL04
+  autoCollectorNumber: RL01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Fel, the Burning Badlands - c2ebf489.jpg
+  front: Fel, the Burning Badlands - e4a5be80.jpg

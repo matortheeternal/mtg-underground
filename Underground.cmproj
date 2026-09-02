@@ -40,14 +40,46 @@ export:
     quality: "0.92"
     scale: "2"
     bleed: "0"
-  TTSExporter:
+  TTSSpawnerExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
     ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/tts
-  OldTTSExporter:
+  TTSDeckExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
   WebExporter:
     Test: ""
     test: ""
     baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master
-pack: []
+pack:
+  - label: Commons
+    count: "10"
+    pool:
+      - expression: r=c -t:land
+        weight: 1
+    collation: runs
+  - label: Uncommons
+    count: "3"
+    pool:
+      - expression: r=u -t:land
+        weight: 1
+    collation: runs
+  - label: Rares and Mythics
+    count: "1"
+    pool:
+      - expression: r=r -t:land
+        weight: "2"
+      - expression: r=m -t:land
+        weight: "1"
+    collation: sheet
+  - label: Land
+    count: 1
+    pool:
+      - expression: t:land r=c
+        weight: "6"
+      - expression: t:land r=u
+        weight: "10"
+      - expression: t:land r=r
+        weight: "2"
+      - expression: t:land r=m
+        weight: "2"
+    collation: sheet
 imageExportPath: dist/images/
