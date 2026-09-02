@@ -30,7 +30,7 @@ front:
     you control, and counters are modifications.)
 
 
-    {T}: Target creature you control gets +0/+3 until end of turn.
+    {T}: Another target creature you control gets +0/+3 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -62,11 +62,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "10"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Hibernating Hopper - f8d58a82.jpg
+  front: Hibernating Hopper - 6e57c84b.jpg
