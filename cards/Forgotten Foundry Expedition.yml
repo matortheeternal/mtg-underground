@@ -28,7 +28,7 @@ front:
 
     Whenever an artifact you control enters, target creature you control gains
     barrier {2} until end of turn. (If a source would deal damage to that
-    creature, prevent that damage unless its controller pays {2}.)
+    creature, prevent that damage unless that source's controller pays {2}.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -38,7 +38,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Huy Viet Tran
-  autoCollectorNumber: RU01
+  autoCollectorNumber: RU05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Forgotten Foundry Expedition - 8777382b.jpg
+  front: Forgotten Foundry Expedition - ba6b9ffe.jpg

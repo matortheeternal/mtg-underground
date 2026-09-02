@@ -22,7 +22,7 @@ front:
   superType: Creature
   subType: Goblin Artificer
   rulesText: >-
-    Rush {R} (You may cast this spell for {R} less. When you do, sacrifice it at
+    Rush {R} (You may cast this spell for {R} less. If you do, sacrifice it at
     the beginning of your next upkeep unless you pay {R}.)
 
 
@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Vegasmike
-  autoCollectorNumber: UR01
+  autoCollectorNumber: UR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Bomb-Tosser - 1c9c4221.jpg
+  front: Goblin Bomb-Tosser - 65a06624.jpg

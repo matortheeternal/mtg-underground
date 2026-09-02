@@ -40,7 +40,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Las Pinter
-  autoCollectorNumber: CL03
+  autoCollectorNumber: CL04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Golgari Grove - 19bc37d7.jpg
+  front: Golgari Grove - ceaf2b94.jpg

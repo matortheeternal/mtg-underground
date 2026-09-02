@@ -30,9 +30,9 @@ front:
   power: "4"
   toughness: "5"
   showPT: true
-  rarity: common
+  rarity: uncommon
   illustrator: Themefinland
-  autoCollectorNumber: CB10
+  autoCollectorNumber: UB08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Muck Monster - 8639dc78.jpg
+  front: Muck Monster - 8db236ff.jpg

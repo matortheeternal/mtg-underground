@@ -27,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Zyavera
-  autoCollectorNumber: CG08
+  autoCollectorNumber: CG09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Pale Wurm - 12cc0cdf.jpg
+  front: Pale Wurm - d5cc8b18.jpg

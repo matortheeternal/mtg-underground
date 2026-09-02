@@ -27,7 +27,7 @@ front:
 
 
 
-    {6}, Mill four cards: Destroy this enchantment. Only your opponents may
+    {7}, Mill four cards: Destroy this enchantment. Only your opponents may
     activate this ability and only as a sorcery.
   flavorText: null
   watermark: null
@@ -38,7 +38,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Arnaud Pheu
-  autoCollectorNumber: CW14
+  autoCollectorNumber: CW13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Caught in a Cave-In - f18613de.jpg
+  front: Caught in a Cave-In - 5817d092.jpg

@@ -37,7 +37,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Jimmy Nijs
-  autoCollectorNumber: CB06
+  autoCollectorNumber: CB07
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Tunnel Tyrant - 0b9c4f5d.jpg
+  front: Tunnel Tyrant - c9cc51ba.jpg

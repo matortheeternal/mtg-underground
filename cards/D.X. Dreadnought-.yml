@@ -1,0 +1,56 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
+  colorOverride:
+    - w
+    - a
+  faceSymbol: null
+  name: "D.X. Dreadnought "
+  manaCost:
+    __type: ManaCost
+    symbols: 4WW
+  artImage:
+    __type: image
+    width: 1219
+    height: 656
+    cropWidth: 483
+    cropHeight: 656
+    xOffset: 736
+    yOffset: 0
+  superType: Legendary Artifact Planeswalker
+  subType: D.X.
+  rulesText: >-
+    0: Until your next turn, your life total can’t change.
+
+
+    0: Put a +1/+1 counter on target creature. It gains riposte until your next
+    turn.
+
+
+    -X: Destroy each nonland permanent with mana value X or less.
+  flavorText: null
+  loyalty: "6"
+  rarity: mythic
+  illustrator: Aths Art
+  autoCollectorNumber: MW02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "2"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: D.X. Dreadnought- - d11e2e95.jpg

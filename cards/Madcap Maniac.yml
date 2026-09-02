@@ -1,45 +1,43 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW10
+  name: Madcap Maniac
   manaCost:
     __type: ManaCost
-    symbols: 2W
+    symbols: R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 827
+    height: 1104
+    cropWidth: 827
+    cropHeight: 637
     xOffset: 0
-    yOffset: 0
-  superType: Artifact
-  subType: Equipment
+    yOffset: 106
+  superType: Creature
+  subType: Goblin Assassin
   rulesText: >-
-    When this Equipment enters, attach it to target creature you control.
+    Rush {R} (You may cast this spell for {R} less. If you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {R}.)
 
 
-    Whenever equipped creature attacks, put a +1/+1 counter on another target
-    creature you control.
-
-
-    Equip {1}
+    Sacrifice a creature: ~ gets +X/+0 until end of turn, where X is that
+    creature's power.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
-  rarity: uncommon
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
   illustrator: ""
-  autoCollectorNumber: UW10
+  autoCollectorNumber: RR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW10 - d237d5b9.jpg
+  front: Madcap Maniac - 4ddaf511.jpg

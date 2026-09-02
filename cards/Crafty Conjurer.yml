@@ -27,8 +27,8 @@ front:
 
 
     Whenever this creature attacks, you may discard a card. When you do, exile
-    the top two cards of your library. You may play those cards until the end of
-    your next turn.
+    the top card of your library. You may play that card until the end of your
+    next turn.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -38,7 +38,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: armandeo64
-  autoCollectorNumber: UR02
+  autoCollectorNumber: UR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Crafty Conjurer - 738b5573.jpg
+  front: Crafty Conjurer - 5a5ac3e3.jpg

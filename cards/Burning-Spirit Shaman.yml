@@ -26,13 +26,13 @@ front:
     of turn.)
 
 
-    {1}{R}, Discard a card: Draw a card.
+    {R}, {T}, Discard a card: Draw a card.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: common
   illustrator: Nicholas Cloister
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Burning-Spirit Shaman - 701f5514.jpg
+  front: Burning-Spirit Shaman - b86087ae.jpg

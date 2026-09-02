@@ -1,43 +1,45 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: g
-      name: green
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Hunted Hart
+  name: Silaksamar, Pure Blade
   manaCost:
     __type: ManaCost
-    symbols: 3G
+    symbols: WW
   artImage:
     __type: image
-    width: 1023
-    height: 694
-    cropWidth: 983
-    cropHeight: 694
-    xOffset: 20
-    yOffset: 0
-  superType: Creature
-  subType: Beast
+    width: 1860
+    height: 2250
+    cropWidth: 1860
+    cropHeight: 1313
+    xOffset: 0
+    yOffset: 176
+  superType: Legendary Creature
+  subType: Lizard Berserker
   rulesText: >-
-    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
-    you control, and counters are modifications.)
+    Zeal, zeal, zeal (Whenever you cast a creature spell, this creature gets
+    +1/+1 until end of turn, thrice.)
 
 
-    Whenever you spend 5 or more mana on a spell, target creature you control
-    gets +2/+2 until end of turn.
+    At the beginning of combat on your turn, if @ is in your graveyard, target
+    creature you control gains riposte until end of turn. (Whenever a creature
+    with riposte is dealt damage by another creature, it deals that much damage
+    back.)
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "5"
+  power: "1"
+  toughness: "1"
   showPT: true
-  rarity: uncommon
-  illustrator: Marc Simonetti
-  autoCollectorNumber: UG05
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Hunted Hart - 52c2ba23.jpg
+  front: Silaksamar, Pure Blade - 41d48b4e.jpg

@@ -10,7 +10,7 @@ front:
   name: Netherworld Mesmer
   manaCost:
     __type: ManaCost
-    symbols: 2U
+    symbols: 3U
   artImage:
     __type: image
     width: 1183
@@ -32,12 +32,12 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CU06
+  autoCollectorNumber: CU08
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Netherworld Mesmer - 4eb771ef.jpg
+  front: Netherworld Mesmer - 3017e8f8.jpg

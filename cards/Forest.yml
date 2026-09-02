@@ -31,7 +31,7 @@ front:
   showPT: ""
   rarity: land
   illustrator: Anton Kurbatov
-  autoCollectorNumber: L05
+  autoCollectorNumber: L01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Forest - 60a57312.jpg
+  front: Forest - 5f2f30e6.jpg

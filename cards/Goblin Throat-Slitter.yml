@@ -22,7 +22,7 @@ front:
   superType: Creature
   subType: Goblin Assassin
   rulesText: >-
-    Rush {B} (You may cast this spell for {B} less. When you do, sacrifice it at
+    Rush {B} (You may cast this spell for {B} less. If you do, sacrifice it at
     the beginning of your next upkeep unless you pay {B}.)
 
 
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Throat-Slitter - d45a6358.jpg
+  front: Goblin Throat-Slitter - 498c1da4.jpg

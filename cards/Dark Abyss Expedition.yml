@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: mythic
   illustrator: Nele Diel
-  autoCollectorNumber: MB01
+  autoCollectorNumber: MB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -64,4 +64,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Dark Abyss Expedition - 64124fe3.jpg
+  front: Dark Abyss Expedition - bac1909e.jpg

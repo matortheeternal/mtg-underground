@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Joe Stiller
-  autoCollectorNumber: CB03
+  autoCollectorNumber: CB04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Soulsip Scavenger - 6ba392c6.jpg
+  front: Soulsip Scavenger - efdd222f.jpg

@@ -27,7 +27,7 @@ front:
   showPT: ""
   rarity: common
   illustrator: Themefinland
-  autoCollectorNumber: CU16
+  autoCollectorNumber: CU18
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Splitspell - 3a6d2091.jpg
+  front: Splitspell - ea957f52.jpg

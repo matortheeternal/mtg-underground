@@ -1,43 +1,51 @@
 front:
   template: magic/M15/Main
   colors:
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
     - char: g
       name: green
       sources:
-        normal: true
+        hybrid: true
   colorOverride: []
   faceSymbol: null
-  name: Goblin Pathfinder
+  name: Chungus, Tremendous Toad
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: 3U/G
   artImage:
     __type: image
-    width: 1047
-    height: 763
-    cropWidth: 1047
-    cropHeight: 739
-    xOffset: 0
-    yOffset: 12
-  superType: Creature
-  subType: Goblin Scout
-  rulesText: >
-    Escort (Whenever this creature attacks, another attacking creature can't be
-    blocked this turn except by creatures with bulwark.)
+    width: 1041
+    height: 768
+    cropWidth: 869
+    cropHeight: 613
+    xOffset: 86
+    yOffset: 90
+  superType: Legendary Creature
+  subType: Frog
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
 
 
-    When this creature enters or dies, put a +1/+1 counter on another target
-    creature.
+    Escort (Whenever this creature attacks, target creature without escort
+    cannot be blocked this turn.)
+
+
+    Whenever a creature you control with climbing becomes blocked, put a +1/+1
+    counter on it.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
-  rarity: uncommon
-  illustrator: Elijah Siberian
-  autoCollectorNumber: UG02
+  rarity: rare
+  illustrator: Duy Phan
+  autoCollectorNumber: RZ03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +74,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Pathfinder - efd426ba.jpg
+  front: Chungus, Tremendous Toad - 4ee4ad4e.jpg

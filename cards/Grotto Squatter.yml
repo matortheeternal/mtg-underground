@@ -6,10 +6,12 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Grotto Squatter
   manaCost:
     __type: ManaCost
     symbols: 2G
+  alias: null
   artImage:
     __type: image
     width: 1192
@@ -19,23 +21,24 @@ front:
     xOffset: 243
     yOffset: 0
   superType: Creature
-  subType: Frog Beast
+  subType: Frog
+  rulesText: Bulwark (This creature can block an additional creature each combat
+    and can block escorted creatures.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "4"
+  power: "0"
+  toughness: "5"
   showPT: true
   rarity: common
   illustrator: Sylvia Ritter
-  autoCollectorNumber: CG05
+  autoCollectorNumber: CG06
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Bulwark (This creature can block an additional creature each combat.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -51,11 +54,14 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Grotto Squatter - 2dab006f.jpg
+  front: Grotto Squatter - e7017418.jpg

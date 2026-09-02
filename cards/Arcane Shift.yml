@@ -7,32 +7,23 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR10
+  name: Arcane Shift
   manaCost:
     __type: ManaCost
-    symbols: 2R
+    symbols: 2RR
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 700
+    height: 700
+    cropWidth: 700
+    cropHeight: 494
     xOffset: 0
-    yOffset: 0
-  superType: Artifact
-  subType: Equipment
-  rulesText: >-
-    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
-    the beginning of your next upkeep unless you pay {2}.)
-
-
-    When this equipment enters, attach it to target creature you control.
-
-
-    Equipped creature gets +3/+1.
-
-
-    Equip {4}
+    yOffset: 103
+  superType: Instant
+  subType: ""
+  rulesText: Exile target nonland permanent. Its controller reveals the top four
+    cards of their library, then they may choose a spell from among them. They
+    may cast that spell without paying its mana cost.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -40,9 +31,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UR09
+  rarity: mythic
+  illustrator: Petros Stefanidis
+  autoCollectorNumber: MR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR10 - 0d2d3e5d.jpg
+  front: Arcane Shift - 22847cff.jpg

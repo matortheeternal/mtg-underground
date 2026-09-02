@@ -40,7 +40,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Themefinland
-  autoCollectorNumber: UW01
+  autoCollectorNumber: UW02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Saltmine Surveyor - 93bffc3a.jpg
+  front: Saltmine Surveyor - 53d3faa0.jpg

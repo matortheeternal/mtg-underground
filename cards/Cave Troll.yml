@@ -27,7 +27,7 @@ front:
   showPT: true
   rarity: common
   illustrator: Athavan
-  autoCollectorNumber: CG11
+  autoCollectorNumber: CG10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Cave Troll - 0dfe1582.jpg
+  front: Cave Troll - 41f93f6e.jpg
