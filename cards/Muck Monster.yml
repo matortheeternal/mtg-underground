@@ -21,8 +21,8 @@ front:
     yOffset: 0
   superType: Creature
   subType: Elemental
-  rulesText: Whenever this creature attacks, you may sacrifice another creature.
-    When you do, target opponent loses life equal to that creature's power.
+  rulesText: When this creature enters, you may sacrifice another creature. When
+    you do, target opponent loses life equal to that creature's power.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Muck Monster - 8639dc78.jpg
+  front: Muck Monster - e291ab68.jpg

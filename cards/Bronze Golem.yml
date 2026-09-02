@@ -21,12 +21,9 @@ front:
     yOffset: 0
   superType: Artifact Creature
   subType: Ape Construct
-  rulesText: >-
+  rulesText: >
     Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
     you control, and counters are modifications)
-
-
-    {4}: Put a +1/+1 counter on this creature.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -65,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Bronze Golem - 77d50b9d.jpg
+  front: Bronze Golem - 9cbd3d21.jpg

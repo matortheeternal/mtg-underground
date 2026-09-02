@@ -26,7 +26,8 @@ front:
   superType: Creature
   subType: Human Warlock
   rulesText: >-
-    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+    Mourn (Whenever a creature card is put into your graveyard, you gain 1
+    life.)
 
 
     At the beginning of each end step, you may scry X, where X is the amount of
@@ -40,7 +41,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Indusfera
-  autoCollectorNumber: UZ02
+  autoCollectorNumber: UZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Heathen Prophet - 63085664.jpg
+  front: Heathen Prophet - c731f9a5.jpg

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Mourning Horror
   manaCost:
     __type: ManaCost
@@ -20,6 +21,9 @@ front:
     yOffset: 0
   superType: Creature
   subType: Horror
+  rulesText: Mourn (Whenever a creature card is put into your graveyard, you gain 1 life.)
+  flavorText: It weeps for every life it ends, then it searches for another.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -33,9 +37,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
-  flavorText: It weeps for every life it ends, then it searches for another.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -55,7 +56,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Mourning Horror - 151ec7ba.jpg
+  front: Mourning Horror - 46055165.jpg

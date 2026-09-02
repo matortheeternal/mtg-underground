@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Boneheap Curator
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 0
   superType: Creature
   subType: Demon
+  rulesText: >-
+    Mourn (Whenever a creature card is put into your graveyard, you gain 1
+    life.)
+
+
+    {3}{B}, {T}, Sacrifice this creature: Target opponent sacrifices a creature.
+    Activate only as a sorcery.
+  flavorText: From every corpse, a bone, and for every bone, a corpse.
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,14 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
-
-
-    {3}{B}, {T}, Sacrifice this creature: Target opponent sacrifices a creature.
-    Activate only as a sorcery.
-  flavorText: From every corpse, a bone, and for every bone, a corpse.
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Boneheap Curator - 707faf77.jpg
+  front: Boneheap Curator - bb64e37e.jpg

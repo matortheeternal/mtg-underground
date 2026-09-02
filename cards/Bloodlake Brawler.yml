@@ -40,7 +40,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Cryptos13
-  autoCollectorNumber: UZ08
+  autoCollectorNumber: UZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Bloodlake Brawler - fc1709fd.jpg
+  front: Bloodlake Brawler - 65f3cf3a.jpg

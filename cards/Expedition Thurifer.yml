@@ -40,7 +40,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Roswarz
-  autoCollectorNumber: UZ03
+  autoCollectorNumber: UZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Expedition Thurifer - 0db27a21.jpg
+  front: Expedition Thurifer - 9d1d290c.jpg

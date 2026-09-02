@@ -30,17 +30,17 @@ front:
     you control, and counters are modifications.)
 
 
-    {T}: Another target creature you control gets +0/+3 until end of turn.
-  flavorText: null
+    {T}: Target creature you control gets +0/+3 until end of turn.
+  flavorText: Escorts have learned to harvest healing secretions from hibernating hoppers.
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "7"
-  toughness: "3"
+  toughness: "2"
   showPT: true
   rarity: uncommon
   illustrator: Jiri Kus
-  autoCollectorNumber: UZ09
+  autoCollectorNumber: UZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,11 +62,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: "10"
+  chopBottom: ""
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Hibernating Hopper - 6e57c84b.jpg
+  front: Hibernating Hopper - 353c5026.jpg

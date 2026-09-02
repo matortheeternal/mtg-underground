@@ -22,7 +22,8 @@ front:
   superType: Creature
   subType: Horror
   rulesText: >-
-    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+    Mourn (Whenever a creature card is put into your graveyard, you gain 1
+    life.)
 
 
     Whenever one or more other creatures die, you may pay 2 life. When you do,
@@ -65,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Spirit Drinker - 0e97e3f7.jpg
+  front: Spirit Drinker - c24a992a.jpg

@@ -21,7 +21,7 @@ front:
     yOffset: 0
   superType: Creature
   subType: Spirit
-  rulesText: Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
+  rulesText: Mourn (Whenever a creature card is put into your graveyard, you gain 1 life.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Grieving Ghost - cd9fb531.jpg
+  front: Grieving Ghost - e0d02454.jpg

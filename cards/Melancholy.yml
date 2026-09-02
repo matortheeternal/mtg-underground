@@ -22,8 +22,8 @@ front:
   superType: Creature
   subType: Elemental
   rulesText: >-
-    Mourn, mourn (Whenever a creature card is put into a graveyard, you gain 1
-    life twice.)
+    Mourn, mourn (Whenever a creature card is put into your graveyard, you gain
+    1 life twice.)
 
 
     When this creature enters, return target creature card with mana value 3 or
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Melancholy - 1fda0b30.jpg
+  front: Melancholy - 19efc731.jpg
