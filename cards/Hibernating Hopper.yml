@@ -1,47 +1,46 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
       sources:
         normal: true
-    - char: b
-      name: black
+    - char: g
+      name: green
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ03
+  name: Hibernating Hopper
   manaCost:
     __type: ManaCost
-    symbols: 2UB
+    symbols: 3GW
   artImage:
     __type: image
-    width: 1024
-    height: 614
-    cropWidth: 870
-    cropHeight: 614
-    xOffset: 77
-    yOffset: 0
+    width: 1187
+    height: 673
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 169
+    yOffset: 46
   superType: Creature
-  subType: Horror
+  subType: Frog
   rulesText: >-
-    Grind (Whenever this creature deals combat damage, target player mills that
-    many cards.)
+    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
+    you control, and counters are modifications.)
 
 
-    Whenever one or more creatures you control deal combat damage to an
-    opponent, that player discards a card.
+    {T}: Target creature you control gets +0/+3 until end of turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "5"
-  toughness: "5"
+  power: "7"
+  toughness: "3"
   showPT: true
   rarity: uncommon
-  illustrator: TentaclesAndTeeth
-  autoCollectorNumber: UZ06
+  illustrator: Jiri Kus
+  autoCollectorNumber: UZ09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ03 - 7ce5d372.jpg
+  front: Hibernating Hopper - f8d58a82.jpg

@@ -5,42 +5,42 @@ front:
       name: white
       sources:
         normal: true
-    - char: g
-      name: green
+    - char: b
+      name: black
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ09
+  name: Heathen Prophet
   manaCost:
     __type: ManaCost
-    symbols: 3GW
+    symbols: WB
   artImage:
     __type: image
-    width: 1187
-    height: 673
+    width: 1162
+    height: 687
     cropWidth: 850
     cropHeight: 600
-    xOffset: 169
-    yOffset: 46
+    xOffset: 168
+    yOffset: 23
   superType: Creature
-  subType: Frog
+  subType: Human Warlock
   rulesText: >-
-    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
-    you control, and counters are modifications.)
+    Mourn (Whenever a creature card is put into a graveyard, you gain 1 life.)
 
 
-    {T}: Target creature you control gets +0/+3 until end of turn.
+    At the beginning of each end step, you may scry X, where X is the amount of
+    life you gained this turn.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "7"
-  toughness: "3"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Jiri Kus
-  autoCollectorNumber: UZ09
+  illustrator: Indusfera
+  autoCollectorNumber: UZ02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ09 - 901835b6.jpg
+  front: Heathen Prophet - 63085664.jpg

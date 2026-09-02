@@ -1,8 +1,8 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: w
+      name: white
       sources:
         normal: true
     - char: r
@@ -11,37 +11,37 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UZ06
+  name: Ardent Cultist
   manaCost:
     __type: ManaCost
-    symbols: 1UR
+    symbols: WR
   artImage:
     __type: image
-    width: 1000
-    height: 499
-    cropWidth: 707
-    cropHeight: 499
-    xOffset: 173
-    yOffset: 0
+    width: 827
+    height: 1064
+    cropWidth: 827
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 222
   superType: Creature
-  subType: Salamander
+  subType: Human Cleric
   rulesText: >-
-    Climbing (This creature can't be blocked by creatures with greater
-    toughness.)
+    Zeal (Whenever you cast a creature spell, this creature gets +1/+1 until end
+    of turn.)
 
 
-    Whenever you cast a noncreature spell, creatures you control get +1/+0 until
-    end of turn.
+    {2}, {T}: Exile another target creature you control. You may cast it for as
+    long as it remains exiled. Activate only as a sorcery.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "3"
-  toughness: "2"
+  power: "1"
+  toughness: "1"
   showPT: true
   rarity: uncommon
-  illustrator: Lizzy John
-  autoCollectorNumber: UZ05
+  illustrator: Disezno
+  autoCollectorNumber: UZ01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UZ06 - 7884f480.jpg
+  front: Ardent Cultist - 164e8557.jpg
