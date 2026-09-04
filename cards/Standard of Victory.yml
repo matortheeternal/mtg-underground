@@ -1,38 +1,32 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: r
-      name: red
+    - char: w
+      name: white
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UR10
+  name: Standard of Victory
   manaCost:
     __type: ManaCost
-    symbols: 2R
+    symbols: 1W
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1024
+    height: 673
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 162
     yOffset: 0
   superType: Artifact
   subType: Equipment
   rulesText: >-
-    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
-    the beginning of your next upkeep unless you pay {2}.)
+    Whenever equipped creature attacks, other attacking creatures you control
+    get +1/+1 until end of turn.
 
 
-    When this equipment enters, attach it to target creature you control.
-
-
-    Equipped creature gets +3/+1.
-
-
-    Equip {4}
+    Equip {2}
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -41,8 +35,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UR09
+  illustrator: lozanox
+  autoCollectorNumber: UW09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -71,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UR10 - dc125d35.jpg
+  front: Standard of Victory - 56fe4aa1.jpg

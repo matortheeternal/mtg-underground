@@ -1,35 +1,38 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: w
-      name: white
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: UW10
+  name: Magnetic Mace
   manaCost:
     __type: ManaCost
-    symbols: 2W
+    symbols: 2R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
+    width: 750
+    height: 1004
+    cropWidth: 750
+    cropHeight: 529
     xOffset: 0
     yOffset: 0
   superType: Artifact
   subType: Equipment
   rulesText: >-
-    When this Equipment enters, attach it to target creature you control.
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
 
 
-    Whenever equipped creature attacks, put a +1/+1 counter on another target
-    creature you control.
+    When this equipment enters, attach it to target creature you control.
 
 
-    Equip {1}
+    Equipped creature gets +3/+1.
+
+
+    Equip {4}
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -38,8 +41,8 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
-  autoCollectorNumber: UW10
+  illustrator: kamiyamark
+  autoCollectorNumber: UR09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -68,4 +71,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UW10 - cc1bb45f.jpg
+  front: Magnetic Mace - e8f9dbcb.jpg

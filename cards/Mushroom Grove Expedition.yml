@@ -26,7 +26,7 @@ front:
     card, put it onto the battlefield tapped, then shuffle.
 
 
-    Whenever a basic land you control enters, scry 1.
+    Whenever a land you control enters, scry 1.
   flavorText: null
   watermark: null
   flagLeft: ""

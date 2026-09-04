@@ -13,11 +13,11 @@ front:
     symbols: 1R
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1191
+    height: 671
+    cropWidth: 951
+    cropHeight: 671
+    xOffset: 120
     yOffset: 0
   superType: Instant
   subType: ""
@@ -30,7 +30,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: uncommon
-  illustrator: ""
+  illustrator: Lionel Prats
   autoCollectorNumber: UR08
   collectorNumber: ""
   setCode: ""
@@ -60,4 +60,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Ambush from Above - 3b208cff.jpg
+  front: Ambush from Above - bc61c64c.jpg
