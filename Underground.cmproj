@@ -49,5 +49,37 @@ export:
     Test: ""
     test: ""
     baseUrl: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master
-pack: []
+pack:
+  - label: Commons
+    count: "10"
+    pool:
+      - expression: r=c -t:land
+        weight: 1
+    collation: runs
+  - label: Uncommons
+    count: "4"
+    pool:
+      - expression: r=u -t:land
+        weight: 1
+    collation: runs
+  - label: Rares and Mythics
+    count: "0"
+    pool:
+      - expression: r=r -t:land
+        weight: 1
+      - expression: r=m -t:land
+        weight: 1
+    collation: sheet
+  - label: Land
+    count: 1
+    pool:
+      - expression: t:land r=c
+        weight: "6"
+      - expression: t:land r=u
+        weight: "10"
+      - expression: t:land r=r
+        weight: "2"
+      - expression: t:land r=m
+        weight: "2"
+    collation: sheet
 imageExportPath: dist/images/
