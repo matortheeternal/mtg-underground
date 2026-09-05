@@ -7,37 +7,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Forgotten Foundry Expedition
+  name: Tsolus, the Storyteller
   manaCost:
     __type: ManaCost
-    symbols: 5U
+    symbols: UU
   artImage:
     __type: image
-    width: 1226
-    height: 652
-    cropWidth: 924
-    cropHeight: 652
-    xOffset: 151
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 70
     yOffset: 0
-  superType: Enchantment
-  subType: ""
-  rulesText: >-
-    When this enchantment enters, you may search your library for an artifact
-    card, put it onto the battlefield, then shuffle.
+  superType: Legendary Creature
+  subType: Slug
+  rulesText: >
+    {T}: Draw a card. Activate this ability only if you spent five or more mana
+    to cast a spell this turn.
 
 
-    Whenever an artifact you control enters, target creature you control gains
-    barrier {2} until end of turn. (If a source would deal damage to that
-    creature, prevent that damage unless that source's controller pays {2}.)
+    At the beginning of your end step, you may return another target creature
+    you control to its owner's hand.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: ""
-  toughness: ""
-  showPT: ""
+  power: "0"
+  toughness: "2"
+  showPT: true
   rarity: rare
-  illustrator: Huy Viet Tran
+  illustrator: Themefinland
   autoCollectorNumber: RU01
   collectorNumber: ""
   setCode: ""
@@ -61,10 +60,8 @@ front:
     avoidCoveringDevoid: true
   chopTop: ""
   chopBottom: ""
-  maxFontSize: "15.75"
+  maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
-imageExports:
-  front: Forgotten Foundry Expedition - 12c791a0.jpg

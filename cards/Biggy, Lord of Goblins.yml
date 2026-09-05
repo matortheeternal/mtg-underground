@@ -1,43 +1,42 @@
 front:
   template: magic/M15/Main
   colors:
-    - char: u
-      name: blue
+    - char: r
+      name: red
       sources:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Netherworld Mesmer
+  name: Biggy, Lord of Goblins
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2RR
   artImage:
     __type: image
-    width: 1183
-    height: 676
-    cropWidth: 958
-    cropHeight: 676
-    xOffset: 112
-    yOffset: 0
-  superType: Creature
-  subType: Beast
+    width: 900
+    height: 701
+    cropWidth: 900
+    cropHeight: 635
+    xOffset: 0
+    yOffset: 30
+  superType: Legendary Creature
+  subType: Goblin Noble
   rulesText: >-
-    Retreat (Whenever this creature becomes blocked, you may return it to its
-    owner’s hand.)
+    Whenever @ attacks, put a +1/+1 counter on him for each Goblin and/or Fungus
+    you control.
 
 
-    When this creature enters, tap target creature an opponent controls and put
-    a stun counter on it.
+    At the beginning of your upkeep, add {R}{R}.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "4"
+  toughness: "4"
   showPT: true
-  rarity: common
-  illustrator: Themefinland
-  autoCollectorNumber: CU08
+  rarity: rare
+  illustrator: Armandeo64
+  autoCollectorNumber: RR01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,5 +64,3 @@ front:
   citationStyle: italic
 notes: ""
 tags: []
-imageExports:
-  front: Netherworld Mesmer - a6c98179.jpg

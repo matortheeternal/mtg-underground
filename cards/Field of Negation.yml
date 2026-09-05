@@ -27,8 +27,8 @@ front:
     - Counter target noncreature spell.
 
     - Put a +1/+1 counter on target creature. It gains barrier {6} until end of
-    turn. (If a source would deal damage to it, prevent that damage unless its
-    controller pays {6}.)
+    turn. (If a source would deal damage to it, prevent that damage unless that
+    source's controller pays {6}.)
   flavorText: null
   watermark: null
   flagLeft: ""

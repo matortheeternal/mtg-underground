@@ -26,8 +26,8 @@ front:
 
 
     {4}{W}{W}, {T}: You gain barrier {5} until the beginning of your next turn.
-    (If a source would deal damage to you, prevent that damage unless its
-    controller pays {5}.)
+    (If a source would deal damage to you, prevent that damage unless that
+    source's controller pays {5}.)
   flavorText: null
   watermark: null
   flagLeft: ""

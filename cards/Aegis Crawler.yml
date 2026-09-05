@@ -19,7 +19,8 @@ front:
   subType: Construct
   rulesText: "{T}, Sacrifice this creature: Target creature, player, or
     planeswalker gains barrier {2} until end of turn. (If a source would deal
-    damage to it, prevent that damage unless its controller pays {2}.)"
+    damage to it, prevent that damage unless that source's controller pays
+    {2}.)"
   flavorText: null
   watermark: null
   flagLeft: ""

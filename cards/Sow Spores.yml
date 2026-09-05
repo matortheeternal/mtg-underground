@@ -28,8 +28,8 @@ front:
     Put a +1/+1 counter on target creature. Draw a card.
 
 
-    If this spell was kicked, put an additional three +1/+1 counters on that
-    creature.
+    If this spell was kicked, distribute two +1/+1 counters among creatures you
+    control.
   flavorText: null
   watermark: null
   flagLeft: ""

@@ -1,0 +1,30 @@
+front:
+  template: magic/M20/Archetypes
+  name: UDG Draft Archetypes
+  rulesText: |-
+    {W}{U} *Retreat Tempo* Reuse creatures and manipulate blockers.
+    {B}{R} *Reckless Aggro* Trade staying power for aggressive pressure.
+    {G}{W} *Escort Covoy* Assemble a convoy of ppowerful creatures.
+    {U}{R} *Climbing Tempo* Play evasive threats backed by disruption.
+    {R}{W} *Rally Go-Wide* Cast creature spells and win by the numbers.
+    {U}{B} *Grind Control* Mill opponents and play the long game.
+    {R}{G} *Ravage Stompy* Attack big and punish blockers.
+    {W}{B} *Mourn Recursion* Trade creatures, gain life, and bring them back.
+    {B}{G} *Death Value* Turn creature deaths into lasting value.
+    {G}{U} *Lost Technology* Ramp into artifacts and expensive spells.
+  flavorText: null
+  rarity: ad
+  illustrator: ""
+  autoCollectorNumber: CC01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []

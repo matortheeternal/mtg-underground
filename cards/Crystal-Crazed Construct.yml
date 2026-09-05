@@ -26,7 +26,7 @@ front:
 
 
     Barrier {3} (If a source would deal damage to this creature, prevent that
-    damage unless its controller pays {3}.)
+    damage unless that source's controller pays {3}.)
   flavorText: null
   watermark: null
   flagLeft: ""

@@ -26,8 +26,8 @@ front:
 
 
     {4}: Equipped creature gains barrier {4} until end of turn. (If a source
-    would deal damage to it, prevent that damage unless its controller pays
-    {4}.)
+    would deal damage to it, prevent that damage unless that source's controller
+    pays {4}.)
 
 
     Equip {1}

@@ -6,10 +6,11 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Goblin Archivist
   manaCost:
     __type: ManaCost
-    symbols: 3U
+    symbols: 2U
   artImage:
     __type: image
     width: 1192
@@ -20,20 +21,6 @@ front:
     yOffset: 0
   superType: Creature
   subType: Goblin Wizard
-  flagLeft: ""
-  flagRight: ""
-  power: "2"
-  toughness: "3"
-  showPT: true
-  rarity: common
-  illustrator: Michael Siudy
-  autoCollectorNumber: CU08
-  collectorNumber: ""
-  setCode: ""
-  language: ""
-  legalText: ""
-  showFooterOverrides: false
-  faceSymbol: null
   rulesText: >-
     Retreat (Whenever this creature becomes blocked, you may return it to its
     owner’s hand.)
@@ -41,6 +28,20 @@ front:
 
     When this creature enters, draw a card.
   flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "2"
+  showPT: true
+  rarity: common
+  illustrator: Michael Siudy
+  autoCollectorNumber: CU04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,6 +61,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

@@ -23,7 +23,7 @@ front:
   subType: ""
   rulesText: Untap up to three target creatures you control. They gain barrier {1}
     until end of turn. (If a source would deal damage to a creature with barrier
-    {1}, prevent that damage unless its controller pays {1}.)
+    {1}, prevent that damage unless that source's controller pays {1}.)
   flavorText: null
   watermark: null
   flagLeft: ""
