@@ -7,37 +7,37 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Hunted Hart
+  name: Goblin Tracker
   manaCost:
     __type: ManaCost
-    symbols: 3G
+    symbols: 1G
   artImage:
     __type: image
-    width: 1023
-    height: 694
-    cropWidth: 983
-    cropHeight: 694
-    xOffset: 20
-    yOffset: 0
+    width: 1047
+    height: 763
+    cropWidth: 1047
+    cropHeight: 739
+    xOffset: 0
+    yOffset: 12
   superType: Creature
-  subType: Beast
+  subType: Goblin Scout
   rulesText: >-
-    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
-    you control, and counters are modifications.)
+    Escort (Whenever this creature attacks, another attacking creature can't be
+    blocked this turn except by creatures with bulwark.)
 
 
-    Whenever you spend 5 or more mana on a spell, target creature you control
-    gets +2/+2 until end of turn.
+    When this creature enters, you may search your library for a creature card
+    with power 4 or greater, reveal it, then shuffle and put that card on top.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "4"
-  toughness: "5"
+  power: "1"
+  toughness: "2"
   showPT: true
   rarity: uncommon
-  illustrator: Marc Simonetti
-  autoCollectorNumber: UG05
+  illustrator: Elijah Siberian
+  autoCollectorNumber: UG02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Hunted Hart - a66aa2d1.jpg
+  front: Goblin Pathfinder - 5ae11d7d.jpg

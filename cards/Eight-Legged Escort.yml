@@ -27,8 +27,8 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "1"
+  power: "1"
+  toughness: "4"
   showPT: true
   rarity: common
   illustrator: Anton Kurbatov

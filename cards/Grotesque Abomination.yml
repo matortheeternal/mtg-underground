@@ -36,7 +36,7 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "5"
+  power: "3"
   toughness: "5"
   showPT: true
   rarity: uncommon

@@ -40,10 +40,10 @@ export:
     quality: "0.92"
     scale: "2"
     bleed: "0"
-  TTSExporter:
+  TTSSpawnerExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
     ttsBasePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/tts
-  OldTTSExporter:
+  TTSDeckExporter:
     basePath: https://cdn.jsdelivr.net/gh/matortheeternal/mtg-underground@master/dist/images
   WebExporter:
     Test: ""

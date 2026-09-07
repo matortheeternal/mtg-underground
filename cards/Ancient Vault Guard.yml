@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Ancient Vault Guard
   manaCost:
     __type: ManaCost
@@ -20,9 +21,18 @@ front:
     yOffset: 193
   superType: Artifact Creature
   subType: Construct
+  rulesText: >
+    Bulwark (This creature can block an additional creature each combat.)
+
+
+    Nullify (Whenever this creature blocks or becomes blocked by a creature,
+    that creature loses all abilities until end of combat.)
+  flavorText: '"STOP. Any intrusion beyond this zone will be met with lethal
+    force. STOP . . ."'
+  watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "6"
+  power: "5"
   toughness: "6"
   showPT: true
   rarity: common
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >
-    Bulwark (This creature can block an additional creature each combat.)
-
-
-    Nullify (Whenever this creature blocks or becomes blocked by a creature,
-    that creature loses all abilities until end of combat.)
-  flavorText: '"STOP. Any intrusion beyond this zone will be met with lethal
-    force. STOP . . ."'
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,6 +62,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

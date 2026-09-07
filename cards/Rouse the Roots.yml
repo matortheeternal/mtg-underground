@@ -22,7 +22,7 @@ front:
   superType: Sorcery
   subType: ""
   rulesText: >
-    Kicker {3} (You may pay an additional {3} as you cast this spell.)
+    Kicker {4} (You may pay an additional {3} as you cast this spell.)
 
 
     Search your library for a basic land card, put it onto the battlefield

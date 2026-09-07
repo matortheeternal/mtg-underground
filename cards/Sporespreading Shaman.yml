@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Sporespreading Shaman
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 424
   superType: Creature
   subType: Human Fungus Shaman
+  rulesText: When this creature enters or dies, put a +1/+1 counter on target
+    creature you control.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,12 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: |-
-    {T}: Add {G}.
-
-    When this creature dies, put a +1/+1 counter on target creature you control.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -58,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

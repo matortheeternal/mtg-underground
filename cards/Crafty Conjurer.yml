@@ -27,8 +27,8 @@ front:
 
 
     Whenever this creature attacks, you may discard a card. When you do, exile
-    the top two cards of your library. You may play those cards until the end of
-    your next turn.
+    the top card of your library. You may play that card until the end of your
+    next turn.
   flavorText: null
   watermark: null
   flagLeft: ""

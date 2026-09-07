@@ -32,8 +32,8 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "2"
+  power: "3"
+  toughness: "3"
   showPT: true
   rarity: common
   illustrator: Themefinland

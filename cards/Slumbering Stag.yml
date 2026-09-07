@@ -22,14 +22,12 @@ front:
   superType: Creature
   subType: Beast
   rulesText: >-
-    Bulwark (This creature can block an additional creature each combat.)
-
-
     Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
     you control, and counters are modifications.)
 
 
-    When this creature dies, you gain 4 life.
+    When this creature dies, you may attach each aura and equipment that was
+    attached to it to target creature you control.
   flavorText: null
   watermark: null
   flagLeft: ""

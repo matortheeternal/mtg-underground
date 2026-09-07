@@ -22,14 +22,11 @@ front:
   superType: Creature
   subType: Spirit Slug
   rulesText: >-
-    Kicker {3} (You may pay an additional {3} as you cast this spell.)
-
-
     Climbing (This creature can’t be blocked by creatures with greater
     toughness.)
 
 
-    When this creature enters, if it was kicked, tap up to two target creatures.
+    When this creature enters, tap target creature an opponent controls.
   flavorText: null
   watermark: null
   flagLeft: ""

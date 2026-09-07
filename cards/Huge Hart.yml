@@ -7,37 +7,36 @@ front:
         normal: true
   colorOverride: []
   faceSymbol: null
-  name: Goblin Pathfinder
+  name: Huge Hart
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: 3G
   artImage:
     __type: image
-    width: 1047
-    height: 763
-    cropWidth: 1047
-    cropHeight: 739
-    xOffset: 0
-    yOffset: 12
+    width: 1023
+    height: 694
+    cropWidth: 983
+    cropHeight: 694
+    xOffset: 20
+    yOffset: 0
   superType: Creature
-  subType: Goblin Scout
-  rulesText: >
-    Escort (Whenever this creature attacks, another attacking creature can't be
-    blocked this turn except by creatures with bulwark.)
+  subType: Beast
+  rulesText: >-
+    Sleeper (This creature can't attack unless it's modified. Equipment, Auras
+    you control, and counters are modifications.)
 
 
-    When this creature enters or dies, put a +1/+1 counter on another target
-    creature you control.
+    When this creature enters, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "1"
-  toughness: "2"
+  power: "4"
+  toughness: "4"
   showPT: true
-  rarity: uncommon
-  illustrator: Elijah Siberian
-  autoCollectorNumber: UG02
+  rarity: common
+  illustrator: Marc Simonetti
+  autoCollectorNumber: CG09
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Pathfinder - 5ae11d7d.jpg
+  front: Hunted Hart - a66aa2d1.jpg

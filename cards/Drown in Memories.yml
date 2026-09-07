@@ -21,9 +21,12 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
-  rulesText: >
+  rulesText: >-
+    As an additional cost to cast this spell, discard a card.
+
+
     Creatures target player controls get -X/-0 until end of turn, where X is the
-    number of nonland cards in that player’s graveyard.
+    mana value of the discarded card. Draw a card.
   flavorText: null
   watermark: null
   flagLeft: ""

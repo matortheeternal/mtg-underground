@@ -18,12 +18,11 @@ front:
   superType: Artifact Creature
   subType: Robot
   rulesText: >-
-    Rush {1} (You may cast this spell for {1} less. When you do, sacrifice it at
-    the beginning of your next upkeep unless you pay {1}.)
+    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {2}.)
 
 
-    When this card is put into your graveyard from anywhere, you may pay {2} to
-    return it to your hand.
+    {2}: Return this card from your graveyard to your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -33,7 +32,7 @@ front:
   showPT: true
   rarity: uncommon
   illustrator: Andrew Olson
-  autoCollectorNumber: UA03
+  autoCollectorNumber: UA02
   collectorNumber: ""
   setCode: ""
   language: ""
