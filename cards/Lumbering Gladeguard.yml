@@ -26,7 +26,8 @@ front:
   superType: Artifact Creature
   subType: Golem
   rulesText: >-
-    Bulwark (This creature can block an additional creature each combat.)
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
 
 
     Whenever you spend five or more mana to cast a spell, you may put two +1/+1
@@ -69,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Lumbering Gladeguard - db0db7d9.jpg
+  front: Lumbering Gladeguard - 7e6a9112.jpg

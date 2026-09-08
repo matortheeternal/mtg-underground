@@ -18,7 +18,8 @@ front:
   superType: Instant
   subType: ""
   rulesText: Target creature becomes an artifact, gets +4/+4, and gains bulwark
-    until end of turn. (It can block an additional creature each combat.)
+    until end of turn. (It can block an additional creature each combat and can
+    block escorted creatures.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -57,4 +58,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Mechanize - 92bc94cc.jpg
+  front: Mechanize - d786944c.jpg

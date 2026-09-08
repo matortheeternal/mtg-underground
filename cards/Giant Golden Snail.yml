@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Giant Golden Snail
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 0
   superType: Creature
   subType: Snail
+  rulesText: Nullify (Whenever this creature blocks or becomes blocked by a
+    creature, that creature loses all abilities until end of combat.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "3"
@@ -33,10 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Nullify (Whenever this creature blocks or becomes blocked by a
-    creature, that creature loses all abilities until end of combat.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,6 +57,7 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:

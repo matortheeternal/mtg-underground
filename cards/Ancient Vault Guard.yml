@@ -22,7 +22,8 @@ front:
   superType: Artifact Creature
   subType: Construct
   rulesText: >
-    Bulwark (This creature can block an additional creature each combat.)
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
 
 
     Nullify (Whenever this creature blocks or becomes blocked by a creature,
@@ -66,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Ancient Vault Guard - 6cf62ca4.jpg
+  front: Ancient Vault Guard - d315dd80.jpg

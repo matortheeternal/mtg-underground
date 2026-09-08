@@ -22,7 +22,8 @@ front:
   superType: Artifact Creature
   subType: Construct
   rulesText: >
-    Bulwark (This creature can block an additional creature each combat.)
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
 
 
     Barrier {3} (If a source would deal damage to this creature, prevent that
@@ -65,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Crystal-Crazed Construct - b605c017.jpg
+  front: Crystal-Crazed Construct - 00ec8cc6.jpg

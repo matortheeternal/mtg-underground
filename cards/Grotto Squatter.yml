@@ -21,7 +21,8 @@ front:
     yOffset: 0
   superType: Creature
   subType: Frog
-  rulesText: Bulwark (This creature can block an additional creature each combat.)
+  rulesText: Bulwark (This creature can block an additional creature each combat
+    and can block escorted creatures.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -60,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Grotto Squatter - 72a1f378.jpg
+  front: Grotto Squatter - fea3d16d.jpg

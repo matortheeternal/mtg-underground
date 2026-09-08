@@ -22,7 +22,8 @@ front:
   superType: Instant
   subType: ""
   rulesText: Target creature gets +1/+3 and gains bulwark until end of turn. Untap
-    it. (A creature with bulwark can block two creatures.)
+    it. (A creature with bulwark can block two creatures and can block escorted
+    creatures.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -61,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Become Impassable - 89c57429.jpg
+  front: Become Impassable - 64032a3f.jpg

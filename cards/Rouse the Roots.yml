@@ -22,7 +22,7 @@ front:
   superType: Sorcery
   subType: ""
   rulesText: >
-    Kicker {4} (You may pay an additional {3} as you cast this spell.)
+    Kicker {4} (You may pay an additional {4} as you cast this spell.)
 
 
     Search your library for a basic land card, put it onto the battlefield
@@ -67,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Rouse the Roots - 8c4decd5.jpg
+  front: Rouse the Roots - 94fe8709.jpg

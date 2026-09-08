@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Crystal Champion
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 80
   superType: Creature
   subType: Human Warrior
+  rulesText: >-
+    Escort (Whenever this creature attacks, target attacking creature without
+    escort can't be blocked this turn.)
+
+
+    When this creature enters, put a +1/+1 counter on target creature you
+    control.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "5"
@@ -33,15 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Escort (Whenever this creature attacks, target attacking creature without
-    escort can't be blocked this turn except by creatures with bulwark.)
-
-
-    When this creature enters, put a +1/+1 counter on target creature you
-    control.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -61,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Crystal Champion - 9c9e42ea.jpg
+  front: Crystal Champion - 38c9425e.jpg

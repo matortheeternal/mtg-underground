@@ -27,7 +27,8 @@ front:
 
 
     {U}{U}{U}{U}: Untap this creature. It gains bulwark until end of turn. (It
-    can block an additional creature each combat.)
+    can block an additional creature each combat and can block escorted
+    creatures.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +67,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Flood Tyrant - 55a80272.jpg
+  front: Flood Tyrant - 8aca1643.jpg

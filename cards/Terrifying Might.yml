@@ -22,8 +22,8 @@ front:
   superType: Sorcery
   subType: ""
   rulesText: Target creature gets +X/+0 and gains grind until end of turn. When
-    that creature dies this turn, draw a card. (Whenever it deals damage, target
-    player mills that many cards.)
+    that creature dies this turn, draw a card. (Whenever it deals combat damage,
+    target player mills that many cards.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Terrifying Might - d687822e.jpg
+  front: Terrifying Might - acdc67b2.jpg

@@ -22,7 +22,7 @@ front:
   superType: Creature
   subType: Crab
   rulesText: Escort (Whenever this creature attacks, target attacking creature
-    without escort can't be blocked this turn except by creatures with bulwark.)
+    without escort can't be blocked this turn.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Eight-Legged Escort - 54864664.jpg
+  front: Eight-Legged Escort - c0c8f403.jpg

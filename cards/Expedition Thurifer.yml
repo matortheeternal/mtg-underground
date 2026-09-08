@@ -27,7 +27,7 @@ front:
   subType: Human Soldier
   rulesText: >
     Nullify (Whenever this creature blocks or becomes blocked by a creature,
-    that creature loses all abilities until end of turn.)
+    that creature loses all abilities until end of combat.)
 
 
     Creature spells with retreat you cast cost {1} less to cast.
@@ -69,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Expedition Thurifer - 9d1d290c.jpg
+  front: Expedition Thurifer - e3495132.jpg

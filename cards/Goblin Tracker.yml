@@ -23,7 +23,7 @@ front:
   subType: Goblin Scout
   rulesText: >-
     Escort (Whenever this creature attacks, another attacking creature can't be
-    blocked this turn except by creatures with bulwark.)
+    blocked this turn.)
 
 
     When this creature enters, you may search your library for a creature card
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Goblin Pathfinder - 5ae11d7d.jpg
+  front: Goblin Tracker - 7836e0fc.jpg

@@ -26,7 +26,8 @@ front:
     defending player controls.)
 
 
-    Bulwark (This creature can block an additional creature each combat.)
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -65,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Waterfall Overseer - 7573610a.jpg
+  front: Waterfall Overseer - 5510492b.jpg

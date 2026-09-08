@@ -21,8 +21,10 @@ front:
     yOffset: 57
   superType: Creature
   subType: Fungus Troll
-  rulesText: |-
-    Bulwark (This creature can block an additional creature each combat.)
+  rulesText: >-
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
+
 
     {T}: Add {G}.
   flavorText: null
@@ -63,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Sporecap Troll - 7e0a2708.jpg
+  front: Sporecap Troll - 4a81636d.jpg

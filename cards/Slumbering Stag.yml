@@ -26,8 +26,8 @@ front:
     you control, and counters are modifications.)
 
 
-    When this creature dies, you may attach each aura and equipment that was
-    attached to it to target creature you control.
+    If this creature would die, instead attach any number of Auras and Equipment
+    attached to it to another creature you control, then it dies.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Slumbering Stag - fb2fe64d.jpg
+  front: Slumbering Stag - dd07897d.jpg

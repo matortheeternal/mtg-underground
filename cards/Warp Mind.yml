@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Warp Mind
   manaCost:
     __type: ManaCost
@@ -20,6 +21,17 @@ front:
     yOffset: 0
   superType: Enchantment
   subType: Aura
+  rulesText: >-
+    Enchant creature
+
+
+    Enchanted creature gets +1/+1 and gains grind. (Whenever it deals combat
+    damage, target player mills that many cards.)
+
+
+    When enchanted creature dies, return it to its owner's hand.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
@@ -33,17 +45,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Enchant creature
-
-
-    Enchanted creature gets +1/+1 and gains grind. (Whenever it deals damage,
-    target player mills that many cards.)
-
-
-    When enchanted creature dies, return it to its owner's hand.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -63,7 +64,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Warp Mind - 1db92df3.jpg
+  front: Warp Mind - f006fbea.jpg

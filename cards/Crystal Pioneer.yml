@@ -26,8 +26,7 @@ front:
 
 
     {3}{U}: This creature gets +0/+3 and gains escort until end of turn. (When
-    it attacks, another target creature without escort can't be blocked this
-    turn except by creatures with bulwark.)
+    it attacks, target creature without escort can't be blocked this turn.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Crystal Pioneer - ad39a93d.jpg
+  front: Crystal Pioneer - e54d3bd3.jpg

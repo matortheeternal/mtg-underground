@@ -23,7 +23,7 @@ front:
   subType: ""
   rulesText: Target creature gets +2/+2 and gains escort until end of turn. (When
     it attacks, another target creature without escort can't be blocked this
-    turn except by creatures with bulwark.)
+    turn.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Lead the Way - ff53e71a.jpg
+  front: Lead the Way - 067a7afc.jpg

@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Novice Spelunker
   manaCost:
     __type: ManaCost
@@ -20,6 +21,10 @@ front:
     yOffset: 339
   superType: Creature
   subType: Human Scout
+  rulesText: Escort (Whenever this creature attacks, target attacking creature
+    without escort can't be blocked this turn.)
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "1"
@@ -33,10 +38,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: Escort (Whenever this creature attacks, target attacking creature
-    without escort can't be blocked this turn except by creatures with bulwark.)
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -56,7 +57,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Novice Spelunker - bcb15e15.jpg
+  front: Novice Spelunker - b76bc90a.jpg

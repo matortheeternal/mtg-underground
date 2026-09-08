@@ -6,6 +6,7 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Stone-Faced Sentinel
   manaCost:
     __type: ManaCost
@@ -20,6 +21,15 @@ front:
     yOffset: 29
   superType: Creature
   subType: Elemental
+  rulesText: >-
+    Bulwark (This creature can block an additional creature each combat and can
+    block escorted creatures.)
+
+
+    {5}{W}, {T}, Sacrifice this creature: Tap all creatures target player
+    controls. Activate only as a sorcery.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: "2"
@@ -33,14 +43,6 @@ front:
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: >-
-    Bulwark (This creature can block an additional creature each combat.)
-
-
-    {5}{W}, {T}, Sacrifice this creature: Tap all creatures target player
-    controls. Activate only as a sorcery.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -60,7 +62,8 @@ front:
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Stone-Faced Sentinel - 0ac09345.jpg
+  front: Stone-Faced Sentinel - 3ffb68ab.jpg
