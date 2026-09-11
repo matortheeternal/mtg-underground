@@ -22,7 +22,7 @@ front:
   superType: Creature
   subType: Goblin Artificer
   rulesText: >-
-    Rush {R} (You may cast this spell for {R} less. When you do, sacrifice it at
+    Rush {R} (You may cast this spell for {R} less. If you do, sacrifice it at
     the beginning of your next upkeep unless you pay {R}.)
 
 

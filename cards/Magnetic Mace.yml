@@ -22,7 +22,7 @@ front:
   superType: Artifact
   subType: Equipment
   rulesText: >-
-    Rush {2} (You may cast this spell for {2} less. When you do, sacrifice it at
+    Rush {2} (You may cast this spell for {2} less. If you do, sacrifice it at
     the beginning of your next upkeep unless you pay {2}.)
 
 

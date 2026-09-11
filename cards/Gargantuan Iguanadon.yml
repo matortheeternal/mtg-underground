@@ -22,7 +22,7 @@ front:
   superType: Creature
   subType: Lizard
   rulesText: >
-    Rush {3} (You may cast this spell for {3} less. When you do, sacrifice it at
+    Rush {3} (You may cast this spell for {3} less. If you do, sacrifice it at
     the beginning of your next upkeep unless you pay {3}.)
 
 
