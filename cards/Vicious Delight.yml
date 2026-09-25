@@ -21,8 +21,9 @@ front:
     yOffset: 17
   superType: Instant
   subType: ""
-  rulesText: Target creature you control gains deathlink until end of turn.
-    (Whenever it deals combat damage, target player loses that much life.)
+  rulesText: Put a +1/+1 counter on target creature. It gains deathlink until end
+    of turn. (Whenever it deals combat damage, target player loses that much
+    life.)
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -30,9 +31,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: common
+  rarity: uncommon
   illustrator: Nexumorphic
-  autoCollectorNumber: CB15
+  autoCollectorNumber: UB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Vicious Delight - d402bebc.jpg
+  front: Vicious Delight - 6c6ae609.jpg

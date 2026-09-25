@@ -31,9 +31,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: uncommon
+  rarity: common
   illustrator: Isartxxx
-  autoCollectorNumber: UB09
+  autoCollectorNumber: CB13
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Terrifying Might - acdc67b2.jpg
+  front: Terrifying Might - 2a6c0336.jpg

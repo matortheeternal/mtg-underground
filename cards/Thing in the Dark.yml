@@ -29,11 +29,11 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "3"
-  toughness: "6"
+  toughness: "5"
   showPT: true
-  rarity: uncommon
+  rarity: common
   illustrator: Acerbas
-  autoCollectorNumber: UB08
+  autoCollectorNumber: CB10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -63,4 +63,4 @@ notes: ""
 tags:
   - placeholder-in-ft
 imageExports:
-  front: Thing in the Dark - c0d62b38.jpg
+  front: Thing in the Dark - 7f29bfbf.jpg

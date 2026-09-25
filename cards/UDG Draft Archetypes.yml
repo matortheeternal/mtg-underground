@@ -4,7 +4,7 @@ front:
   rulesText: |-
     {W}{U} *Retreat Tempo* Reuse creatures and manipulate blockers.
     {B}{R} *Reckless Aggro* Trade staying power for aggressive pressure.
-    {G}{W} *Escort Covoy* Assemble a convoy of ppowerful creatures.
+    {G}{W} *Escort Convoy* Assemble a convoy of powerful creatures.
     {U}{R} *Climbing Tempo* Play evasive threats backed by disruption.
     {R}{W} *Rally Go-Wide* Cast creature spells and win by the numbers.
     {U}{B} *Grind Control* Mill opponents and play the long game.
@@ -29,4 +29,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: UDG Draft Archetypes - 54be5cd9.jpg
+  front: UDG Draft Archetypes - e9ebdb37.jpg

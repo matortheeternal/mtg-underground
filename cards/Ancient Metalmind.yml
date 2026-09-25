@@ -21,8 +21,8 @@ front:
     Whenever an artifact enters under your control, you gain 2 life.
 
 
-    {6}, {T}: Draw a card. This ability costs {1} less for each other artifact
-    you control.
+    {6}, {T}: Draw a card. This ability costs {1} less to activate for each
+    other artifact you control.
   flavorText: null
   watermark: null
   flagLeft: ""

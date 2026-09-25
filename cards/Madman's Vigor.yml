@@ -10,7 +10,7 @@ front:
   name: Madman's Vigor
   manaCost:
     __type: ManaCost
-    symbols: 1G
+    symbols: 2G
   artImage:
     __type: image
     width: 1024
@@ -62,4 +62,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Madman's Vigor - c69386a7.jpg
+  front: Madman's Vigor - 13270fc5.jpg
