@@ -1,0 +1,54 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Demera von Freyden
+  manaCost:
+    __type: ManaCost
+    symbols: 1BB
+  artImage:
+    __type: image
+    width: 1000
+    height: 1317
+    cropWidth: 892
+    cropHeight: 1212
+    xOffset: 27
+    yOffset: 105
+  superType: Legendary Planeswalker
+  subType: Demera
+  rulesText: >-
+    Whenever a creature card is put into your graveyard from anywhere, put a
+    loyalty counter on Demera.
+
+
+    -2: Sacrific a creature. Each player mills cards equal to the sacrificed
+    creature's toughness.
+
+
+    -8: Each player exiles their library, then shuffles up to five cards from
+    their graveyard into their library.
+  flavorText: null
+  loyalty: "3"
+  rarity: mythic
+  illustrator: Tamas Patkos
+  autoCollectorNumber: MB01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []

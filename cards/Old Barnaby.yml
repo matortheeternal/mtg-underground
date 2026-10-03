@@ -1,0 +1,62 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Old Barnaby
+  manaCost:
+    __type: ManaCost
+    symbols: 1GWU
+  artImage:
+    __type: image
+    width: 1178
+    height: 978
+    cropWidth: 625
+    cropHeight: 848
+    xOffset: 265
+    yOffset: 130
+  superType: Legendary Planeswalker
+  subType: Barnaby
+  rulesText: >-
+    +1: Scry 2. Then if you control an artifact,  you may tap or untap target
+    permanent.
+
+
+    -4: Exile cards from the top of your library until you exile an artifact
+    card. You may put that card onto the battlefield.
+
+
+    -10: Exile ~. Draw ten cards. Until end of turn, you may cast spells from
+    your hand without paying their costs.
+  flavorText: null
+  loyalty: "5"
+  rarity: mythic
+  illustrator: Jacob T. Loren
+  autoCollectorNumber: MZ01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "-5"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []

@@ -1,0 +1,52 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Akpo Furen
+  manaCost:
+    __type: ManaCost
+    symbols: GG
+  artImage:
+    __type: image
+    width: 1920
+    height: 2400
+    cropWidth: 1523
+    cropHeight: 2068
+    xOffset: 198
+    yOffset: 332
+  superType: Legendary Planeswalker
+  subType: Akpo
+  rulesText: >-
+    At the beginning of your end step, if you gained life this turn, draw a
+    card.
+
+
+    +1: You gain 1 life.
+
+
+    -1: Add {G}{G}.
+  flavorText: null
+  loyalty: "2"
+  rarity: mythic
+  illustrator: Rodrigo Clark
+  autoCollectorNumber: MG01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []

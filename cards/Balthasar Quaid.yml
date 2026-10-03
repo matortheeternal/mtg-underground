@@ -1,0 +1,53 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Balthasar Quaid
+  manaCost:
+    __type: ManaCost
+    symbols: 2UU
+  artImage:
+    __type: image
+    width: 1024
+    height: 722
+    cropWidth: 473
+    cropHeight: 641
+    xOffset: 195
+    yOffset: 81
+  superType: Legendary Planeswalker
+  subType: Balthasar
+  rulesText: >-
+    +1: Return up to one target permanent you control to its owner's hand.
+
+
+    -2: Draw three cards, then discard a card and put a card from your hand on
+    top of your library.
+
+
+    -3: Exchange control of two target nonland permanents controlled by
+    different players.
+  flavorText: null
+  loyalty: "4"
+  rarity: mythic
+  illustrator: Disse86
+  autoCollectorNumber: MU01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []

@@ -1,0 +1,53 @@
+front:
+  template: magic/M15/Walker
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Antares
+  manaCost:
+    __type: ManaCost
+    symbols: 3RR
+  artImage:
+    __type: image
+    width: 921
+    height: 868
+    cropWidth: 529
+    cropHeight: 717
+    xOffset: 222
+    yOffset: 151
+  superType: Legendary Planeswalker
+  subType: Antares
+  rulesText: >
+    +2: Up to one target creature you control gets +2/+0 and gains ravage until
+    end of turn.
+
+
+    -4: All creatures get +4/+0 until end of turn.
+
+
+    -10: @ deals 10 damage to target player and up to one target creature that
+    player controls.
+  flavorText: null
+  loyalty: "5"
+  rarity: mythic
+  illustrator: Tini Honkansen
+  autoCollectorNumber: MR01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  artSize: auto
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: "-5"
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
