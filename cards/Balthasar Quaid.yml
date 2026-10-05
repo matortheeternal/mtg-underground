@@ -22,11 +22,10 @@ front:
   superType: Legendary Planeswalker
   subType: Balthasar
   rulesText: >-
-    +1: Return up to one target permanent you control to its owner's hand.
+    +2: Draw two cards, then put a card from your hand on top of your library.
 
 
-    -2: Draw three cards, then discard a card and put a card from your hand on
-    top of your library.
+    -1: Return up to one target permanent to its owner's hand.
 
 
     -3: Exchange control of two target nonland permanents controlled by
@@ -44,10 +43,12 @@ front:
   artSize: auto
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
-  chopBottom: "15"
+  chopTop: "-5"
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Balthasar Quaid - accbba24.jpg

@@ -1,0 +1,81 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Mintrea, Drowning Sorrow
+  manaCost:
+    __type: ManaCost
+    symbols: 1WUB
+  artImage:
+    __type: image
+    width: 828
+    height: 1158
+    cropWidth: 828
+    cropHeight: 661
+    xOffset: 0
+    yOffset: 98
+  superType: Legendary Creature
+  subType: Merfolk Shade
+  rulesText: >
+    Nullify (Whenever this creature blocks or becomes blocked by a creature,
+    that creature loses all abilities until end of combat.)
+
+
+    Barrier—Pay 4 life.
+
+
+    {2}, Pay 2 life: Choose another target creature. When that creature next
+    leaves the battlefield this turn, exile it, then return it to the
+    battlefield tapped under its owner's control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "5"
+  showPT: true
+  rarity: mythic
+  illustrator: Teolehog
+  autoCollectorNumber: MZ02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Mintrea, Drowning Sorrow - 0791c3fa.jpg

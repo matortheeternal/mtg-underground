@@ -1,7 +1,12 @@
 front:
   template: magic/M15/Walker
-  colors: []
+  colors:
+    - char: w
+      name: white
+      sources:
+        override: true
   colorOverride:
+    - w
     - a
   faceSymbol: null
   name: "D.X. Dreadnought "
@@ -22,7 +27,7 @@ front:
     0: Until your next turn, your life total can’t change.
 
 
-    +1: Put a +1/+1 counter on target creature. It gains riposte until your next
+    0: Put a +1/+1 counter on target creature. It gains riposte until your next
     turn.
 
 
@@ -31,7 +36,7 @@ front:
   loyalty: "6"
   rarity: mythic
   illustrator: Aths Art
-  autoCollectorNumber: MA01
+  autoCollectorNumber: MW01
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -41,9 +46,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "2"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: D.X. Dreadnought- - 52cb0c01.jpg

@@ -22,7 +22,7 @@ front:
   superType: Legendary Planeswalker
   subType: Antares
   rulesText: >
-    +2: Up to one target creature you control gets +2/+0 and gains ravage until
+    +3: Up to one target creature you control gets +3/+0 and gains ravage until
     end of turn.
 
 
@@ -44,10 +44,12 @@ front:
   artSize: auto
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: "-5"
-  chopBottom: ""
+  chopTop: ""
+  chopBottom: "3"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Antares - 4bc8e57c.jpg

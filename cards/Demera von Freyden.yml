@@ -26,12 +26,11 @@ front:
     loyalty counter on Demera.
 
 
-    -2: Sacrific a creature. Each player mills cards equal to the sacrificed
+    -2: Each player sacrifices a creature, then mills cards equal to that
     creature's toughness.
 
 
-    -8: Each player exiles their library, then shuffles up to five cards from
-    their graveyard into their library.
+    -10: Target player exiles the top half of their library. You gain 10 life.
   flavorText: null
   loyalty: "3"
   rarity: mythic
@@ -45,10 +44,12 @@ front:
   artSize: auto
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
-  chopBottom: ""
+  chopTop: "-6"
+  chopBottom: "3"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Demera von Freyden - a5da9a45.jpg

@@ -1,0 +1,81 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: The Lord of Hunger
+  manaCost:
+    __type: ManaCost
+    symbols: 3BRG
+  artImage:
+    __type: image
+    width: 837
+    height: 954
+    cropWidth: 837
+    cropHeight: 591
+    xOffset: 0
+    yOffset: 94
+  superType: Legendary Creature
+  subType: Troll
+  rulesText: >+
+    Rush {3} (You may cast this spell for {3} less. If you do, sacrifice it at
+    the beginning of your next upkeep unless you pay {3}.)
+
+
+    When @ enters, it fights target creature you don't control.
+
+
+    When @ dies, put three +1/+1 counters on target creature you control.
+
+
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "6"
+  showPT: true
+  rarity: mythic
+  illustrator: yar0
+  autoCollectorNumber: MZ03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: The Lord of Hunger - c31feedf.jpg

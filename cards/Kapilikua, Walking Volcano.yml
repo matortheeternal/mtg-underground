@@ -1,0 +1,81 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Kapilikua, Walking Volcano
+  manaCost:
+    __type: ManaCost
+    symbols: 9RGW
+  artImage:
+    __type: image
+    width: 960
+    height: 480
+    cropWidth: 680
+    cropHeight: 480
+    xOffset: 94
+    yOffset: 0
+  superType: Legendary Creature
+  subType: Elemental
+  rulesText: >
+    Bulwark, bulwark (This creature can block two additional creatures each
+    combat, and can block escorted creatures.)
+
+
+    @ costs {X} less to cast, where X is the greatest toughness among creatures
+    you control.
+
+
+    Whenever @ attacks, @ deals 1 damage to each creature defending player
+    controls.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "6"
+  toughness: "15"
+  showPT: true
+  rarity: mythic
+  illustrator: Kolokas
+  autoCollectorNumber: MZ04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Kapilikua, Walking Volcano - 870c4a70.jpg

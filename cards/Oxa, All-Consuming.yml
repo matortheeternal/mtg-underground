@@ -1,0 +1,84 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+    - char: b
+      name: black
+      sources:
+        normal: true
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Oxa, All-Consuming
+  manaCost:
+    __type: ManaCost
+    symbols: UBR
+  artImage:
+    __type: image
+    width: 1192
+    height: 670
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 149
+    yOffset: 40
+  superType: Legendary Creature
+  subType: Slug Horror
+  rulesText: >-
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    Deathlink (Whenever this creature deals combat damage, target player loses
+    that much life.)
+
+
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    All creatures attack each combat if able.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: mythic
+  illustrator: Timi Honkanen
+  autoCollectorNumber: MZ01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Oxa, All-Consuming - f4471a65.jpg

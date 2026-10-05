@@ -26,12 +26,12 @@ front:
     card.
 
 
-    +1: You gain 1 life.
+    -1: You gain 2 life.
 
 
     -1: Add {G}{G}.
   flavorText: null
-  loyalty: "2"
+  loyalty: "3"
   rarity: mythic
   illustrator: Rodrigo Clark
   autoCollectorNumber: MG01
@@ -43,10 +43,12 @@ front:
   artSize: auto
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: ""
+  chopTop: "-7.5"
   chopBottom: ""
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Akpo Furen - 69aa7e89.jpg

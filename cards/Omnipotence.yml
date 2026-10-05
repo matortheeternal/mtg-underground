@@ -10,7 +10,7 @@ front:
   name: Omnipotence
   manaCost:
     __type: ManaCost
-    symbols: 6BBB
+    symbols: 5BBB
   artImage:
     __type: image
     width: 1232
@@ -19,10 +19,10 @@ front:
     cropHeight: 649
     xOffset: 156
     yOffset: 0
-  superType: Enchantment
+  superType: Instant
   subType: ""
-  rulesText: You may cast spells with mana value less than or equal to the number
-    of cards in your graveyard from your hand without paying their mana costs.
+  rulesText: Exile your graveyard. You may cast spells exiled this way for as long
+    as they remain exiled.
   flavorText: '"There is great power in death."'
   watermark: null
   flagLeft: ""
@@ -30,9 +30,9 @@ front:
   power: ""
   toughness: ""
   showPT: ""
-  rarity: mythic
-  illustrator: Themefinland
-  autoCollectorNumber: MB03
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RB02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Omnipotence - c860eea4.jpg
+  front: Omnipotence - 8af58efb.jpg

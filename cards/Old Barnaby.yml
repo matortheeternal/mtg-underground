@@ -30,7 +30,7 @@ front:
   superType: Legendary Planeswalker
   subType: Barnaby
   rulesText: >-
-    +1: Scry 2. Then if you control an artifact,  you may tap or untap target
+    +2: Scry 2. Then if you control an artifact,  you may tap or untap target
     permanent.
 
 
@@ -44,7 +44,7 @@ front:
   loyalty: "5"
   rarity: mythic
   illustrator: Jacob T. Loren
-  autoCollectorNumber: MZ01
+  autoCollectorNumber: MZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -53,10 +53,12 @@ front:
   artSize: auto
   otherFrameOptions:
     avoidCoveringDevoid: true
-  chopTop: "-5"
-  chopBottom: ""
+  chopTop: ""
+  chopBottom: "5"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
+imageExports:
+  front: Old Barnaby - 9c3bc5c9.jpg
