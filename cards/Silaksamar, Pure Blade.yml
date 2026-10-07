@@ -1,0 +1,71 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Silaksamar, Pure Blade
+  manaCost:
+    __type: ManaCost
+    symbols: WW
+  artImage:
+    __type: image
+    width: 1860
+    height: 2250
+    cropWidth: 1860
+    cropHeight: 1313
+    xOffset: 0
+    yOffset: 176
+  superType: Legendary Creature
+  subType: Lizard Berserker
+  rulesText: >-
+    Zeal, zeal, zeal (Whenever you cast a creature spell, this creature gets
+    +1/+1 until end of turn, thrice.)
+
+
+    At the beginning of combat on your turn, if @ is in your graveyard, target
+    creature you control gains riposte until end of turn. (Whenever a creature
+    with riposte is dealt damage by another creature, it deals that much damage
+    back.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RW02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Silaksamar, Pure Blade - a0eccd35.jpg

@@ -30,7 +30,7 @@ front:
     creature's toughness.
 
 
-    -10: Target player exiles the top half of their library. You gain 10 life.
+    -8: Target player exiles the top half of their library. You gain 8 life.
   flavorText: null
   loyalty: "3"
   rarity: mythic
@@ -52,4 +52,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Demera von Freyden - a5da9a45.jpg
+  front: Demera von Freyden - c1bdddb2.jpg

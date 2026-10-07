@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Reveal the Reaches
+  manaCost:
+    __type: ManaCost
+    symbols: 3U
+  artImage:
+    __type: image
+    width: 828
+    height: 1071
+    cropWidth: 828
+    cropHeight: 578
+    xOffset: 0
+    yOffset: 448
+  superType: Instant
+  subType: ""
+  rulesText: Target player reveals cards from the top of their library until they
+    reveal three land cards. That player puts the land cards revealed this way
+    into their hand and puts the rest into their graveyard.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Las Pinter
+  autoCollectorNumber: RU04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Reveal the Reaches - c29045c1.jpg

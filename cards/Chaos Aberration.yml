@@ -1,0 +1,77 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+    - char: r
+      name: red
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Chaos Aberration
+  manaCost:
+    __type: ManaCost
+    symbols: XB/RB/R
+  artImage:
+    __type: image
+    width: 1191
+    height: 671
+    cropWidth: 951
+    cropHeight: 671
+    xOffset: 152
+    yOffset: 0
+  superType: Creature
+  subType: Hydra
+  rulesText: >+
+    ~ enters with X +1/+1 counters on it.
+
+
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    Deathlink (Whenever this creature deals combat damage, target player loses
+    that much life.)
+
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "0"
+  showPT: true
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RZ02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Chaos Aberration - 1343b2a3.jpg

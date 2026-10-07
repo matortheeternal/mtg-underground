@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Unseal
+  manaCost:
+    __type: ManaCost
+    symbols: 1U
+  artImage:
+    __type: image
+    width: 1144
+    height: 698
+    cropWidth: 911
+    cropHeight: 643
+    xOffset: 14
+    yOffset: 31
+  superType: Sorcery
+  subType: ""
+  rulesText: Scry X, where X is the number of artifacts you control, then untap
+    all artifacts and lands you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RU03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Unseal - 7cb3fce3.jpg

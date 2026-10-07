@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: General Blanth
+  manaCost:
+    __type: ManaCost
+    symbols: 4W
+  artImage:
+    __type: image
+    width: 700
+    height: 772
+    cropWidth: 700
+    cropHeight: 517
+    xOffset: 0
+    yOffset: 97
+  superType: Legendary Creature
+  subType: Lizard Soldier
+  rulesText: >-
+    At the beginning of combat on your turn, target creature you control gets
+    +2/+2 and gains nullify until end of turn. (Whenever a creature with nullify
+    blocks or becomes blocked by a creature, that creatures loses all abilities
+    until end of combat.)
+
+
+    {4}{W}{W}, {T}: Put a +1/+1 counter on each creature you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RW04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: General Blanth - a379487f.jpg

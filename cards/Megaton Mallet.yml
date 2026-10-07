@@ -1,0 +1,74 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Megaton Mallet
+  manaCost:
+    __type: ManaCost
+    symbols: 2W
+  artImage:
+    __type: image
+    width: 828
+    height: 1197
+    cropWidth: 828
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 370
+  superType: Artifact
+  subType: Equipment
+  rulesText: >-
+    When @ enters, you may destroy target tapped creature.
+
+
+    Equipped creature gets +5/+5 and gains bulwark.
+
+
+    Equip abilities you activate cost {X} less to activate, where X is the power
+    of the creature they target.
+
+
+    Equip {10}
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Jiri Kus
+  autoCollectorNumber: RW06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Megaton Mallet - 3e5bc562.jpg

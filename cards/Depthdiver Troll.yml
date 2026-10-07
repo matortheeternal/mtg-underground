@@ -1,0 +1,73 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Depthdiver Troll
+  manaCost:
+    __type: ManaCost
+    symbols: 3U/BU/B
+  artImage:
+    __type: image
+    width: 894
+    height: 894
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 24
+    yOffset: 80
+  superType: Creature
+  subType: Troll
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    {3}, {T}: Return target artifact or creature card from your graveyard to
+    your hand.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: rare
+  illustrator: Herckeim
+  autoCollectorNumber: RZ05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Depthdiver Troll - 0867dfcc.jpg

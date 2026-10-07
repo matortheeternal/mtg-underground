@@ -13,11 +13,11 @@ front:
     symbols: G
   artImage:
     __type: image
-    width: 0
-    height: 0
-    cropWidth: 1
-    cropHeight: 1
-    xOffset: 0
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 121
     yOffset: 0
   superType: Sorcery
   subType: ""
@@ -31,7 +31,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: rare
-  illustrator: ""
+  illustrator: Sylvia Ritter
   autoCollectorNumber: RG01
   collectorNumber: ""
   setCode: ""
@@ -61,4 +61,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Myceliate - 52f0239f.jpg
+  front: Myceliate - 628995bb.jpg

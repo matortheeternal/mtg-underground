@@ -1,0 +1,67 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+    - char: r
+      name: red
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Spark of Insight
+  manaCost:
+    __type: ManaCost
+    symbols: U/RU/R
+  artImage:
+    __type: image
+    width: 978
+    height: 817
+    cropWidth: 978
+    cropHeight: 690
+    xOffset: 0
+    yOffset: 13
+  superType: Instant
+  subType: ""
+  rulesText: Add {R}{R}{U}{U}. Spend this mana only to cast noncreature spells.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RZ07
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Spark of Insight - 8555d575.jpg

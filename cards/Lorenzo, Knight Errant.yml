@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Lorenzo, Knight Errant
+  manaCost:
+    __type: ManaCost
+    symbols: W
+  artImage:
+    __type: image
+    width: 1300
+    height: 1682
+    cropWidth: 1165
+    cropHeight: 822
+    xOffset: 68
+    yOffset: 301
+  superType: Legendary Creature
+  subType: Human Soldier
+  rulesText: >-
+    @ enters tapped.
+
+
+    Barrier {2} (If a source would deal damage to this creature, prevent that
+    damage unless that source's controller pays {2}.)
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Matheus Graef
+  autoCollectorNumber: RW01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Lorenzo, Knight Errant - f758318d.jpg

@@ -1,0 +1,79 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        hybrid: true
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Toll Taker
+  manaCost:
+    __type: ManaCost
+    symbols: B/WB/W
+  artImage:
+    __type: image
+    width: 887
+    height: 901
+    cropWidth: 887
+    cropHeight: 626
+    xOffset: 0
+    yOffset: 196
+  superType: Creature
+  subType: Horror
+  rulesText: >-
+    Sleeper (This creature can't attack unless it is modified. Equipment, Auras
+    you control, and counters are modifications.)
+
+
+    As an additional cost to cast this spell, pay 5 life.
+
+
+    When this creature dies, you gain 5 life.
+
+
+    Creatures can't attack you or planeswalkers you control unless their
+    controller pays 1 life.
+  flavorText: Pay the toll or forfeit your soul.
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Turoxd02
+  autoCollectorNumber: RZ01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Toll Taker - 30872ccf.jpg

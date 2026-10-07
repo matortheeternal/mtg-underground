@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Nonna, She Who Sees
+  manaCost:
+    __type: ManaCost
+    symbols: U
+  artImage:
+    __type: image
+    width: 827
+    height: 1086
+    cropWidth: 827
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 179
+  superType: Legendary Creature
+  subType: Monkey
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    {U}, {T}: Scry 2.
+
+
+    Whenever you scry, target player mills X cards, where X is twice the number
+    of cards looked at while scrying this way.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "1"
+  showPT: true
+  rarity: rare
+  illustrator: Maxcrabill
+  autoCollectorNumber: RU01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Nonna, She Who Sees - bd209845.jpg

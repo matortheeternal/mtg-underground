@@ -29,7 +29,7 @@ front:
     You and creatures you control have barrier {1}.
 
 
-    When this creature enters, you gain 4 life.
+    When @ enters, you gain 4 life.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -39,7 +39,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Kamanaka Satoshi
-  autoCollectorNumber: RW01
+  autoCollectorNumber: RW03
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -61,11 +61,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Araphor, Radiant Protector - 4c369b41.jpg
+  front: Araphor, Radiant Protector - 7e445b15.jpg

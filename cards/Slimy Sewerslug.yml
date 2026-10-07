@@ -1,0 +1,77 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        hybrid: true
+    - char: g
+      name: green
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Slimy Sewerslug
+  manaCost:
+    __type: ManaCost
+    symbols: 2B/GB/G
+  artImage:
+    __type: image
+    width: 700
+    height: 730
+    cropWidth: 700
+    cropHeight: 494
+    xOffset: 0
+    yOffset: 129
+  superType: Creature
+  subType: Slug
+  rulesText: >-
+    Rush {2} (You may cast this spell for {2} less. If you do, at the beginning
+    of your next upkeep, sacrifice it unless you pay {2}.)
+
+
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    When this creature enters, you may destroy target artifact, enchantment, or
+    creature with barrier.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RZ04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Slimy Sewerslug - 66ac5e0c.jpg

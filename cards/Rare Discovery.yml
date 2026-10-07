@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        hybrid: true
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Rare Discovery
+  manaCost:
+    __type: ManaCost
+    symbols: 2U/W
+  artImage:
+    __type: image
+    width: 827
+    height: 1104
+    cropWidth: 827
+    cropHeight: 584
+    xOffset: 0
+    yOffset: 295
+  superType: Instant
+  subType: ""
+  rulesText: Scry 3, then reveal the top card of your library. If it has mana
+    value five or greater or if it is legendary, each player draws three cards.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Xein Art
+  autoCollectorNumber: RZ09
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Rare Discovery - 34d226e8.jpg

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: b
+      name: black
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Many-legged Death
+  manaCost:
+    __type: ManaCost
+    symbols: 4BB
+  artImage:
+    __type: image
+    width: 1024
+    height: 553
+    cropWidth: 784
+    cropHeight: 553
+    xOffset: 103
+    yOffset: 0
+  superType: Creature
+  subType: Horror
+  rulesText: >-
+    Grind (Whenever this creature deals combat damage, target player mills that
+    many cards.)
+
+
+    When this creature enters, each opponent sacrifices two creatures.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Kiabugboy
+  autoCollectorNumber: RB03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Many-legged Death - 4c743dff.jpg

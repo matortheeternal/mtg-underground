@@ -1,0 +1,77 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        hybrid: true
+    - char: r
+      name: red
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Ancient Stone Spirit
+  manaCost:
+    __type: ManaCost
+    symbols: 4R/WR/W
+  artImage:
+    __type: image
+    width: 1191
+    height: 671
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 341
+    yOffset: 27
+  superType: Creature
+  subType: Elemental Spirit
+  rulesText: >-
+    Bulwark (This creature can block an additional creature each combat, and can
+    block escorted creatures.)
+
+
+    Riposte (Whenever this creature is dealt damage by another creature, it
+    deals that much damage back.)
+
+
+    {R/W}, Tap an untapped creature you control: Put a +1/+1 counter on that
+    creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "5"
+  showPT: true
+  rarity: rare
+  illustrator: Bob Kehl
+  autoCollectorNumber: RZ06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Ancient Stone Spirit - 67e47214.jpg
