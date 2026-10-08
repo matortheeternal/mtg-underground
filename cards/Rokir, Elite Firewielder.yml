@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Rokir, Elite Firewielder
+  manaCost:
+    __type: ManaCost
+    symbols: 2R
+  artImage:
+    __type: image
+    width: 1205
+    height: 663
+    cropWidth: 848
+    cropHeight: 599
+    xOffset: 180
+    yOffset: 34
+  superType: Legendary Creature
+  subType: Lizard Shaman
+  rulesText: >-
+    If a red source you control would deal damage to an opponent or a permanent
+    an opponent controls, it deals that much damage plus 1 instead.
+
+
+    {R}{R}, {T}: @ deals 1 damage to any target.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "2"
+  toughness: "2"
+  showPT: true
+  rarity: rare
+  illustrator: Timi Honkanen
+  autoCollectorNumber: RR03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Rokir, Elite Firewielder - 4ef8d5ad.jpg

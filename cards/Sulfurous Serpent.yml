@@ -27,7 +27,7 @@ front:
     more repulsive creature upon the basis of its scent alone. In other words:
     that's one stinky snake."
 
-    —<name>
+    —Akpo Furen
   watermark: null
   flagLeft: ""
   flagRight: ""
@@ -63,6 +63,7 @@ front:
   centerText: never
   citationStyle: italic
 notes: ""
-tags: []
+tags:
+  - placeholder-in-ft
 imageExports:
-  front: Sulfurous Serpent - 8879670c.jpg
+  front: Sulfurous Serpent - 5e2fb27a.jpg

@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Apex Predator
+  manaCost:
+    __type: ManaCost
+    symbols: RRR
+  artImage:
+    __type: image
+    width: 800
+    height: 533
+    cropWidth: 755
+    cropHeight: 533
+    xOffset: 30
+    yOffset: 0
+  superType: Creature
+  subType: Beast
+  rulesText: >
+    Ravage (This creature can assign excess combat damage to another creature
+    defending player controls.)
+
+
+    When ~ enters, sacrifice a creature,  artifact, or land.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "5"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RR02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Apex Predator - 590060cf.jpg

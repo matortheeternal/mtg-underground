@@ -1,0 +1,72 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: The Spirit Between
+  manaCost:
+    __type: ManaCost
+    symbols: GG
+  artImage:
+    __type: image
+    width: 1200
+    height: 550
+    cropWidth: 779
+    cropHeight: 550
+    xOffset: 288
+    yOffset: 0
+  superType: Creature
+  subType: Beast Spirit
+  rulesText: >
+    Grind (Whenever this creature deals combat damage target player mills that
+    many cards.)
+
+
+    ~'s power and toughness are each equal to the number of Forests you control.
+
+
+    Whenever ~ attacks, you may put a Forest land card from your hand or your
+    graveyard into play.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "*"
+  toughness: "*"
+  showPT: true
+  rarity: rare
+  illustrator: Marek Madej
+  autoCollectorNumber: RG02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: The Spirit Between - a89c9645.jpg

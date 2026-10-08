@@ -35,7 +35,7 @@ front:
   loyalty: "5"
   rarity: mythic
   illustrator: Tini Honkansen
-  autoCollectorNumber: MR01
+  autoCollectorNumber: MR02
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -52,4 +52,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Antares - fddf00ef.jpg
+  front: Antares - 7fb62ece.jpg

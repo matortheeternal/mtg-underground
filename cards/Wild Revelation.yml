@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        hybrid: true
+    - char: g
+      name: green
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Wild Revelation
+  manaCost:
+    __type: ManaCost
+    symbols: R/GR/G
+  artImage:
+    __type: image
+    width: 1192
+    height: 670
+    cropWidth: 949
+    cropHeight: 670
+    xOffset: 121
+    yOffset: 0
+  superType: Sorcery
+  subType: ""
+  rulesText: Discard your hand, then draw cards equal to the number of creature
+    types among non-Human creatures you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Sylvia Ritter
+  autoCollectorNumber: RZ08
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: card draw!!
+tags: []
+imageExports:
+  front: Wild Revelation - 4d9b7e0d.jpg

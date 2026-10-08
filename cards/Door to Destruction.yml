@@ -1,0 +1,64 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Door to Destruction
+  manaCost:
+    __type: ManaCost
+    symbols: "4"
+  artImage:
+    __type: image
+    width: 1174
+    height: 681
+    cropWidth: 965
+    cropHeight: 681
+    xOffset: 105
+    yOffset: 0
+  superType: Legendary Artifact
+  subType: ""
+  rulesText: >-
+    {3}: Put a doom counter on ~.
+
+
+    {T}, Remove X doom counters from ~, Sacrifice ~: Destroy X target nonland
+    permanents. Activate only as a sorcery.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Jess Madhouse
+  autoCollectorNumber: RA06
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Door to Destruction - 78a2cc62.jpg

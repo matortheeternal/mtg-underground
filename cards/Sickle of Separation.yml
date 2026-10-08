@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Sickle of Separation
+  manaCost:
+    __type: ManaCost
+    symbols: "1"
+  artImage:
+    __type: image
+    width: 909
+    height: 879
+    cropWidth: 748
+    cropHeight: 528
+    xOffset: 70
+    yOffset: 178
+  superType: Artifact
+  subType: ""
+  rulesText: >-
+    Mourn (Whenever a creature card is put into your graveyard, you gain 1
+    life.)
+
+
+    {5}, {T}, Sacrifice this artifact: Remove all counters, destroy all auras,
+    and unattach all equipment attached to target permanent an opponent
+    controls.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RA04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Sickle of Separation - bb478b39.jpg

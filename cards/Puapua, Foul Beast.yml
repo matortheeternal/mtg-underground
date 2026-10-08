@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Puapua, Foul Beast
+  manaCost:
+    __type: ManaCost
+    symbols: 2GG
+  artImage:
+    __type: image
+    width: 1033
+    height: 774
+    cropWidth: 755
+    cropHeight: 533
+    xOffset: 125
+    yOffset: 190
+  superType: Legendary Creature
+  subType: Fungus Beast
+  rulesText: >-
+    Whenever a creature you control is dealt damage, put a +1/+1 counter on it.
+
+
+    {X}{G}{G}, {T}: Return target creature card with mana value X or less from
+    your graveyard to the battlefield with a +1/+1 counter on it.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "4"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: Ormirian
+  autoCollectorNumber: RG04
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Puapua, Foul Beast - 4d743934.jpg

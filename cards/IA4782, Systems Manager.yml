@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: IA4782, Systems Manager
+  manaCost:
+    __type: ManaCost
+    symbols: "3"
+  artImage:
+    __type: image
+    width: 800
+    height: 1100
+    cropWidth: 800
+    cropHeight: 565
+    xOffset: 0
+    yOffset: 455
+  superType: Legendary Artifact Creature
+  subType: Robot
+  rulesText: >-
+    Barrier {5} (If a source would deal damage to this creature, prevent that
+    damage unless that source's controller pays {5}.)
+
+
+    Sleeper (This creature can’t attack unless it’s modified. Equipment, Auras
+    you control, and counters are modifications)
+
+
+    {1}, {T}: Target permanent becomes an artifact creature with base power and
+    toughness 2/2 until end of turn.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "4"
+  showPT: true
+  rarity: rare
+  illustrator: MyProcrastinationFix
+  autoCollectorNumber: RA01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags:
+  - wip
+imageExports:
+  front: IA4782, Systems Manager - fc221c26.jpg

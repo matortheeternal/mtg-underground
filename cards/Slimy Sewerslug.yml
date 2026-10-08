@@ -34,18 +34,18 @@ front:
     toughness.)
 
 
-    When this creature enters, you may destroy target artifact, enchantment, or
-    creature with barrier.
+    When this creature enters, you may destroy target creature with barrier or
+    retreat.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "2"
-  toughness: "3"
+  power: "3"
+  toughness: "2"
   showPT: true
   rarity: rare
   illustrator: ""
-  autoCollectorNumber: RZ04
+  autoCollectorNumber: RZ05
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -67,11 +67,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Slimy Sewerslug - 66ac5e0c.jpg
+  front: Slimy Sewerslug - d8d520e3.jpg

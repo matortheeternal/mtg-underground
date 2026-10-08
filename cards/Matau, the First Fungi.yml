@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Matau, the First Fungi
+  manaCost:
+    __type: ManaCost
+    symbols: G
+  artImage:
+    __type: image
+    width: 900
+    height: 605
+    cropWidth: 851
+    cropHeight: 600
+    xOffset: 25
+    yOffset: 0
+  superType: Legendary Creature
+  subType: Fungus Shaman
+  rulesText: >-
+    Sleeper (This creature cannot attack unless it is modified. Equipment, auras
+    you control, and counters are modifications.)
+
+
+    Whenever @ becomes tapped, put a +1/+1 counter on another target creature
+    you control.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "1"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RG01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Matau, the First Fungi - 44a55a52.jpg

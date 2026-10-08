@@ -1,0 +1,69 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: g
+      name: green
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Viashino Eggtender
+  manaCost:
+    __type: ManaCost
+    symbols: 2G
+  artImage:
+    __type: image
+    width: 1668
+    height: 2000
+    cropWidth: 1668
+    cropHeight: 1284
+    xOffset: 0
+    yOffset: 215
+  superType: Creature
+  subType: Lizard Fungus Shaman
+  rulesText: >-
+    Whenever a creature you control enters, put an egg counter on ~.
+
+
+    When ~ dies, you may search your library for a creature card with mana value
+    X or less, where X is the number of egg counters on ~. Put that creature
+    card into play, then shuffle.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "0"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: ""
+  autoCollectorNumber: RG03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Viashino Eggtender - a098928d.jpg

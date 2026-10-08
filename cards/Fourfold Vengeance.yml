@@ -1,0 +1,70 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: w
+      name: white
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Fourfold Vengeance
+  manaCost:
+    __type: ManaCost
+    symbols: 3WW
+  artImage:
+    __type: image
+    width: 1396
+    height: 573
+    cropWidth: 812
+    cropHeight: 573
+    xOffset: 199
+    yOffset: 0
+  superType: Instant
+  subType: ""
+  rulesText: |
+    ~ deals 4 damage to up to one target attacking creature.
+
+    ~ deals 4 damage to up to one target blocking creature.
+
+    ~ deals 4 damage to up to one target tapped creature.
+
+    ~ deals 4 damage to up to one target nonwhite creature.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Hunter Nif
+  autoCollectorNumber: MW01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Fourfold Vengeance - 9b1f2335.jpg

@@ -40,7 +40,7 @@ front:
   watermark: null
   flagLeft: ""
   flagRight: ""
-  power: "0"
+  power: "1"
   toughness: "0"
   showPT: true
   rarity: rare
@@ -74,4 +74,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Chaos Aberration - 1343b2a3.jpg
+  front: Chaos Aberration - 36b02251.jpg

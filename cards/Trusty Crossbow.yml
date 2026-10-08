@@ -1,0 +1,68 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: Trusty Crossbow
+  manaCost:
+    __type: ManaCost
+    symbols: "2"
+  artImage:
+    __type: image
+    width: 1136
+    height: 704
+    cropWidth: 850
+    cropHeight: 600
+    xOffset: 68
+    yOffset: 61
+  superType: Artifact
+  subType: Equipment
+  rulesText: >
+    Equipped creature gets +1/+0 and has retreat. (Whenever it becomes blocked,
+    you may return it to its owner's hand.)
+
+
+    Whenever equipped creature becomes tappped, it deals 1 damage to target
+    creature.
+
+
+    Equip {2}
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Clayscence
+  autoCollectorNumber: RA05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Trusty Crossbow - 98de21cd.jpg

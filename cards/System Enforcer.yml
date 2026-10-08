@@ -1,0 +1,66 @@
+front:
+  template: magic/M15/Main
+  colors: []
+  colorOverride: []
+  faceSymbol: null
+  name: System Enforcer
+  manaCost:
+    __type: ManaCost
+    symbols: "10"
+  artImage:
+    __type: image
+    width: 1024
+    height: 551
+    cropWidth: 781
+    cropHeight: 551
+    xOffset: 122
+    yOffset: 0
+  superType: Artifact Creature
+  subType: Construct
+  rulesText: >-
+    Rush {5} (You may cast this spell for {5} less. If you do, sacrifice it the
+    beginning of your next upkeep unless you pay {5}.)
+
+
+    When this creature dies, you may return it to the battlefield under your
+    control with a finality counter on it.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "7"
+  toughness: "7"
+  showPT: true
+  rarity: rare
+  illustrator: Aleksei Liakh
+  autoCollectorNumber: RA02
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: "15"
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags:
+  - wip
+imageExports:
+  front: System Enforcer - 3cf72b48.jpg

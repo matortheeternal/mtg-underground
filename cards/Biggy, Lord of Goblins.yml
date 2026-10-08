@@ -36,7 +36,7 @@ front:
   showPT: true
   rarity: rare
   illustrator: Armandeo64
-  autoCollectorNumber: RR01
+  autoCollectorNumber: RR04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -65,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Biggy, Lord of Goblins - 4c0e7908.jpg
+  front: Biggy, Lord of Goblins - fe330e62.jpg

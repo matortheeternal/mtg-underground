@@ -1,0 +1,77 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: u
+      name: blue
+      sources:
+        hybrid: true
+    - char: g
+      name: green
+      sources:
+        hybrid: true
+  colorOverride: []
+  faceSymbol: null
+  name: Chungus, Tremendous Toad
+  manaCost:
+    __type: ManaCost
+    symbols: 3U/G
+  artImage:
+    __type: image
+    width: 1041
+    height: 768
+    cropWidth: 869
+    cropHeight: 613
+    xOffset: 86
+    yOffset: 90
+  superType: Legendary Creature
+  subType: Frog
+  rulesText: >-
+    Climbing (This creature can't be blocked by creatures with greater
+    toughness.)
+
+
+    Escort (Whenever this creature attacks, target creature without escort
+    cannot be blocked this turn.)
+
+
+    Whenever a creature you control with climbing becomes blocked, put a +1/+1
+    counter on it.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: "3"
+  toughness: "3"
+  showPT: true
+  rarity: rare
+  illustrator: Duy Phan
+  autoCollectorNumber: RZ03
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Chungus, Tremendous Toad - 2757a757.jpg

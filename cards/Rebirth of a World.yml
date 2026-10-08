@@ -14,7 +14,7 @@ front:
   name: Rebirth of a World
   manaCost:
     __type: ManaCost
-    symbols: G/WG/W
+    symbols: 2G/WG/W
   artImage:
     __type: image
     width: 827
@@ -37,7 +37,7 @@ front:
   showPT: ""
   rarity: rare
   illustrator: Art of Reza
-  autoCollectorNumber: RZ08
+  autoCollectorNumber: RZ10
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Rebirth of a World - b6f8e78b.jpg
+  front: Rebirth of a World - 5e026a0a.jpg

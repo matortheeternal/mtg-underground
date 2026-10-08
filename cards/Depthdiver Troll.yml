@@ -14,7 +14,7 @@ front:
   name: Depthdiver Troll
   manaCost:
     __type: ManaCost
-    symbols: 3U/BU/B
+    symbols: 2U/BU/B
   artImage:
     __type: image
     width: 894
@@ -30,18 +30,18 @@ front:
     many cards.)
 
 
-    {3}, {T}: Return target artifact or creature card from your graveyard to
-    your hand.
+    Whenever ~ attacks, you may return target artifact or creature card from
+    your graveyard to your hand.
   flavorText: null
   watermark: null
   flagLeft: ""
   flagRight: ""
   power: "5"
-  toughness: "5"
+  toughness: "4"
   showPT: true
   rarity: rare
   illustrator: Herckeim
-  autoCollectorNumber: RZ05
+  autoCollectorNumber: RZ04
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -70,4 +70,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Depthdiver Troll - 0867dfcc.jpg
+  front: Depthdiver Troll - 4822176b.jpg

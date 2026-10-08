@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Devastating Blow
+  manaCost:
+    __type: ManaCost
+    symbols: RR
+  artImage:
+    __type: image
+    width: 988
+    height: 809
+    cropWidth: 988
+    cropHeight: 697
+    xOffset: 0
+    yOffset: 39
+  superType: Instant
+  subType: ""
+  rulesText: Reveal a creature card from your hand. It deals damage equal to twice
+    its power to target creature an opponent controls. You may cast it for
+    {R}{R} less.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: rare
+  illustrator: Lozano
+  autoCollectorNumber: RR05
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Devastating Blow - b2525dd8.jpg

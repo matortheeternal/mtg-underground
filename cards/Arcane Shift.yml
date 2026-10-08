@@ -1,0 +1,65 @@
+front:
+  template: magic/M15/Main
+  colors:
+    - char: r
+      name: red
+      sources:
+        normal: true
+  colorOverride: []
+  faceSymbol: null
+  name: Arcane Shift
+  manaCost:
+    __type: ManaCost
+    symbols: 2RR
+  artImage:
+    __type: image
+    width: 700
+    height: 700
+    cropWidth: 700
+    cropHeight: 494
+    xOffset: 0
+    yOffset: 103
+  superType: Instant
+  subType: ""
+  rulesText: Exile target nonland permanent. Its controller reveals the top four
+    cards of their library, then they may choose a spell from among them. They
+    may cast that spell without paying its mana cost.
+  flavorText: null
+  watermark: null
+  flagLeft: ""
+  flagRight: ""
+  power: ""
+  toughness: ""
+  showPT: ""
+  rarity: mythic
+  illustrator: Petros Stefanidis
+  autoCollectorNumber: MR01
+  collectorNumber: ""
+  setCode: ""
+  language: ""
+  legalText: ""
+  showFooterOverrides: false
+  frame: auto
+  artSize: auto
+  crownStyle: auto
+  nyxStyle: auto
+  vehicleStyle: auto
+  snowStyle: auto
+  scrollsStyle: auto
+  draftStyle: auto
+  miracleStyle: auto
+  ubStyle: auto
+  hybridStyle: []
+  hybridBlendStyle: grey
+  meldStyle: none
+  otherFrameOptions:
+    avoidCoveringDevoid: true
+  chopTop: ""
+  chopBottom: ""
+  maxFontSize: ""
+  centerText: never
+  citationStyle: italic
+notes: ""
+tags: []
+imageExports:
+  front: Arcane Shift - e88a2fd1.jpg
