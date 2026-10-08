@@ -57,18 +57,18 @@ pack:
         weight: 1
     collation: runs
   - label: Uncommons
-    count: "4"
+    count: "3"
     pool:
       - expression: r=u -t:land
         weight: 1
     collation: runs
   - label: Rares and Mythics
-    count: "0"
+    count: "1"
     pool:
       - expression: r=r -t:land
-        weight: 1
+        weight: "2"
       - expression: r=m -t:land
-        weight: 1
+        weight: "1"
     collation: sheet
   - label: Land
     count: 1
