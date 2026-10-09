@@ -25,9 +25,8 @@ front:
     Kicker {2}{U} (You may pay an additional {2}{U} when you cast this spell.)
 
 
-    When this creature enters, if it was kicked, draw three cards, discard a
-    card, and put a +1/+1 counter on it. Otherwise, draw a card, then discard a
-    card.
+    When this creature enters, if it was kicked, draw two cards, discard a card,
+    and put a +1/+1 counter on it. Otherwise, draw a card, then discard a card.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +65,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Sage of the Spores - 5b9dddf1.jpg
+  front: Sage of the Spores - d628bba3.jpg

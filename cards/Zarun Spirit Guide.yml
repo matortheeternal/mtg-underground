@@ -21,13 +21,13 @@ front:
     yOffset: 0
   superType: Creature
   subType: Human Shaman Warrior
-  rulesText: >-
+  rulesText: >
+    Retreat (Whenever this creature becomes blocked, you may return it to its
+    owner's hand.)
+
+
     Escort (Whenever this creature attacks, target attacking creature without
     escort can't be blocked this turn.)
-
-
-    When this creature enters, you may exile another target creature, then
-    return it to the battlefield under its owner's control.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -66,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Zarun Spirit Guide - e2f70a0c.jpg
+  front: Zarun Spirit Guide - aec00338.jpg
