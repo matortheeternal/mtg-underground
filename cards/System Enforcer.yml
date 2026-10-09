@@ -60,7 +60,6 @@ front:
   centerText: never
   citationStyle: italic
 notes: ""
-tags:
-  - wip
+tags: []
 imageExports:
   front: System Enforcer - 3cf72b48.jpg

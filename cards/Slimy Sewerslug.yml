@@ -34,8 +34,8 @@ front:
     toughness.)
 
 
-    When this creature enters, you may destroy target creature with barrier or
-    retreat.
+    When this creature enters, you may destroy target artifact creature, or
+    target creature with barrier or retreat.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -67,11 +67,11 @@ front:
   otherFrameOptions:
     avoidCoveringDevoid: true
   chopTop: ""
-  chopBottom: "15"
+  chopBottom: ""
   maxFontSize: ""
   centerText: never
   citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Slimy Sewerslug - d8d520e3.jpg
+  front: Slimy Sewerslug - d1419dd0.jpg

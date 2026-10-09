@@ -26,7 +26,8 @@ front:
     many cards.)
 
 
-    When this creature enters, each opponent sacrifices two creatures.
+    When this creature enters or dies, each opponent sacrifices two permanents
+    and loses 2 life.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -65,4 +66,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Many-legged Death - 4c743dff.jpg
+  front: Many-legged Death - ace4fb5f.jpg
