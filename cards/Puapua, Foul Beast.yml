@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: 2GG
+  alias: null
   artImage:
     __type: image
     width: 1033
@@ -22,7 +23,8 @@ front:
   superType: Legendary Creature
   subType: Fungus Beast
   rulesText: >-
-    Whenever a creature you control is dealt damage, put a +1/+1 counter on it.
+    At the beginning of combat on your turn, @ deals 1 damage to each creature
+    you control. Put a +1/+1 counter on each of them.
 
 
     {X}{G}{G}, {T}: Return target creature card with mana value X or less from
@@ -57,8 +59,10 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
-  chopBottom: ""
+  chopBottom: "15"
   maxFontSize: ""
   centerText: never
   citationStyle: italic
