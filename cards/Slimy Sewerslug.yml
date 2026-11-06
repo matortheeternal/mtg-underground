@@ -15,6 +15,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: 2B/GB/G
+  alias: null
   artImage:
     __type: image
     width: 700
@@ -44,8 +45,8 @@ front:
   toughness: "2"
   showPT: true
   rarity: rare
-  illustrator: ""
-  autoCollectorNumber: RZ05
+  illustrator: Lizzy John
+  autoCollectorNumber: RZ06
   collectorNumber: ""
   setCode: ""
   language: ""
@@ -66,6 +67,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -74,4 +77,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Slimy Sewerslug - 9d5a27f9.jpg
+  front: Slimy Sewerslug - 66454283.jpg

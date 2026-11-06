@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: 2G
+  alias: null
   artImage:
     __type: image
     width: 1668
@@ -22,12 +23,12 @@ front:
   superType: Creature
   subType: Lizard Fungus Shaman
   rulesText: >-
-    Whenever a creature you control enters, put an egg counter on ~.
+    Whenever a nontoken creature you control enters, put an egg counter on this
+    creature.
 
 
-    When ~ dies, you may search your library for a creature card with mana value
-    X or less, where X is the number of egg counters on ~. Put that creature
-    card into play, then shuffle.
+    The first creature spell you cast each turn costs {X} less to cast, where X
+    is the number of egg counters on this creature.
   flavorText: null
   watermark: null
   flagLeft: ""
@@ -36,7 +37,7 @@ front:
   toughness: "3"
   showPT: true
   rarity: rare
-  illustrator: ""
+  illustrator: Davide Turini
   autoCollectorNumber: RG03
   collectorNumber: ""
   setCode: ""
@@ -58,6 +59,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -66,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Viashino Eggtender - 59e7a383.jpg
+  front: Viashino Eggtender - 8ea854bf.jpg

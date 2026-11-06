@@ -15,6 +15,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: B/WB/W
+  alias: null
   artImage:
     __type: image
     width: 887
@@ -46,7 +47,7 @@ front:
   toughness: "1"
   showPT: true
   rarity: rare
-  illustrator: Turoxd02
+  illustrator: Davide Turini
   autoCollectorNumber: RZ02
   collectorNumber: ""
   setCode: ""
@@ -68,6 +69,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -76,4 +79,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Toll Taker - b875c142.jpg
+  front: Toll Taker - 2b6e9b36.jpg

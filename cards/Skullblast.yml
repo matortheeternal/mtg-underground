@@ -6,10 +6,12 @@ front:
       sources:
         normal: true
   colorOverride: []
+  faceSymbol: null
   name: Skullblast
   manaCost:
     __type: ManaCost
     symbols: 1R
+  alias: null
   artImage:
     __type: image
     width: 1192
@@ -20,22 +22,22 @@ front:
     yOffset: 0
   superType: Instant
   subType: ""
+  rulesText: ~ deals 3 damage to any target. Damage dealt this way can't be prevented.
+  flavorText: null
+  watermark: null
   flagLeft: ""
   flagRight: ""
   power: ""
   toughness: ""
   showPT: ""
   rarity: common
-  illustrator: Turoxd02
+  illustrator: Davide Turini
   autoCollectorNumber: CR16
   collectorNumber: ""
   setCode: ""
   language: ""
   legalText: ""
   showFooterOverrides: false
-  faceSymbol: null
-  rulesText: ~ deals 3 damage to any target. Damage dealt this way can't be prevented.
-  flavorText: null
   frame: auto
   artSize: auto
   crownStyle: auto
@@ -51,11 +53,14 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
   centerText: never
+  citationStyle: italic
 notes: ""
 tags: []
 imageExports:
-  front: Skullblast - 015e9ffa.jpg
+  front: Skullblast - fa7f80ab.jpg

@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: WW
+  alias: null
   artImage:
     __type: image
     width: 1860
@@ -38,7 +39,7 @@ front:
   toughness: "1"
   showPT: true
   rarity: rare
-  illustrator: ""
+  illustrator: Manthos Lappas
   autoCollectorNumber: RW02
   collectorNumber: ""
   setCode: ""
@@ -60,6 +61,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -68,4 +71,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Silaksamar, Pure Blade - 41d48b4e.jpg
+  front: Silaksamar, Pure Blade - 435dad96.jpg

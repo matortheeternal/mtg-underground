@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: 3GG
+  alias: null
   artImage:
     __type: image
     width: 700
@@ -31,7 +32,7 @@ front:
   toughness: ""
   showPT: ""
   rarity: mythic
-  illustrator: ""
+  illustrator: Davide Turini
   autoCollectorNumber: MG02
   collectorNumber: ""
   setCode: ""
@@ -53,6 +54,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -61,4 +64,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Entrance to Eternity - 02f1519e.jpg
+  front: Entrance to Eternity - e1fd6f57.jpg
