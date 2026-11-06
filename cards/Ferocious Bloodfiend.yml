@@ -4,17 +4,18 @@ front:
     - char: r
       name: red
       sources:
-        normal: true
+        hybrid: true
     - char: g
       name: green
       sources:
-        normal: true
+        hybrid: true
   colorOverride: []
   faceSymbol: null
   name: Ferocious Bloodfiend
   manaCost:
     __type: ManaCost
-    symbols: 1RG
+    symbols: 1R/GR/G
+  alias: null
   artImage:
     __type: image
     width: 1024
@@ -62,6 +63,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -70,4 +73,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Ferocious Bloodfiend - fcf1605b.jpg
+  front: Ferocious Bloodfiend - 1fc82f2e.jpg

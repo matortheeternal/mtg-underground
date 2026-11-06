@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: R
+  alias: null
   artImage:
     __type: image
     width: 827
@@ -36,7 +37,7 @@ front:
   toughness: "1"
   showPT: true
   rarity: rare
-  illustrator: ""
+  illustrator: Felipe Pérez
   autoCollectorNumber: RR01
   collectorNumber: ""
   setCode: ""
@@ -58,6 +59,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -66,4 +69,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Madcap Maniac - 4ddaf511.jpg
+  front: Madcap Maniac - bc369b9d.jpg
