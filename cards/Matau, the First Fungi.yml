@@ -27,9 +27,9 @@ front:
     you control, and counters are modifications.)
 
 
-    {X}{G}, Discard a creature card: Search your library for a creature with
-    mana value X, put it onto the battlefield tapped, then shuffle. Spend only
-    green mana on this ability.
+    {X}{G}, Discard a creature card: Search your library for a creature card
+    with mana value X, put it onto the battlefield tapped, then shuffle. Spend
+    only green mana on this ability.
   flavorText: null
   watermark: null
   flagLeft: ""
