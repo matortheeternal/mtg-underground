@@ -22,8 +22,8 @@ front:
     yOffset: 82
   superType: Artifact
   subType: ""
-  rulesText: At the end of your turn, shuffle your graveyard and your hand into
-    your library, then draw three cards.
+  rulesText: At the beginning of each player's end step, that player shuffles
+    their graveyard and hand into their library, then draws three cards.
   flavorText: null
   watermark: null
   flagLeft: ""
