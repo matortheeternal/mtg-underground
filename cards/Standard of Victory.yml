@@ -11,6 +11,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: 1W
+  alias: null
   artImage:
     __type: image
     width: 1024
@@ -22,8 +23,8 @@ front:
   superType: Artifact
   subType: Equipment
   rulesText: >-
-    Whenever equipped creature attacks, other attacking creatures you control
-    get +1/+1 until end of turn.
+    Whenever equipped creature attacks, attacking creatures you control get
+    +1/+1 until end of turn.
 
 
     Equip {2}
@@ -57,6 +58,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
@@ -65,4 +68,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Standard of Victory - e84d2a6e.jpg
+  front: Standard of Victory - 8762a9e0.jpg

@@ -27,8 +27,8 @@ front:
   superType: Legendary Creature
   subType: Fungus Beast
   rulesText: >-
-    At the beginning of combat on your turn, @ deals 1 damage to each creature
-    you control.  Put a +1/+1 counter on each of them.
+    At the beginning of combat on your turn, @ deals 1 damage to each other
+    creature you control.  Put a +1/+1 counter on each of them.
 
 
     {G}{G}, {T}: Put two +1/+1 counters on target land you control. It becomes a
@@ -38,7 +38,7 @@ front:
   flagLeft: ""
   flagRight: ""
   power: "4"
-  toughness: "4"
+  toughness: "3"
   showPT: true
   rarity: rare
   illustrator: Ormirian
@@ -73,4 +73,4 @@ front:
 notes: ""
 tags: []
 imageExports:
-  front: Puapua, Foul Beast - 4bfbbde6.jpg
+  front: Puapua, Foul Beast - 3ee6f9b3.jpg
