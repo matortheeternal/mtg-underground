@@ -7,6 +7,7 @@ front:
   manaCost:
     __type: ManaCost
     symbols: "2"
+  alias: null
   artImage:
     __type: image
     width: 1136
@@ -22,8 +23,7 @@ front:
     you may return it to its owner's hand.)
 
 
-    Whenever equipped creature becomes tappped, it deals 1 damage to target
-    creature.
+    Whenever equipped creature becomes tapped, it deals 1 damage to any target.
 
 
     Equip {2}
@@ -57,6 +57,8 @@ front:
   meldStyle: none
   otherFrameOptions:
     avoidCoveringDevoid: true
+  borderColor: null
+  symbolOrder: standard
   chopTop: ""
   chopBottom: ""
   maxFontSize: ""
